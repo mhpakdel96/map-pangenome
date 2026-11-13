@@ -1,0 +1,67 @@
+genomes with read results: 1747 of 1747 in read_paths.tsv
+K-10 read depth: median 53.1, p5 17.2, p95 189.5; flagged (depth < 15.0 or breadth < 95%): 55
+
+PART 1 — presence calls on 4813 clusters (>= 250 bp), 1747 genomes
+call                            core soft_core     shell     cloud    absent    gamma
+union80 (assembly)              4494       114        74       126         5    0.0032
+reads                           4350       182       178       103         0    0.0016
+reads, unflagged genomes        4417       136       157       103         0    0.0022
+agreement union80 vs reads: 98.61% of cells | union80 1 & reads 0: 0.60% | union80 0 & reads 1: 0.80%
+genes per genome vs assembly/read quality (Spearman):
+  union80  all genes: N50 +0.541  depth +0.527 | accessory: N50 +0.508  depth +0.489
+  reads    all genes: N50 +0.579  depth +0.742 | accessory: N50 +0.578  depth +0.742
+
+PART 2 — negative control within studies (Fisher, Bonferroni per study); significant / tested
+study            n   N50 split: union80              reads   depth split: union80              reads
+PRJNA925907    425          0 of 93              9 of 151             8 of 93             23 of 151    
+PRJNA686527    318          8 of 177            20 of 356             7 of 177            39 of 356    
+PRJNA632696    208         12 of 546            45 of 435             7 of 546            36 of 435    
+PRJNA739165    189         39 of 455            31 of 370            28 of 455            36 of 370    
+PRJEB43898     154          5 of 410            71 of 900             4 of 410            94 of 900    
+PRJNA841672    133         34 of 223            11 of 325             1 of 223            12 of 325    
+PRJNA274491     86         13 of 388            25 of 584             4 of 388            19 of 584    
+PRJNA725521     76          4 of 90              0 of 212             4 of 90              1 of 212    
+TOTAL                               115                 212                  63                 260
+
+PART 3 — mixture index at core SNP sites (depth >= 10, minor allele >= 0.2)
+mixed sites per genome: median 0, p95 6, max 299
+  genomes with >=   5 mixed sites: 114
+  genomes with >=  20 mixed sites: 13
+  genomes with >=  50 mixed sites: 2
+  genomes with >= 200 mixed sites: 1
+  top 10:
+             mixed_sites  sites_dp_ok     depth    n50        study
+SRR11838934          299         6544   24.8531  43573  PRJNA632696
+SRR25024347           79         6485   28.8528   6289  PRJNA986832
+SRR19394941           46         6551   44.3152  35339  PRJNA841672
+SRR11839074           42         6551   75.7776  73354  PRJNA632696
+SRR29477242           42         6551  158.5110  92470  PRJNA925907
+SRR11838988           41         6549   30.4577  50128  PRJNA632696
+ERR6415256            33         6379   23.3412  38868   PRJEB43898
+ERR6415265            33         5859   21.3571  33832   PRJEB43898
+SRR23179803           32         6551   81.6292  90835  PRJNA925907
+SRR11838954           26         6551   58.6951  91778  PRJNA632696
+
+PART 4 — homoplastic SNP sites: ALT allele fraction from reads
+               variant  alt_carriers_called  median_af_carriers  carriers_mixed(0.2-0.8)  carriers_af<0.2  noncarriers_af>=0.2  noncarriers_af>=0.8                                                                                  locus
+AE016958.1_3836994_G_A                   61                 1.0                        1                0                    2                    0                   BDOFFIBO_03659 icd_2 | Isocitrate dehydrogenase [NADP] | codon pos 3
+AE016958.1_4090308_G_A                   61                 1.0                        1                0                    1                    0                                   BDOFFIBO_03891  | hypothetical protein | codon pos 1
+AE016958.1_3312429_G_C                 1119                 1.0                        3                0                    0                    0            BDOFFIBO_03146  | putative HTH-type transcriptional regulator | codon pos 3
+AE016958.1_4137756_A_G                 1672                 1.0                        0                0                    0                    0                                   BDOFFIBO_03929  | hypothetical protein | codon pos 3
+ AE016958.1_727766_A_G                  160                 1.0                        3                0                    5                    0                                    BDOFFIBO_00745  | Cytochrome P450-SU2 | codon pos 2
+AE016958.1_1598806_C_T                  147                 1.0                        2                0                    5                    0                                   BDOFFIBO_01537  | hypothetical protein | codon pos 3
+  AE016958.1_93248_T_G                  176                 1.0                        1                0                    4                    0                                   BDOFFIBO_00088  | hypothetical protein | codon pos 2
+AE016958.1_2183785_C_T                  172                 1.0                        2                0                    4                    0   BDOFFIBO_02080 cmoM_3 | tRNA 5-carboxymethoxyuridine methyltransferase | codon pos 1
+ AE016958.1_374739_T_C                  576                 1.0                        0                0                    3                    0             BDOFFIBO_00370 ord_2 | 2%2C4-diaminopentanoate dehydrogenase | codon pos 3
+AE016958.1_1575470_T_C                  580                 1.0                        0                0                    3                    0                BDOFFIBO_01515 hapE | 4-hydroxyacetophenone monooxygenase | codon pos 1
+AE016958.1_1652200_T_C                  575                 1.0                        0                0                    4                    0                                   BDOFFIBO_01586  | hypothetical protein | codon pos 2
+AE016958.1_1856742_T_C                  584                 1.0                        0                0                    1                    0                                            between BDOFFIBO_01787  and BDOFFIBO_01788 
+AE016958.1_2704641_A_G                  586                 1.0                        1                0                    3                    0                         BDOFFIBO_02543 fabG2_4 | putative oxidoreductase | codon pos 1
+AE016958.1_2992754_C_G                 1216                 1.0                        5                0                    2                    0      BDOFFIBO_02801 fbiB_2 | Bifunctional F420 biosynthesis protein FbiB | codon pos 2
+AE016958.1_4655825_G_A                   57                 1.0                        1                0                    2                    0                          BDOFFIBO_04426 rplO | 50S ribosomal protein L15 | codon pos 2
+AE016958.1_2331942_C_T                  186                 1.0                        2                0                    1                    0                    BDOFFIBO_02213 napA_2 | Periplasmic nitrate reductase | codon pos 2
+ AE016958.1_529627_C_G                 1177                 1.0                        4                0                    1                    0            BDOFFIBO_00530 aspC_1 | Aspartate/prephenate aminotransferase | codon pos 3
+AE016958.1_4407652_G_A                   39                 1.0                        0                0                    1                    0                      BDOFFIBO_04167 mmpL4_9 | Siderophore exporter MmpL4 | codon pos 3
+AE016958.1_2298328_C_G                  591                 1.0                        0                0                    2                    0                                      BDOFFIBO_02187 pepE_2 | Peptidase E | codon pos 1
+AE016958.1_2923499_G_A                  596                 1.0                        1                0                    2                    0                                   BDOFFIBO_02739  | hypothetical protein | codon pos 1
+AE016958.1_3449091_G_A                   65                 1.0                        1                0                    2                    0 BDOFFIBO_03274 nrdE | Ribonucleoside-diphosphate reductase subunit alpha | codon pos 1

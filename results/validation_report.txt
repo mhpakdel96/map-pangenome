@@ -1,0 +1,37 @@
+cohort: 1792 genomes
+groups: C clade D 1160, C basal grade 509, S/Type I 99, Bison 18, S/Type III 6
+regions: Americas 965, Europe 548, Oceania 258, Other/unknown 21
+clade-D denominator: 1669 genomes (C lineage, excluding Bison); by region: Americas 953, Europe 545, Oceania 158, Other/unknown 13
+
+PART 1  MIXED SAMPLES (flagged at >= 20 mixed core SNP sites)
+  flagged genomes: 13
+                 cohort  n_genomes  n_clade_D  clade_D_two_snp_concordance  clade_D_n_called  S_panel_concordance  S_panel_n_called  pct_Americas_in_clade_D  n_Americas_C  pct_Europe_in_clade_D  n_Europe_C  pct_Oceania_in_clade_D  n_Oceania_C
+   with flagged genomes       1792       1160                          1.0              1792                  1.0              1792                    96.33           953                   15.6         545                   94.94          158
+without flagged genomes       1779       1152                          1.0              1779                  1.0              1779                    96.32           950                   15.4         539                   95.45          154
+  change after dropping: clade_D_two_snp_concordance +0.00, S_panel_concordance +0.00, pct_Americas_in_clade_D -0.01, pct_Europe_in_clade_D -0.20, pct_Oceania_in_clade_D +0.51
+  If any of these move materially, re-infer the tree without the flagged genomes:
+    sbatch 13_snippy_core.sbatch  # with the reduced cohort list
+    sbatch 14_gubbins_iqtree.sbatch
+
+PART 2  GEOGRAPHIC AND STUDY COMPOSITION (100 replicates, seed 20261110)
+  balancing by region at 158 genomes per level (3 levels), pool = 1669 C-lineage genomes
+    [!] taken in full, so fixed by construction and with no spread: Oceania
+    frac_clade_D                       median 0.69  2.5-97.5% 0.68-0.71
+    clade_D_two_snp_concordance        median 1.00  2.5-97.5% 1.00-1.00
+    pct_Americas_in_clade_D            median 96.20  2.5-97.5% 93.67-98.73
+    pct_Europe_in_clade_D              median 15.82  2.5-97.5% 12.03-19.62
+    pct_Oceania_in_clade_D             median 94.94  2.5-97.5% 94.94-94.94
+  balancing by study at 30 genomes per level (11 levels), pool = 1669 C-lineage genomes
+    [!] taken in full, so fixed by construction and with no spread: assembly, PRJNA306363
+    frac_clade_D                       median 0.68  2.5-97.5% 0.67-0.70
+    clade_D_two_snp_concordance        median 1.00  2.5-97.5% 1.00-1.00
+    pct_Americas_in_clade_D            median 93.08  2.5-97.5% 90.57-94.97
+    pct_Europe_in_clade_D              median 30.89  2.5-97.5% 27.59-34.83
+    pct_Oceania_in_clade_D             median 97.06  2.5-97.5% 90.10-100.00
+
+PART 3  PANGENOME ON BALANCED SUBSAMPLES (three-state read calls)
+  balancing by region at 250 genomes per level, pool = 1745 genomes of all lineages with read-based calls
+    gamma       median 0.0005  2.5-97.5% 0.0002-0.0028
+    accessory   median 172  2.5-97.5% 167-184
+
+written: /cfs/earth/scratch/tabasran/MAP/12_validation/sensitivity

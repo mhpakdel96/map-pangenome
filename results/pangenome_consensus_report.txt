@@ -1,0 +1,25 @@
+kept clusters 5312 (of which < 250 bp: 499) | genomes 1792 (N50 >= 30000: 1469)
+
+Spearman of genes per genome with N50 (all genomes | N50 >= 30000 only); closer to 0 = less tied to assembly quality
+call             all genes       accessory*      accessory, HQ median genes
+ann                 -0.828           -0.847             -0.745         4398
+dna80               +0.795           +0.799             +0.766         4747
+dna50               +0.681           +0.676             +0.627         4800
+union80             +0.089           +0.008             -0.079         4931
+union50             -0.125           -0.254             -0.129         4956
+* accessory = not core (< 99%) under that call
+
+category counts (kept clusters; 'absent' = in no genome under that call)
+call           core soft_core     shell     cloud    absent   gamma   P(1792)
+ann            4167       113       169       863         0   0.0287  5312
+dna80          4174       360       237       199       342   0.0051  4970
+dna50          4571       142        97       160       342   0.0041  4970
+union80        4703       140       106       363         0   0.0108  5312
+union50        4804        81        83       344         0   0.0102  5312
+
+same, clusters >= 250 bp only
+ann            3977       108       138       590         0   0.0210  4813
+dna80          4059       351       224       179         0   0.0043  4813
+dna50          4456       133        84       140         0   0.0035  4813
+union80        4479       128        75       131         0   0.0037  4813
+union50        4580        69        52       112         0   0.0017  4813

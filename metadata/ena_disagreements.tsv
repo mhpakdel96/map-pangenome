@@ -1,0 +1,3293 @@
+accession	field	current	ena
+SRR13395907	isolation_source	Tissue & Gut	Whole herd pool #3 (1-103)
+SRR13395853	isolation_source	Tissue & Gut	TNTC # 201
+SRR13395923	isolation_source	Tissue & Gut	Tissue IC Valve
+SRR11839144	isolation_source	Tissue & Gut	Tissue
+SRR11839143	isolation_source	Tissue & Gut	Tissue
+SRR11839141	isolation_source	Tissue & Gut	Tissue
+SRR11839131	isolation_source	Tissue & Gut	Tissue
+SRR11839129	isolation_source	Tissue & Gut	Tissue
+SRR11839128	isolation_source	Tissue & Gut	Tissue
+SRR11839115	isolation_source	Tissue & Gut	Tissue
+SRR11839100	isolation_source	Tissue & Gut	Tissue
+SRR11839099	isolation_source	Tissue & Gut	Tissue
+SRR11839098	isolation_source	Tissue & Gut	Tissue
+SRR11839097	isolation_source	Tissue & Gut	Tissue
+SRR11839096	isolation_source	Tissue & Gut	Tissue
+SRR11839095	isolation_source	Tissue & Gut	Tissue
+SRR11839094	isolation_source	Tissue & Gut	Tissue
+SRR11839093	isolation_source	Tissue & Gut	Tissue
+SRR11839082	isolation_source	Tissue & Gut	Tissue
+SRR11839079	isolation_source	Tissue & Gut	Tissue
+SRR11839060	isolation_source	Tissue & Gut	Tissue
+SRR11839056	isolation_source	Tissue & Gut	Tissue
+SRR11839041	isolation_source	Tissue & Gut	Tissue
+SRR11839037	isolation_source	Tissue & Gut	Tissue
+SRR11839011	isolation_source	Tissue & Gut	Tissue
+SRR11839010	isolation_source	Tissue & Gut	Tissue
+SRR11839009	isolation_source	Tissue & Gut	Tissue
+SRR11839002	isolation_source	Tissue & Gut	Tissue
+SRR11839001	isolation_source	Tissue & Gut	Tissue
+SRR11838948	isolation_source	Tissue & Gut	Tissue
+SRR11838946	isolation_source	Tissue & Gut	Tissue
+SRR11838944	isolation_source	Tissue & Gut	Tissue
+SRR11838942	isolation_source	Tissue & Gut	Tissue
+SRR13396015	isolation_source	Farm Environment	tie stall 2
+SRR13395998	isolation_source	Feces	Super shedder #316
+SRR13395999	isolation_source	Feces	Super shedder #315
+SRR13396000	isolation_source	Feces	Super shedder #314
+ERR4560345	isolation_source	Feces	stool
+ERR4560344	isolation_source	Feces	stool
+ERR4560343	isolation_source	Feces	stool
+ERR4560342	isolation_source	Feces	stool
+ERR4560341	isolation_source	Feces	stool
+ERR4560340	isolation_source	Feces	stool
+ERR4560339	isolation_source	Feces	stool
+ERR4560337	isolation_source	Feces	stool
+ERR4560336	isolation_source	Feces	stool
+ERR4560335	isolation_source	Feces	stool
+ERR4560334	isolation_source	Feces	stool
+ERR4560333	isolation_source	Feces	stool
+ERR4560332	isolation_source	Feces	stool
+ERR4560331	isolation_source	Feces	stool
+ERR4560330	isolation_source	Feces	stool
+ERR4560329	isolation_source	Feces	stool
+ERR4560328	isolation_source	Feces	stool
+ERR4560327	isolation_source	Feces	stool
+ERR4560326	isolation_source	Feces	stool
+ERR4560325	isolation_source	Feces	stool
+ERR4560324	isolation_source	Feces	stool
+ERR4560322	isolation_source	Feces	stool
+ERR4560320	isolation_source	Feces	stool
+ERR4560319	isolation_source	Feces	stool
+ERR4560318	isolation_source	Feces	stool
+ERR4560316	isolation_source	Feces	stool
+ERR4560315	isolation_source	Feces	stool
+ERR4560314	isolation_source	Feces	stool
+ERR4560313	isolation_source	Feces	stool
+ERR4560311	isolation_source	Feces	stool
+ERR4560310	isolation_source	Feces	stool
+ERR4560309	isolation_source	Feces	stool
+ERR4560307	isolation_source	Feces	stool
+ERR4560306	isolation_source	Feces	stool
+ERR4560305	isolation_source	Feces	stool
+ERR4560304	isolation_source	Feces	stool
+ERR4560303	isolation_source	Feces	stool
+SRR13395995	isolation_source	Farm Environment	slurry
+SRR13395973	isolation_source	Farm Environment	slurry
+SRR13395962	isolation_source	Farm Environment	slurry
+SRR13395938	isolation_source	Farm Environment	slurry
+SRR13395984	isolation_source	Farm Environment	sick cow
+SRR13395845	isolation_source	Feces	sample 159
+SRR13395723	isolation_source	Feces	sample 100
+SRR13395896	isolation_source	Feces	sample #96
+SRR13395892	isolation_source	Feces	sample #69
+SRR13395895	isolation_source	Feces	sample #53
+SRR13395893	isolation_source	Feces	sample #122
+SRR14335523	isolation_source	Farm Environment	Pit grab sample
+SRR13395941	isolation_source	Farm Environment	pit
+SRR13396031	isolation_source	Farm Environment	pen 3, West side
+SRR13395844	isolation_source	Farm Environment	pen 3, West side
+SRR13395757	isolation_source	Farm Environment	pen 3, West side
+SRR13395749	isolation_source	Farm Environment	pen 3, West side
+SRR13395733	isolation_source	Farm Environment	pen 3, West side
+SRR13395809	isolation_source	Farm Environment	pen 3, East side
+SRR13395814	isolation_source	Farm Environment	pen 2, West side
+SRR13395792	isolation_source	Farm Environment	pen 2, West side
+SRR13395785	isolation_source	Farm Environment	pen 2, West side
+SRR13395759	isolation_source	Farm Environment	pen 2, West side
+SRR14335484	isolation_source	Farm Environment	Pen 2 West
+SRR13395870	isolation_source	Farm Environment	pen 2 scraping along freestall base
+SRR13395880	isolation_source	Farm Environment	pen 2 alley, East side
+SRR13395825	isolation_source	Farm Environment	pen 2
+SRR13395752	isolation_source	Farm Environment	pen 1, West side
+SRR13395808	isolation_source	Farm Environment	pen 1, East side
+SRR13395770	isolation_source	Farm Environment	pen 1, East side
+SRR13395763	isolation_source	Farm Environment	pen 1, East side
+SRR13395735	isolation_source	Farm Environment	pen 1, East side
+SRR13395732	isolation_source	Farm Environment	pen 1, East side
+SRR14335483	isolation_source	Farm Environment	Pen 1 W
+SRR13395881	isolation_source	Farm Environment	pen 1 alley, East side
+SRR13395965	isolation_source	Farm Environment	pen 1
+SRR13395961	isolation_source	Farm Environment	pen 1
+SRR13395849	isolation_source	Farm Environment	Pen 1
+SRR13395750	isolation_source	Farm Environment	pen 1
+SRR14335499	isolation_source	Farm Environment	Old freestall, Pen 2 E side
+SRR13396032	isolation_source	Farm Environment	old free stall pen 2 E side
+SRR13395790	isolation_source	Farm Environment	old free stall pen 2 E side
+SRR13395753	isolation_source	Farm Environment	old free stall pen 2 E side
+SRR13395747	isolation_source	Farm Environment	old free stall pen 2 E side
+SRR13395731	isolation_source	Farm Environment	old free stall pen 2 E side
+SRR13396001	isolation_source	Farm Environment	Milking alleyway
+SRR13395964	isolation_source	Farm Environment	Milking alleyway
+SRR13395960	isolation_source	Farm Environment	Milking alleyway
+SRR13395940	isolation_source	Farm Environment	Milking alleyway
+SRR13396017	isolation_source	Lymph Node	mes Lymph node 4
+SRR13395921	isolation_source	Farm Environment	manure ramp
+SRR13395843	isolation_source	Farm Environment	manure pit, out
+SRR13395859	isolation_source	Farm Environment	manure pit by agitator (W quadrant)
+SRR13395842	isolation_source	Farm Environment	manure pit by agitator (W quadrant)
+SRR13395812	isolation_source	Farm Environment	manure pit by agitator (W quadrant)
+SRR13395791	isolation_source	Farm Environment	manure pit by agitator (W quadrant)
+SRR13395784	isolation_source	Farm Environment	manure pit by agitator (W quadrant)
+SRR13395813	isolation_source	Farm Environment	manure pit (SW quadrant)
+SRR13395793	isolation_source	Farm Environment	manure pit (SW quadrant)
+SRR13395716	isolation_source	Farm Environment	manure pit (SW quadrant)
+SRR13396030	isolation_source	Farm Environment	manure pit (N quadrant)
+SRR13396026	isolation_source	Farm Environment	manure pit (N quadrant)
+SRR13395878	isolation_source	Farm Environment	manure pit (N quadrant)
+SRR13395873	isolation_source	Farm Environment	manure pit (N quadrant)
+SRR13395782	isolation_source	Farm Environment	manure pit (N quadrant)
+SRR13395837	isolation_source	Lymph Node	"Lymph node 2 ""B"""
+SRR13395840	isolation_source	Lymph Node	"Lymph node 2 ""A"""
+SRR13396019	isolation_source	Lymph Node	lymph node 2
+SRR13396013	isolation_source	Lymph Node	lymph node 2
+SRR13396008	isolation_source	Lymph Node	lymph node 2
+SRR13395997	isolation_source	Lymph Node	lymph node 2
+SRR13395993	isolation_source	Lymph Node	Lymph node 2
+SRR13395990	isolation_source	Lymph Node	Lymph node 2
+SRR13395979	isolation_source	Lymph Node	Lymph node 2
+SRR13395977	isolation_source	Lymph Node	Lymph node 2
+SRR13395936	isolation_source	Lymph Node	Lymph node 2
+SRR13395933	isolation_source	Lymph Node	Lymph node 2
+SRR13395914	isolation_source	Lymph Node	Lymph node 2
+SRR13395909	isolation_source	Lymph Node	Lymph node 2
+SRR13395901	isolation_source	Lymph Node	Lymph node 2
+SRR13395898	isolation_source	Lymph Node	Lymph node 2
+SRR13395884	isolation_source	Lymph Node	Lymph node 2
+SRR13395838	isolation_source	Lymph Node	lymph node 2
+SRR13395832	isolation_source	Lymph Node	Lymph node 2
+SRR13395829	isolation_source	Lymph Node	Lymph node 2
+SRR13395794	isolation_source	Lymph Node	lymph node 2
+SRR13395783	isolation_source	Lymph Node	lymph node 2
+SRR13395769	isolation_source	Lymph Node	Lymph node 2
+SRR13395768	isolation_source	Lymph Node	Lymph node 2
+SRR13395767	isolation_source	Lymph Node	Lymph node 2
+SRR13395739	isolation_source	Lymph Node	lymph node 2
+SRR13396014	isolation_source	Lymph Node	lymph node 1
+SRR13396012	isolation_source	Lymph Node	lymph node 1
+SRR13396009	isolation_source	Lymph Node	lymph node 1
+SRR13396004	isolation_source	Lymph Node	lymph node 1
+SRR13395992	isolation_source	Lymph Node	Lymph node 1
+SRR13395985	isolation_source	Lymph Node	Lymph node 1
+SRR13395947	isolation_source	Lymph Node	Lymph node 1
+SRR13395946	isolation_source	Lymph Node	Lymph node 1
+SRR13395939	isolation_source	Lymph Node	Lymph node 1
+SRR13395934	isolation_source	Lymph Node	Lymph node 1
+SRR13395932	isolation_source	Lymph Node	Lymph node 1
+SRR13395927	isolation_source	Lymph Node	lymph node 1
+SRR13395888	isolation_source	Lymph Node	Lymph node 1
+SRR13395852	isolation_source	Lymph Node	Lymph Node 1
+SRR13395847	isolation_source	Lymph Node	Lymph node 1
+SRR13395841	isolation_source	Lymph Node	Lymph node 1
+SRR13395833	isolation_source	Lymph Node	Lymph node 1
+SRR13395807	isolation_source	Lymph Node	Lymph node 1
+SRR13395797	isolation_source	Lymph Node	Lymph node 1
+SRR13395780	isolation_source	Lymph Node	Lymph node 1
+SRR13395779	isolation_source	Lymph Node	Lymph node 1
+SRR13395777	isolation_source	Lymph Node	Lymph node 1
+SRR13395766	isolation_source	Lymph Node	Lymph node 1
+SRR13395761	isolation_source	Lymph Node	lymph node 1
+SRR13395729	isolation_source	Lymph Node	Lymph node 1
+SRR13395728	isolation_source	Lymph Node	lymph node 1
+SRR13395726	isolation_source	Lymph Node	Lymph node 2
+SRR14335545	isolation_source	Lymph Node	Lymph node 1
+SRR14335544	isolation_source	Lymph Node	Lymph node 2
+SRR14335541	isolation_source	Lymph Node	Lymph node 1
+SRR14335539	isolation_source	Lymph Node	Lymph node 2
+SRR14335538	isolation_source	Lymph Node	Lymph node 1
+SRR14335537	isolation_source	Lymph Node	Lymph node 2
+SRR14335535	isolation_source	Lymph Node	Lymph node 1
+SRR14335532	isolation_source	Lymph Node	Lymph node 1
+SRR14335531	isolation_source	Lymph Node	Lymph node 2
+SRR14335528	isolation_source	Lymph Node	Lymph node 1
+SRR14335524	isolation_source	Lymph Node	Lymph node 1
+SRR14335516	isolation_source	Lymph Node	Lymph node 1
+SRR14335515	isolation_source	Lymph Node	Lymph node 2
+SRR14335513	isolation_source	Lymph Node	Lymph node 1
+SRR14335512	isolation_source	Lymph Node	Lymph node 1
+SRR14335511	isolation_source	Lymph Node	Lymph node 2
+SRR14335509	isolation_source	Lymph Node	Lymph node 2
+SRR14335507	isolation_source	Lymph Node	Lymph node 1
+SRR14335505	isolation_source	Lymph Node	Lymph node 1
+SRR14335504	isolation_source	Lymph Node	Lymph node 2
+SRR14335500	isolation_source	Lymph Node	Lymph node 2
+SRR14335496	isolation_source	Lymph Node	Lymph node 2
+SRR14335494	isolation_source	Lymph Node	Lymph node 2
+SRR14335490	isolation_source	Lymph Node	Lymph node 1
+SRR14335489	isolation_source	Lymph Node	Lymph node 2
+SRR14335480	isolation_source	Lymph Node	Lymph node 1
+SRR14335478	isolation_source	Lymph Node	Lymph node 2
+SRR14335472	isolation_source	Lymph Node	Lymph node 2
+SRR13396033	isolation_source	Lymph Node	lymph node 2
+SRR13396025	isolation_source	Lymph Node	lymph node 1
+SRR13395826	isolation_source	Farm Environment	loader
+SRR13395867	isolation_source	Lymph Node	LN2
+SRR13395865	isolation_source	Lymph Node	LN2
+SRR13395866	isolation_source	Lymph Node	LN1
+SRR13395864	isolation_source	Lymph Node	LN1
+SRR13395857	isolation_source	Lymph Node	LN1
+SRR13395834	isolation_source	Ileum	"Ileum IC valve ""B"""
+SRR13395835	isolation_source	Ileum	"Ileum IC valve ""A"""
+SRR13396016	isolation_source	Ileum	ileum IC valve
+SRR13396011	isolation_source	Ileum	ileum IC valve
+SRR13396006	isolation_source	Ileum	ileum IC valve
+SRR13396003	isolation_source	Ileum	ileum IC valve
+SRR13395994	isolation_source	Ileum	ileum IC valve
+SRR13395988	isolation_source	Ileum	ileum IC valve
+SRR13395986	isolation_source	Ileum	ileum IC valve
+SRR13395980	isolation_source	Ileum	ileum IC valve
+SRR13395978	isolation_source	Ileum	ileum IC valve
+SRR13395937	isolation_source	Ileum	ileum IC valve
+SRR13395917	isolation_source	Ileum	ileum IC valve
+SRR13395916	isolation_source	Ileum	ileum IC valve
+SRR13395915	isolation_source	Ileum	ileum IC valve
+SRR13395911	isolation_source	Ileum	ileum IC valve
+SRR13395887	isolation_source	Ileum	ileum IC valve
+SRR13395886	isolation_source	Ileum	ileum IC valve
+SRR13395863	isolation_source	Ileum	ileum IC valve
+SRR13395855	isolation_source	Ileum	ileum IC valve
+SRR13395846	isolation_source	Ileum	ileum IC valve
+SRR13395805	isolation_source	Ileum	ileum IC valve
+SRR13395804	isolation_source	Ileum	Ileum IC valve
+SRR13395775	isolation_source	Ileum	Ileum @ IC Valve
+SRR13395724	isolation_source	Ileum	Ileum @ IC valve
+SRR14335543	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335542	isolation_source	Ileum	Ileum - IC Valve
+SRR14335540	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335536	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335534	isolation_source	Ileum	Ileum - IC Valve
+SRR14335533	isolation_source	Ileum	Ileum - IC Valve
+SRR14335530	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335529	isolation_source	Ileum	Ileum - IC Valve
+SRR14335527	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335526	isolation_source	Ileum	Ileum - IC Valve
+SRR14335521	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335520	isolation_source	Ileum	Ileum - IC Valve
+SRR14335519	isolation_source	Ileum	fecal at slaughter
+SRR14335518	isolation_source	Ileum	fecal ante mortem
+SRR14335514	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335510	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335508	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335503	isolation_source	Ileum	Ileum - IC Valve
+SRR14335502	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335495	isolation_source	Ileum	Ileum - IC Valve
+SRR14335493	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335492	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335491	isolation_source	Ileum	Ileum - IC Valve
+SRR14335488	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335487	isolation_source	Ileum	Ileum - IC Valve
+SRR14335486	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335479	isolation_source	Ileum	Ileum - IC Valve
+SRR14335477	isolation_source	Ileum	Ileum 20cm from IC valve
+SRR14335476	isolation_source	Ileum	Ileum - IC Valve
+SRR14335474	isolation_source	Ileum	Ileum - IC Valve
+SRR14335471	isolation_source	Ileum	Ileum - IC Valve
+SRR13395856	isolation_source	Ileum	Ileum-20cm from IC valve
+SRR12237016	isolation_source	Ileum	ileocecal valve
+SRR13395918	isolation_source	Farm Environment	holding pen
+SRR13396029	isolation_source	Farm Environment	holding area
+SRR13395754	isolation_source	Farm Environment	holding area
+SRR13395748	isolation_source	Farm Environment	holding area
+SRR13395920	isolation_source	Farm Environment	group 2
+SRR13395891	isolation_source	Farm Environment	grabs pen 3, East side
+SRR13395869	isolation_source	Farm Environment	grabs from pen 1, East side
+SRR13395922	isolation_source	Farm Environment	goup 1 alley
+SRR13395966	isolation_source	Farm Environment	fresh cows
+SRR13395858	isolation_source	Farm Environment	floor outside holding area
+SRR15101044	isolation_source	Feces	fecal sample collected rectally
+SRR14335547	isolation_source	Feces	fecal ante mortem
+SRR14335546	isolation_source	Feces	fecal ante mortem
+SRR14335525	isolation_source	Feces	fecal ante mortem
+SRR14335522	isolation_source	Feces	fecal at slaughter
+SRR13395913	isolation_source	Feces	Fecal Pool
+SRR13395810	isolation_source	Feces	fecal pool
+SRR14335475	isolation_source	Feces	fecal at slaughter
+SRR14335506	isolation_source	Feces	fecal ante mortem
+SRR14335498	isolation_source	Feces	fecal ante mortem
+SRR14335497	isolation_source	Feces	fecal ante mortem
+SRR14335482	isolation_source	Feces	fecal ante mortem
+SRR14335481	isolation_source	Feces	fecal ante mortem
+SRR14335473	isolation_source	Feces	fecal ante mortem
+SRR13396010	isolation_source	Feces	fecal @ slaughter
+SRR13395902	isolation_source	Feces	Fecal @ slaughter
+SRR13395897	isolation_source	Feces	Fecal @ slaughter
+SRR13395890	isolation_source	Feces	fecal @ slaughter
+SRR13395889	isolation_source	Feces	fecal @ slaughter
+SRR13395885	isolation_source	Feces	fecal @ slaughter
+SRR13395830	isolation_source	Feces	Fecal @ slaughter
+SRR13395828	isolation_source	Feces	fecal @ slaughter
+SRR13395803	isolation_source	Feces	fecal @ slaughter
+SRR13395774	isolation_source	Feces	fecal @ slaughter
+SRR13395722	isolation_source	Feces	fecal @ slaughter
+SRR13395854	isolation_source	Feces	Fecal @ slaughter
+SRR3050069	isolation_source	Feces	environmental fecal
+SRR3050068	isolation_source	Feces	environmental fecal
+SRR3050064	isolation_source	Feces	environmental fecal
+SRR3050063	isolation_source	Feces	environmental fecal
+SRR3050062	isolation_source	Feces	environmental fecal
+SRR3050061	isolation_source	Feces	environmental fecal
+SRR3050060	isolation_source	Feces	environmental fecal
+SRR3050059	isolation_source	Feces	environmental fecal
+SRR3050056	isolation_source	Feces	environmental fecal
+SRR3050055	isolation_source	Feces	environmental fecal
+SRR3050054	isolation_source	Feces	environmental fecal
+SRR3050053	isolation_source	Feces	environmental fecal
+SRR3050052	isolation_source	Feces	environmental fecal
+SRR3050051	isolation_source	Feces	environmental fecal
+SRR3050048	isolation_source	Feces	environmental fecal
+SRR3050042	isolation_source	Feces	environmental fecal
+SRR3050041	isolation_source	Feces	environmental fecal
+SRR3050037	isolation_source	Feces	environmental fecal
+SRR3050036	isolation_source	Feces	environmental fecal
+SRR3050035	isolation_source	Feces	environmental fecal
+SRR3050026	isolation_source	Feces	environmental fecal
+SRR3050024	isolation_source	Feces	environmental fecal
+SRR3050023	isolation_source	Feces	environmental fecal
+SRR3050021	isolation_source	Feces	environmental fecal
+SRR3050020	isolation_source	Feces	environmental fecal
+SRR3050019	isolation_source	Feces	environmental fecal
+SRR3050018	isolation_source	Feces	environmental fecal
+SRR3050016	isolation_source	Feces	environmental fecal
+SRR3050015	isolation_source	Feces	environmental fecal
+SRR3050013	isolation_source	Feces	environmental fecal
+SRR3050012	isolation_source	Feces	environmental fecal
+SRR3050010	isolation_source	Feces	environmental fecal
+SRR3050009	isolation_source	Feces	environmental fecal
+SRR3050008	isolation_source	Feces	environmental fecal
+SRR3050006	isolation_source	Feces	environmental fecal
+SRR3050005	isolation_source	Feces	environmental fecal
+SRR3050004	isolation_source	Feces	environmental fecal
+SRR3050003	isolation_source	Feces	environmental fecal
+SRR1793772	isolation_source	Feces	environmental fecal
+SRR1793771	isolation_source	Feces	environmental fecal
+SRR1793770	isolation_source	Feces	environmental fecal
+SRR1793769	isolation_source	Feces	environmental fecal
+SRR1793767	isolation_source	Feces	environmental fecal
+SRR1793766	isolation_source	Feces	environmental fecal
+SRR1793762	isolation_source	Feces	environmental fecal
+SRR1793761	isolation_source	Feces	environmental fecal
+SRR1793760	isolation_source	Feces	environmental fecal
+SRR1793759	isolation_source	Feces	environmental fecal
+SRR1793758	isolation_source	Feces	environmental fecal
+SRR1793757	isolation_source	Feces	environmental fecal
+SRR1793754	isolation_source	Feces	environmental fecal
+SRR1793753	isolation_source	Feces	environmental fecal
+SRR1793752	isolation_source	Feces	environmental fecal
+SRR1793747	isolation_source	Feces	individual cow fecal
+SRR1793745	isolation_source	Feces	environmental fecal
+SRR1793744	isolation_source	Feces	environmental fecal
+SRR1793743	isolation_source	Feces	environmental fecal
+SRR1793742	isolation_source	Feces	environmental fecal
+SRR1793741	isolation_source	Feces	environmental fecal
+SRR1793740	isolation_source	Feces	environmental fecal
+SRR1793738	isolation_source	Feces	environmental fecal
+SRR1793737	isolation_source	Feces	environmental fecal
+SRR1793733	isolation_source	Feces	environmental fecal
+SRR1793731	isolation_source	Feces	environmental fecal
+SRR1793730	isolation_source	Feces	environmental fecal
+SRR1793729	isolation_source	Feces	environmental fecal
+SRR1793727	isolation_source	Feces	environmental fecal
+SRR1793726	isolation_source	Feces	individual cow fecal
+SRR1793725	isolation_source	Feces	individual cow fecal
+SRR1793724	isolation_source	Feces	environmental fecal
+SRR1793723	isolation_source	Feces	individual cow fecal
+SRR1793722	isolation_source	Feces	individual cow fecal
+SRR1793721	isolation_source	Feces	individual cow fecal
+SRR1793720	isolation_source	Feces	individual cow fecal
+SRR1793719	isolation_source	Feces	individual cow fecal
+SRR1793718	isolation_source	Feces	individual cow fecal
+SRR1793717	isolation_source	Feces	individual cow fecal
+SRR1793716	isolation_source	Feces	individual cow fecal
+SRR1793715	isolation_source	Feces	environmental fecal
+SRR1793714	isolation_source	Feces	environmental fecal
+SRR1793713	isolation_source	Feces	environmental fecal
+SRR1793712	isolation_source	Feces	environmental fecal
+SRR1793711	isolation_source	Feces	individual cow fecal
+SRR1793709	isolation_source	Feces	individual cow fecal
+SRR1793708	isolation_source	Feces	individual cow fecal
+SRR1793707	isolation_source	Feces	individual cow fecal
+SRR1793706	isolation_source	Feces	individual cow fecal
+SRR1793705	isolation_source	Feces	environmental fecal
+SRR1793704	isolation_source	Feces	individual cow fecal
+SRR1793703	isolation_source	Feces	individual cow fecal
+SRR1793702	isolation_source	Feces	individual cow fecal
+SRR1793701	isolation_source	Feces	individual cow fecal
+SRR1793700	isolation_source	Feces	individual cow fecal
+SRR1793699	isolation_source	Feces	individual cow fecal
+SRR1793698	isolation_source	Feces	individual cow fecal
+SRR1793697	isolation_source	Feces	environmental fecal
+SRR1793696	isolation_source	Feces	environmental fecal
+SRR1793691	isolation_source	Feces	environmental fecal
+SRR1793690	isolation_source	Feces	environmental fecal
+SRR1793689	isolation_source	Feces	environmental fecal
+SRR1793688	isolation_source	Feces	environmental fecal
+SRR1793687	isolation_source	Feces	environmental fecal
+SRR1793686	isolation_source	Feces	environmental fecal
+SRR1793685	isolation_source	Feces	individual cow fecal
+SRR1793684	isolation_source	Feces	environmental fecal
+SRR1793683	isolation_source	Feces	individual cow fecal
+SRR1793681	isolation_source	Feces	individual cow fecal
+SRR1793680	isolation_source	Feces	environmental fecal
+SRR1793679	isolation_source	Feces	environmental fecal
+SRR1793678	isolation_source	Feces	environmental fecal
+SRR1793677	isolation_source	Feces	environmental fecal
+SRR1793676	isolation_source	Feces	environmental fecal
+SRR1793675	isolation_source	Feces	environmental fecal
+SRR1793674	isolation_source	Feces	environmental fecal
+SRR1793673	isolation_source	Feces	environmental fecal
+SRR1793672	isolation_source	Feces	environmental fecal
+SRR1793669	isolation_source	Feces	environmental fecal
+SRR1793668	isolation_source	Feces	environmental fecal
+SRR1793667	isolation_source	Feces	environmental fecal
+SRR1793666	isolation_source	Feces	environmental fecal
+SRR1793665	isolation_source	Feces	environmental fecal
+SRR1793664	isolation_source	Feces	environmental fecal
+SRR1793663	isolation_source	Feces	environmental fecal
+SRR1793662	isolation_source	Feces	environmental fecal
+SRR1793661	isolation_source	Feces	environmental fecal
+SRR14335517	isolation_source	Feces	fecal at slaughter
+SRR14335501	isolation_source	Feces	fecal at slaughter
+ERR6415295	isolation_source	Feces	Bovine fecal sample
+ERR6415294	isolation_source	Feces	Bovine fecal sample
+ERR6415293	isolation_source	Feces	Bovine fecal sample
+ERR6415292	isolation_source	Feces	Bovine fecal sample
+ERR6415291	isolation_source	Feces	Bovine fecal sample
+ERR6415290	isolation_source	Feces	Bovine fecal sample
+ERR6415289	isolation_source	Feces	Bovine fecal sample
+ERR6415288	isolation_source	Feces	Bovine fecal sample
+ERR6415285	isolation_source	Feces	Bovine fecal sample
+ERR6415284	isolation_source	Feces	Bovine fecal sample
+ERR6415283	isolation_source	Feces	Bovine fecal sample
+ERR6415282	isolation_source	Feces	Bovine fecal sample
+ERR6415280	isolation_source	Feces	Bovine fecal sample
+ERR6415279	isolation_source	Feces	Bovine fecal sample
+ERR6415278	isolation_source	Feces	Bovine fecal sample
+ERR6415276	isolation_source	Feces	Bovine fecal sample
+ERR6415275	isolation_source	Feces	Bovine fecal sample
+ERR6415274	isolation_source	Feces	Bovine fecal sample
+ERR6415273	isolation_source	Feces	Bovine fecal sample
+ERR6415272	isolation_source	Feces	Bovine fecal sample
+ERR6415271	isolation_source	Feces	Bovine fecal sample
+ERR6415267	isolation_source	Feces	Bovine fecal sample
+ERR6415266	isolation_source	Feces	Bovine fecal sample
+ERR6415265	isolation_source	Feces	Bovine fecal sample
+ERR6415264	isolation_source	Feces	Bovine fecal sample
+ERR6415263	isolation_source	Feces	Bovine fecal sample
+ERR6415262	isolation_source	Feces	Bovine fecal sample
+ERR6415256	isolation_source	Feces	Bovine fecal sample
+ERR6415255	isolation_source	Feces	Bovine fecal sample
+ERR6415253	isolation_source	Feces	Bovine fecal sample
+ERR6415249	isolation_source	Feces	Bovine fecal sample
+ERR6415237	isolation_source	Feces	Bovine fecal sample
+ERR6415236	isolation_source	Feces	Bovine fecal sample
+ERR6415235	isolation_source	Feces	Bovine fecal sample
+ERR6415234	isolation_source	Feces	Bovine fecal sample
+ERR6415233	isolation_source	Feces	Bovine fecal sample
+ERR6415232	isolation_source	Feces	Bovine fecal sample
+ERR6415231	isolation_source	Feces	Bovine fecal sample
+ERR6415230	isolation_source	Feces	Bovine fecal sample
+ERR6415229	isolation_source	Feces	Bovine fecal sample
+ERR6415228	isolation_source	Feces	Bovine fecal sample
+ERR6415227	isolation_source	Feces	Bovine fecal sample
+ERR6415226	isolation_source	Feces	Bovine fecal sample
+ERR6415225	isolation_source	Feces	Bovine fecal sample
+ERR6415224	isolation_source	Feces	Bovine fecal sample
+ERR6415223	isolation_source	Feces	Bovine fecal sample
+ERR6415222	isolation_source	Feces	Bovine fecal sample
+ERR6415221	isolation_source	Feces	Bovine fecal sample
+ERR6415220	isolation_source	Feces	Bovine fecal sample
+ERR6415219	isolation_source	Feces	Bovine fecal sample
+ERR6415218	isolation_source	Feces	Bovine fecal sample
+ERR6415217	isolation_source	Feces	Bovine fecal sample
+ERR6415216	isolation_source	Feces	Bovine fecal sample
+ERR6415215	isolation_source	Feces	Bovine fecal sample
+ERR6415214	isolation_source	Feces	Bovine fecal sample
+ERR6415213	isolation_source	Feces	Bovine fecal sample
+ERR6415212	isolation_source	Feces	Bovine fecal sample
+ERR6415211	isolation_source	Feces	Bovine fecal sample
+ERR6415210	isolation_source	Feces	Bovine fecal sample
+ERR6415209	isolation_source	Feces	Bovine fecal sample
+ERR6415208	isolation_source	Feces	Bovine fecal sample
+ERR6415207	isolation_source	Feces	Bovine fecal sample
+ERR6415206	isolation_source	Feces	Bovine fecal sample
+ERR6415205	isolation_source	Feces	Bovine fecal sample
+ERR6415204	isolation_source	Feces	Bovine fecal sample
+ERR6415203	isolation_source	Feces	Bovine fecal sample
+ERR6415202	isolation_source	Feces	Bovine fecal sample
+ERR6415201	isolation_source	Feces	Bovine fecal sample
+ERR6415200	isolation_source	Feces	Bovine fecal sample
+ERR6415199	isolation_source	Feces	Bovine fecal sample
+ERR6415198	isolation_source	Feces	Bovine fecal sample
+ERR6415197	isolation_source	Feces	Bovine fecal sample
+ERR6415196	isolation_source	Feces	Bovine fecal sample
+ERR6415195	isolation_source	Feces	Bovine fecal sample
+ERR6415194	isolation_source	Feces	Bovine fecal sample
+ERR6415192	isolation_source	Feces	Bovine fecal sample
+ERR6415191	isolation_source	Feces	Bovine fecal sample
+ERR6415190	isolation_source	Feces	Bovine fecal sample
+ERR6415189	isolation_source	Feces	Bovine fecal sample
+ERR6415188	isolation_source	Feces	Bovine fecal sample
+ERR6415187	isolation_source	Feces	Bovine fecal sample
+ERR6415186	isolation_source	Feces	Bovine fecal sample
+ERR6415185	isolation_source	Feces	Bovine fecal sample
+ERR6415184	isolation_source	Feces	Bovine fecal sample
+ERR6415183	isolation_source	Feces	Bovine fecal sample
+ERR6415182	isolation_source	Feces	Bovine fecal sample
+ERR6415181	isolation_source	Feces	Bovine fecal sample
+ERR6415180	isolation_source	Feces	Bovine fecal sample
+ERR6415179	isolation_source	Feces	Bovine fecal sample
+ERR6415178	isolation_source	Feces	Bovine fecal sample
+ERR6415177	isolation_source	Feces	Bovine fecal sample
+ERR6415176	isolation_source	Feces	Bovine fecal sample
+ERR6415175	isolation_source	Feces	Bovine fecal sample
+ERR6415174	isolation_source	Feces	Bovine fecal sample
+ERR6415173	isolation_source	Feces	Bovine fecal sample
+ERR6415171	isolation_source	Feces	Bovine fecal sample
+ERR6415169	isolation_source	Feces	Bovine fecal sample
+ERR6415167	isolation_source	Feces	Bovine fecal sample
+ERR6415166	isolation_source	Feces	Bovine fecal sample
+ERR6415165	isolation_source	Feces	Bovine fecal sample
+ERR6415164	isolation_source	Feces	Bovine fecal sample
+ERR6415163	isolation_source	Feces	Bovine fecal sample
+ERR6415162	isolation_source	Feces	Bovine fecal sample
+ERR6415161	isolation_source	Feces	Bovine fecal sample
+ERR6415160	isolation_source	Feces	Bovine fecal sample
+ERR6415159	isolation_source	Feces	Bovine fecal sample
+ERR6415158	isolation_source	Feces	Bovine fecal sample
+ERR6415157	isolation_source	Feces	Bovine fecal sample
+ERR6415156	isolation_source	Feces	Bovine fecal sample
+ERR6415155	isolation_source	Feces	Bovine fecal sample
+ERR6415154	isolation_source	Feces	Bovine fecal sample
+ERR6415153	isolation_source	Feces	Bovine fecal sample
+ERR6415152	isolation_source	Feces	Bovine fecal sample
+ERR6415151	isolation_source	Feces	Bovine fecal sample
+ERR6415150	isolation_source	Feces	Bovine fecal sample
+ERR6415149	isolation_source	Feces	Bovine fecal sample
+ERR6415147	isolation_source	Feces	Bovine fecal sample
+ERR6415146	isolation_source	Feces	Bovine fecal sample
+ERR6415145	isolation_source	Feces	Bovine fecal sample
+ERR6415144	isolation_source	Feces	Bovine fecal sample
+ERR6415143	isolation_source	Feces	Bovine fecal sample
+ERR6415142	isolation_source	Feces	Bovine fecal sample
+ERR6415141	isolation_source	Feces	Bovine fecal sample
+ERR6415140	isolation_source	Feces	Bovine fecal sample
+ERR6415139	isolation_source	Feces	Bovine fecal sample
+ERR6415138	isolation_source	Feces	Bovine fecal sample
+ERR6415137	isolation_source	Feces	Bovine fecal sample
+ERR6415136	isolation_source	Feces	Bovine fecal sample
+ERR6415135	isolation_source	Feces	Bovine fecal sample
+ERR6415134	isolation_source	Feces	Bovine fecal sample
+ERR6415133	isolation_source	Feces	Bovine fecal sample
+ERR6415132	isolation_source	Feces	Bovine fecal sample
+ERR6415131	isolation_source	Feces	Bovine fecal sample
+ERR6415130	isolation_source	Feces	Bovine fecal sample
+ERR6415129	isolation_source	Feces	Bovine fecal sample
+ERR6415127	isolation_source	Feces	Bovine fecal sample
+ERR6415126	isolation_source	Feces	Bovine fecal sample
+ERR6415125	isolation_source	Feces	Bovine fecal sample
+ERR6415124	isolation_source	Feces	Bovine fecal sample
+ERR6415123	isolation_source	Feces	Bovine fecal sample
+ERR6415122	isolation_source	Feces	Bovine fecal sample
+ERR6415121	isolation_source	Feces	Bovine fecal sample
+ERR6415120	isolation_source	Feces	Bovine fecal sample
+ERR6415119	isolation_source	Feces	Bovine fecal sample
+ERR6415118	isolation_source	Feces	Bovine fecal sample
+ERR6415117	isolation_source	Feces	Bovine fecal sample
+ERR6415116	isolation_source	Feces	Bovine fecal sample
+ERR6415115	isolation_source	Feces	Bovine fecal sample
+ERR6415114	isolation_source	Feces	Bovine fecal sample
+ERR6415113	isolation_source	Feces	Bovine fecal sample
+ERR6415112	isolation_source	Feces	Bovine fecal sample
+ERR6415111	isolation_source	Feces	Bovine fecal sample
+ERR6415110	isolation_source	Feces	Bovine fecal sample
+ERR6415109	isolation_source	Feces	Bovine fecal sample
+ERR6415108	isolation_source	Feces	Bovine fecal sample
+SRR8177401	isolation_source	Feces	sheep faeces
+SRR13395942	isolation_source	Farm Environment	dry cows
+SRR13395850	isolation_source	Farm Environment	dry cows
+SRR13395811	isolation_source	Farm Environment	dry cow paddock
+SRR13395760	isolation_source	Farm Environment	dry cow paddock
+SRR13395730	isolation_source	Farm Environment	dry cow paddock
+SRR13395919	isolation_source	Farm Environment	dry cow alley
+SRR13395781	isolation_source	Farm Environment	crossover at N end of freestall (pen 3)
+SRR13395762	isolation_source	Farm Environment	crossover at N end of freestall (pen 3)
+SRR13395907	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395853	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395923	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13396015	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395998	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395999	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396000	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395995	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395973	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395962	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395938	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395984	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395845	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395723	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395896	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395892	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395895	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395893	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR14335523	country	USA	USA:NY
+SRR13395941	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396031	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395844	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395757	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395749	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395733	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395809	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395814	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395792	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395785	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395759	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR14335484	country	USA	USA:VT
+SRR13395870	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395880	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395825	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395752	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395808	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395770	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395763	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395735	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395732	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR14335483	country	USA	USA:VT
+SRR13395881	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395965	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395961	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395849	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395750	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR14335499	country	USA	USA:VT
+SRR13396032	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395790	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395753	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395747	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395731	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13396028	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13396027	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13396007	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396005	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395983	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395982	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395981	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395976	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395975	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395974	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395972	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395971	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395970	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395969	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395968	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395967	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395963	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395959	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395958	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395957	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395956	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395955	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395954	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395953	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395952	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395948	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395945	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395944	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395943	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395910	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395908	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395906	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395903	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395899	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395824	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395823	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395822	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395821	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395820	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395819	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395818	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395817	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395815	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395802	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395801	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395800	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395799	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395798	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395796	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395795	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395789	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395788	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395787	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395786	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395773	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395771	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395764	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395758	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395756	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395755	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395751	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395746	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395745	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395744	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395743	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395742	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395741	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395740	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395738	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395737	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395736	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395734	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395721	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395720	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395719	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395718	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13396001	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395964	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395960	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395940	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396017	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395921	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395843	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395859	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395842	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395812	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395791	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395784	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395813	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395793	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395716	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13396030	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13396026	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395878	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395873	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395782	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395837	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395840	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13396019	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396013	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396008	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395997	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395993	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395990	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395979	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395977	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395936	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395933	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395914	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395909	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395901	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395898	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395884	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395838	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395832	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395829	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395794	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395783	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395769	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395768	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395767	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395739	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396014	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396012	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396009	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396004	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395992	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395985	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395947	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395946	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395939	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395934	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395932	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395927	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395888	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395852	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395847	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395841	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395833	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395807	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395797	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395780	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395779	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395777	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395766	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395761	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395729	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395728	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395726	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR14335545	country	USA	USA:NY
+SRR14335544	country	USA	USA:NY
+SRR14335541	country	USA	USA:NY
+SRR14335539	country	USA	USA:NY
+SRR14335538	country	USA	USA:NY
+SRR14335537	country	USA	USA:NY
+SRR14335535	country	USA	USA:NY
+SRR14335532	country	USA	USA:NY
+SRR14335531	country	USA	USA:NY
+SRR14335528	country	USA	USA:NY
+SRR14335524	country	USA	USA:NY
+SRR14335516	country	USA	USA:PA
+SRR14335515	country	USA	USA:PA
+SRR14335513	country	USA	USA:NY
+SRR14335512	country	USA	USA:PA
+SRR14335511	country	USA	USA:PA
+SRR14335509	country	USA	USA:PA
+SRR14335507	country	USA	USA:PA
+SRR14335505	country	USA	USA:PA
+SRR14335504	country	USA	USA:PA
+SRR14335500	country	USA	USA:VT
+SRR14335496	country	USA	USA:VT
+SRR14335494	country	USA	USA:VT
+SRR14335490	country	USA	USA:VT
+SRR14335489	country	USA	USA:VT
+SRR14335480	country	USA	USA:NY
+SRR14335478	country	USA	USA:VT
+SRR14335472	country	USA	USA:NY
+SRR13396033	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396025	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR12237017	country	Argentina	Argentina: Tierra del Fuego
+SRR13395826	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395867	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395865	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395866	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395864	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395857	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395834	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395835	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13396016	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396011	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396006	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396003	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395994	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395988	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395986	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395980	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395978	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395937	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395917	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395916	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395915	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395911	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395887	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395886	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395863	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395855	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395846	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395805	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395804	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395775	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395724	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR14335543	country	USA	USA:NY
+SRR14335542	country	USA	USA:NY
+SRR14335540	country	USA	USA:NY
+SRR14335536	country	USA	USA:NY
+SRR14335534	country	USA	USA:NY
+SRR14335533	country	USA	USA:NY
+SRR14335530	country	USA	USA:NY
+SRR14335529	country	USA	USA:NY
+SRR14335527	country	USA	USA:NY
+SRR14335526	country	USA	USA:NY
+SRR14335521	country	USA	USA:NY
+SRR14335520	country	USA	USA:NY
+SRR14335519	country	USA	USA:NY
+SRR14335518	country	USA	USA:PA
+SRR14335514	country	USA	USA:PA
+SRR14335510	country	USA	USA:PA
+SRR14335508	country	USA	USA:PA
+SRR14335503	country	USA	USA:PA
+SRR14335502	country	USA	USA:NY
+SRR14335495	country	USA	USA:VT
+SRR14335493	country	USA	USA:VT
+SRR14335492	country	USA	USA:VT
+SRR14335491	country	USA	USA:NY
+SRR14335488	country	USA	USA:VT
+SRR14335487	country	USA	USA:VT
+SRR14335486	country	USA	USA:VT
+SRR14335479	country	USA	USA:VT
+SRR14335477	country	USA	USA:VT
+SRR14335476	country	USA	USA:VT
+SRR14335474	country	USA	USA:VT
+SRR14335471	country	USA	USA:NY
+SRR13396018	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395996	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395991	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395989	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395935	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395912	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395904	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395900	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395856	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395836	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395831	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395806	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395778	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395776	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395765	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395725	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395717	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395918	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13396029	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395754	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395748	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395920	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395891	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395869	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395922	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395966	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395858	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR29477257	country	Canada	Canada: Quebec
+SRR29477256	country	Canada	Canada: Quebec
+SRR29477255	country	Canada	Canada: Quebec
+SRR29477254	country	Canada	Canada: Quebec
+SRR29477252	country	Canada	Canada: Ontario
+SRR29477251	country	Canada	Canada: Ontario
+SRR29477250	country	Canada	Canada: Ontario
+SRR29477249	country	Canada	Canada: Ontario
+SRR29477248	country	Canada	Canada: Ontario
+SRR29477247	country	Canada	Canada: Ontario
+SRR29477246	country	Canada	Canada: Ontario
+SRR29477245	country	Canada	Canada: Ontario
+SRR29477244	country	Canada	Canada: Ontario
+SRR29477243	country	Canada	Canada: Quebec
+SRR29477242	country	Canada	Canada: Quebec
+SRR29477241	country	Canada	Canada: Ontario
+SRR29477240	country	Canada	Canada: Ontario
+SRR29477239	country	Canada	Canada: Ontario
+SRR29477238	country	Canada	Canada: Ontario
+SRR29477237	country	Canada	Canada: Ontario
+SRR29477236	country	Canada	Canada: Ontario
+SRR29477235	country	Canada	Canada: Ontario
+SRR29477234	country	Canada	Canada: Ontario
+SRR29477233	country	Canada	Canada: Ontario
+SRR29477232	country	Canada	Canada: Quebec
+SRR29477231	country	Canada	Canada: Ontario
+SRR29477230	country	Canada	Canada: Ontario
+SRR29477229	country	Canada	Canada: Ontario
+SRR29477228	country	Canada	Canada: Ontario
+SRR29477227	country	Canada	Canada: Ontario
+SRR29477226	country	Canada	Canada: Ontario
+SRR29477225	country	Canada	Canada: Ontario
+SRR29477224	country	Canada	Canada: Ontario
+SRR29477223	country	Canada	Canada: Ontario
+SRR29477222	country	Canada	Canada: Ontario
+SRR29477221	country	Canada	Canada: Quebec
+SRR29477220	country	Canada	Canada: Ontario
+SRR29477219	country	Canada	Canada: Ontario
+SRR29477218	country	Canada	Canada: Ontario
+SRR29477217	country	Canada	Canada: Ontario
+SRR29477216	country	Canada	Canada: Ontario
+SRR29477215	country	Canada	Canada: Ontario
+SRR29477214	country	Canada	Canada: Ontario
+SRR29477213	country	Canada	Canada: Ontario
+SRR29477212	country	Canada	Canada: Ontario
+SRR29477211	country	Canada	Canada: Ontario
+SRR29477210	country	Canada	Canada: Quebec
+SRR29477209	country	Canada	Canada: Ontario
+SRR29477208	country	Canada	Canada: Ontario
+SRR29477207	country	Canada	Canada: Ontario
+SRR29477206	country	Canada	Canada: Ontario
+SRR29477205	country	Canada	Canada: Ontario
+SRR29477204	country	Canada	Canada: Ontario
+SRR29477203	country	Canada	Canada: Ontario
+SRR29477202	country	Canada	Canada: Quebec
+SRR29477201	country	Canada	Canada: Ontario
+SRR29477200	country	Canada	Canada: Ontario
+SRR29477199	country	Canada	Canada: Ontario
+SRR29477198	country	Canada	Canada: Ontario
+SRR29477197	country	Canada	Canada: Quebec
+SRR29477196	country	Canada	Canada: Quebec
+SRR29477195	country	Canada	Canada: Quebec
+SRR29477194	country	Canada	Canada: Quebec
+SRR29477193	country	Canada	Canada: Quebec
+SRR29477192	country	Canada	Canada: Quebec
+SRR29477191	country	Canada	Canada: Ontario
+SRR29477190	country	Canada	Canada: Ontario
+SRR29477189	country	Canada	Canada: Quebec
+SRR29477188	country	Canada	Canada: Quebec
+SRR29477187	country	Canada	Canada: Ontario
+SRR29477186	country	Canada	Canada: Ontario
+SRR29477185	country	Canada	Canada: Ontario
+SRR29477184	country	Canada	Canada: Quebec
+SRR29477183	country	Canada	Canada: Quebec
+SRR29477182	country	Canada	Canada: Ontario
+SRR29477181	country	Canada	Canada: Ontario
+SRR29477180	country	Canada	Canada: Ontario
+SRR29477179	country	Canada	Canada: Ontario
+SRR29477178	country	Canada	Canada: Quebec
+SRR29477177	country	Canada	Canada: Ontario
+SRR29477176	country	Canada	Canada: Quebec
+SRR29477175	country	Canada	Canada: Ontario
+SRR29477174	country	Canada	Canada: Ontario
+SRR29477173	country	Canada	Canada: Quebec
+SRR29477172	country	Canada	Canada: Quebec
+SRR29477171	country	Canada	Canada: Quebec
+SRR29477170	country	Canada	Canada: Quebec
+SRR29477169	country	Canada	Canada: Ontario
+SRR29477168	country	Canada	Canada: Quebec
+SRR29477167	country	Canada	Canada: Ontario
+SRR29477166	country	Canada	Canada: Ontario
+SRR29477165	country	Canada	Canada: Ontario
+SRR29477164	country	Canada	Canada: Quebec
+SRR29477163	country	Canada	Canada: Quebec
+SRR29477162	country	Canada	Canada: Quebec
+SRR29477161	country	Canada	Canada: Ontario
+SRR29477160	country	Canada	Canada: Ontario
+SRR29477159	country	Canada	Canada: Ontario
+SRR29477158	country	Canada	Canada: Ontario
+SRR29477157	country	Canada	Canada: Ontario
+SRR29477156	country	Canada	Canada: Ontario
+SRR29477155	country	Canada	Canada: Quebec
+SRR29477154	country	Canada	Canada: Quebec
+SRR29477153	country	Canada	Canada: Quebec
+SRR29477152	country	Canada	Canada: Quebec
+SRR29477151	country	Canada	Canada: Quebec
+SRR29477150	country	Canada	Canada: Quebec
+SRR29477149	country	Canada	Canada: Quebec
+SRR29477148	country	Canada	Canada: Quebec
+SRR29477147	country	Canada	Canada: Quebec
+SRR29477146	country	Canada	Canada: Quebec
+SRR29477145	country	Canada	Canada: Quebec
+SRR29477144	country	Canada	Canada: Quebec
+SRR29477143	country	Canada	Canada: Quebec
+SRR29477142	country	Canada	Canada: Quebec
+SRR29477141	country	Canada	Canada: Quebec
+SRR29477140	country	Canada	Canada: Quebec
+SRR29477139	country	Canada	Canada: Quebec
+SRR29477138	country	Canada	Canada: Quebec
+SRR29477137	country	Canada	Canada: Quebec
+SRR29477136	country	Canada	Canada: Quebec
+SRR29477135	country	Canada	Canada: Quebec
+SRR29477134	country	Canada	Canada: Quebec
+SRR29477133	country	Canada	Canada: Quebec
+SRR29477132	country	Canada	Canada: Quebec
+SRR29477131	country	Canada	Canada: Quebec
+SRR29477130	country	Canada	Canada: Quebec
+SRR29477129	country	Canada	Canada: Ontario
+SRR29477128	country	Canada	Canada: Ontario
+SRR29477127	country	Canada	Canada: Ontario
+SRR29477126	country	Canada	Canada: Ontario
+SRR29477125	country	Canada	Canada: Ontario
+SRR29477124	country	Canada	Canada: Quebec
+SRR29477123	country	Canada	Canada: Ontario
+SRR29477122	country	Canada	Canada: Quebec
+SRR29477121	country	Canada	Canada: Quebec
+SRR29477120	country	Canada	Canada: Quebec
+SRR29477119	country	Canada	Canada: Quebec
+SRR29477118	country	Canada	Canada: Quebec
+SRR29477117	country	Canada	Canada: Quebec
+SRR29477116	country	Canada	Canada: Quebec
+SRR29477115	country	Canada	Canada: Quebec
+SRR29477114	country	Canada	Canada: Quebec
+SRR29477113	country	Canada	Canada: Quebec
+SRR29477112	country	Canada	Canada: Quebec
+SRR29477111	country	Canada	Canada: Quebec
+SRR29477110	country	Canada	Canada: Quebec
+SRR29477109	country	Canada	Canada: Quebec
+SRR29477108	country	Canada	Canada: Quebec
+SRR29477107	country	Canada	Canada: Quebec
+SRR29477106	country	Canada	Canada: Quebec
+SRR29477105	country	Canada	Canada: Quebec
+SRR29477104	country	Canada	Canada: Quebec
+SRR29477103	country	Canada	Canada: Quebec
+SRR29477102	country	Canada	Canada: Ontario
+SRR29477101	country	Canada	Canada: Ontario
+SRR29477100	country	Canada	Canada: Ontario
+SRR29477099	country	Canada	Canada: Ontario
+SRR29477098	country	Canada	Canada: Quebec
+SRR29477097	country	Canada	Canada: Ontario
+SRR29477096	country	Canada	Canada: Quebec
+SRR29477095	country	Canada	Canada: Ontario
+SRR29477094	country	Canada	Canada: Quebec
+SRR29477093	country	Canada	Canada: Ontario
+SRR29477092	country	Canada	Canada: Ontario
+SRR29477091	country	Canada	Canada: Quebec
+SRR29477090	country	Canada	Canada: Ontario
+SRR29477089	country	Canada	Canada: Ontario
+SRR29477088	country	Canada	Canada: Ontario
+SRR29477087	country	Canada	Canada: Ontario
+SRR29477086	country	Canada	Canada: Ontario
+SRR29477085	country	Canada	Canada: Quebec
+SRR29477084	country	Canada	Canada: Quebec
+SRR29477083	country	Canada	Canada: Quebec
+SRR29477082	country	Canada	Canada: Ontario
+SRR29477081	country	Canada	Canada: Quebec
+SRR29477080	country	Canada	Canada: Quebec
+SRR29477079	country	Canada	Canada: Quebec
+SRR29477078	country	Canada	Canada: Quebec
+SRR29477077	country	Canada	Canada: Quebec
+SRR29477076	country	Canada	Canada: Quebec
+SRR29477075	country	Canada	Canada: Quebec
+SRR29477074	country	Canada	Canada: Quebec
+SRR29477073	country	Canada	Canada: Quebec
+SRR29477072	country	Canada	Canada: Ontario
+SRR29477071	country	Canada	Canada: Quebec
+SRR29477070	country	Canada	Canada: Quebec
+SRR29477069	country	Canada	Canada: Quebec
+SRR29477068	country	Canada	Canada: Quebec
+SRR29477067	country	Canada	Canada: Quebec
+SRR29477066	country	Canada	Canada: Quebec
+SRR29477065	country	Canada	Canada: Quebec
+SRR29477064	country	Canada	Canada: Quebec
+SRR29477063	country	Canada	Canada: Quebec
+SRR29477062	country	Canada	Canada: Quebec
+SRR29477061	country	Canada	Canada: Quebec
+SRR29477060	country	Canada	Canada: Ontario
+SRR29477059	country	Canada	Canada: Quebec
+SRR29477058	country	Canada	Canada: Quebec
+SRR29477057	country	Canada	Canada: Quebec
+SRR29477056	country	Canada	Canada: Quebec
+SRR29477055	country	Canada	Canada: Quebec
+SRR29477054	country	Canada	Canada: Quebec
+SRR29477053	country	Canada	Canada: Quebec
+SRR29477052	country	Canada	Canada: Quebec
+SRR29477051	country	Canada	Canada: Quebec
+SRR29477050	country	Canada	Canada: Ontario
+SRR29477049	country	Canada	Canada: Quebec
+SRR29477048	country	Canada	Canada: Ontario
+SRR29477047	country	Canada	Canada: Quebec
+SRR29477046	country	Canada	Canada: Ontario
+SRR29477045	country	Canada	Canada: Quebec
+SRR29477044	country	Canada	Canada: Ontario
+SRR29477042	country	Canada	Canada: Ontario
+SRR29477041	country	Canada	Canada: Ontario
+SRR29477040	country	Canada	Canada: Quebec
+SRR29477039	country	Canada	Canada: Quebec
+SRR29477038	country	Canada	Canada: Quebec
+SRR29477037	country	Canada	Canada: Quebec
+SRR29477036	country	Canada	Canada: Quebec
+SRR29477034	country	Canada	Canada: Quebec
+SRR29477033	country	Canada	Canada: Ontario
+SRR29477032	country	Canada	Canada: Ontario
+SRR29477031	country	Canada	Canada: Ontario
+SRR29477030	country	Canada	Canada: Ontario
+SRR29477029	country	Canada	Canada: Ontario
+SRR29477028	country	Canada	Canada: Ontario
+SRR29477027	country	Canada	Canada: Ontario
+SRR29477026	country	Canada	Canada: Ontario
+SRR29477025	country	Canada	Canada: Quebec
+SRR29477024	country	Canada	Canada: Quebec
+SRR29477023	country	Canada	Canada: Ontario
+SRR29477022	country	Canada	Canada: Ontario
+SRR29477021	country	Canada	Canada: Ontario
+SRR29477020	country	Canada	Canada: Ontario
+SRR29477019	country	Canada	Canada: Quebec
+SRR29477018	country	Canada	Canada: Ontario
+SRR29477017	country	Canada	Canada: Ontario
+SRR24326312	country	Canada	Canada: Quebec
+SRR24326311	country	Canada	Canada: Quebec
+SRR24326310	country	Canada	Canada: Quebec
+SRR24326309	country	Canada	Canada: Quebec
+SRR24326308	country	Canada	Canada: Quebec
+SRR24326307	country	Canada	Canada: Quebec
+SRR24326306	country	Canada	Canada: Quebec
+SRR24326305	country	Canada	Canada: Quebec
+SRR24326304	country	Canada	Canada: Quebec
+SRR24326303	country	Canada	Canada: Quebec
+SRR24326302	country	Canada	Canada: Quebec
+SRR24326301	country	Canada	Canada: Quebec
+SRR24326300	country	Canada	Canada: Quebec
+SRR24326299	country	Canada	Canada: Quebec
+SRR24326298	country	Canada	Canada: Quebec
+SRR24326297	country	Canada	Canada: Quebec
+SRR24326296	country	Canada	Canada: Quebec
+SRR24326295	country	Canada	Canada: Quebec
+SRR24326294	country	Canada	Canada: Quebec
+SRR24326293	country	Canada	Canada: Quebec
+SRR24326292	country	Canada	Canada: Quebec
+SRR24326291	country	Canada	Canada: Quebec
+SRR24326290	country	Canada	Canada: Quebec
+SRR24326289	country	Canada	Canada: Quebec
+SRR24326288	country	Canada	Canada: Ontario
+SRR24326287	country	Canada	Canada: Ontario
+SRR24326286	country	Canada	Canada: Ontario
+SRR24326285	country	Canada	Canada: Ontario
+SRR24326284	country	Canada	Canada: Ontario
+SRR24326283	country	Canada	Canada: Quebec
+SRR24326282	country	Canada	Canada: Ontario
+SRR24326281	country	Canada	Canada: Ontario
+SRR24326280	country	Canada	Canada: Ontario
+SRR24326279	country	Canada	Canada: Ontario
+SRR24326278	country	Canada	Canada: Ontario
+SRR24326277	country	Canada	Canada: Ontario
+SRR24326276	country	Canada	Canada: Ontario
+SRR24326275	country	Canada	Canada: Ontario
+SRR24326274	country	Canada	Canada: Ontario
+SRR24326273	country	Canada	Canada: Ontario
+SRR24326272	country	Canada	Canada: Quebec
+SRR24326271	country	Canada	Canada: Ontario
+SRR24326270	country	Canada	Canada: Quebec
+SRR24326269	country	Canada	Canada: Quebec
+SRR24326268	country	Canada	Canada: Quebec
+SRR24326267	country	Canada	Canada: Quebec
+SRR24326266	country	Canada	Canada: Quebec
+SRR24326265	country	Canada	Canada: Quebec
+SRR24326264	country	Canada	Canada: Quebec
+SRR24326263	country	Canada	Canada: Quebec
+SRR24326262	country	Canada	Canada: Quebec
+SRR24326261	country	Canada	Canada: Quebec
+SRR24326260	country	Canada	Canada: Quebec
+SRR24326259	country	Canada	Canada: Quebec
+SRR24326258	country	Canada	Canada: Quebec
+SRR24326257	country	Canada	Canada: Quebec
+SRR24326256	country	Canada	Canada: Quebec
+SRR24326255	country	Canada	Canada: Quebec
+SRR24326254	country	Canada	Canada: Quebec
+SRR24326253	country	Canada	Canada: Quebec
+SRR24326252	country	Canada	Canada: Quebec
+SRR24326251	country	Canada	Canada: Quebec
+SRR24326250	country	Canada	Canada: Quebec
+SRR24326249	country	Canada	Canada: Quebec
+SRR24326248	country	Canada	Canada: Ontario
+SRR24326247	country	Canada	Canada: Quebec
+SRR24326246	country	Canada	Canada: Quebec
+SRR24326245	country	Canada	Canada: Quebec
+SRR24326244	country	Canada	Canada: Quebec
+SRR24326243	country	Canada	Canada: Quebec
+SRR24326242	country	Canada	Canada: Quebec
+SRR24326241	country	Canada	Canada: Quebec
+SRR24326240	country	Canada	Canada: Quebec
+SRR24326239	country	Canada	Canada: Quebec
+SRR24326238	country	Canada	Canada: Quebec
+SRR24326237	country	Canada	Canada: Quebec
+SRR24326236	country	Canada	Canada: Quebec
+SRR24326235	country	Canada	Canada: Quebec
+SRR24326234	country	Canada	Canada: Quebec
+SRR24326233	country	Canada	Canada: Quebec
+SRR24326232	country	Canada	Canada: Quebec
+SRR24326231	country	Canada	Canada: Quebec
+SRR24326230	country	Canada	Canada: Quebec
+SRR24326229	country	Canada	Canada: Quebec
+SRR24326228	country	Canada	Canada: Ontario
+SRR24326227	country	Canada	Canada: Ontario
+SRR24326226	country	Canada	Canada: Quebec
+SRR24326225	country	Canada	Canada: Ontario
+SRR24326224	country	Canada	Canada: Ontario
+SRR24326223	country	Canada	Canada: Ontario
+SRR24326221	country	Canada	Canada: Ontario
+SRR24326220	country	Canada	Canada: Ontario
+SRR24326219	country	Canada	Canada: Ontario
+SRR24326218	country	Canada	Canada: Ontario
+SRR24326217	country	Canada	Canada: Ontario
+SRR24326216	country	Canada	Canada: Ontario
+SRR24326215	country	Canada	Canada: Ontario
+SRR24326214	country	Canada	Canada: Quebec
+SRR24326213	country	Canada	Canada: Ontario
+SRR24326212	country	Canada	Canada: Ontario
+SRR24326211	country	Canada	Canada: Ontario
+SRR24326210	country	Canada	Canada: Ontario
+SRR24326209	country	Canada	Canada: Ontario
+SRR24326208	country	Canada	Canada: Ontario
+SRR24326207	country	Canada	Canada: Ontario
+SRR24326206	country	Canada	Canada: Ontario
+SRR24326205	country	Canada	Canada: Ontario
+SRR24326204	country	Canada	Canada: Quebec
+SRR24326203	country	Canada	Canada: Ontario
+SRR24326202	country	Canada	Canada: Ontario
+SRR24326201	country	Canada	Canada: Ontario
+SRR24326200	country	Canada	Canada: Ontario
+SRR24326199	country	Canada	Canada: Ontario
+SRR24326198	country	Canada	Canada: Ontario
+SRR24326197	country	Canada	Canada: Ontario
+SRR24326196	country	Canada	Canada: Ontario
+SRR24326195	country	Canada	Canada: Ontario
+SRR24326194	country	Canada	Canada: Ontario
+SRR24326193	country	Canada	Canada: Quebec
+SRR24326192	country	Canada	Canada: Ontario
+SRR24326191	country	Canada	Canada: Ontario
+SRR24326190	country	Canada	Canada: Ontario
+SRR24326189	country	Canada	Canada: Ontario
+SRR24326188	country	Canada	Canada: Ontario
+SRR23179856	country	Canada	Canada: Quebec
+SRR23179855	country	Canada	Canada: Quebec
+SRR23179854	country	Canada	Canada: Quebec
+SRR23179853	country	Canada	Canada: Quebec
+SRR23179852	country	Canada	Canada: Ontario
+SRR23179851	country	Canada	Canada: Quebec
+SRR23179850	country	Canada	Canada: Quebec
+SRR23179849	country	Canada	Canada: Ontario
+SRR23179848	country	Canada	Canada: Ontario
+SRR23179847	country	Canada	Canada: Ontario
+SRR23179846	country	Canada	Canada: Ontario
+SRR23179845	country	Canada	Canada: Ontario
+SRR23179844	country	Canada	Canada: Quebec
+SRR23179843	country	Canada	Canada: Quebec
+SRR23179842	country	Canada	Canada: Ontario
+SRR23179841	country	Canada	Canada: Quebec
+SRR23179840	country	Canada	Canada: Quebec
+SRR23179839	country	Canada	Canada: Quebec
+SRR23179838	country	Canada	Canada: Quebec
+SRR23179837	country	Canada	Canada: Quebec
+SRR23179836	country	Canada	Canada: Quebec
+SRR23179835	country	Canada	Canada: Ontario
+SRR23179834	country	Canada	Canada: Quebec
+SRR23179833	country	Canada	Canada: Quebec
+SRR23179832	country	Canada	Canada: Ontario
+SRR23179831	country	Canada	Canada: Quebec
+SRR23179830	country	Canada	Canada: Quebec
+SRR23179829	country	Canada	Canada: Ontario
+SRR23179828	country	Canada	Canada: Ontario
+SRR23179827	country	Canada	Canada: Ontario
+SRR23179826	country	Canada	Canada: Ontario
+SRR23179825	country	Canada	Canada: Ontario
+SRR23179824	country	Canada	Canada: Ontario
+SRR23179823	country	Canada	Canada: Ontario
+SRR23179822	country	Canada	Canada: Ontario
+SRR23179821	country	Canada	Canada: Ontario
+SRR23179820	country	Canada	Canada: Quebec
+SRR23179819	country	Canada	Canada: Ontario
+SRR23179818	country	Canada	Canada: Quebec
+SRR23179817	country	Canada	Canada: Quebec
+SRR23179816	country	Canada	Canada: Ontario
+SRR23179815	country	Canada	Canada: Ontario
+SRR23179814	country	Canada	Canada: Ontario
+SRR23179813	country	Canada	Canada: Ontario
+SRR23179812	country	Canada	Canada: Quebec
+SRR23179811	country	Canada	Canada: Quebec
+SRR23179810	country	Canada	Canada: Quebec
+SRR23179809	country	Canada	Canada: Ontario
+SRR23179808	country	Canada	Canada: Ontario
+SRR23179806	country	Canada	Canada: Ontario
+SRR23179805	country	Canada	Canada: Ontario
+SRR23179804	country	Canada	Canada: Ontario
+SRR23179803	country	Canada	Canada: Ontario
+SRR23179802	country	Canada	Canada: Quebec
+SRR23179801	country	Canada	Canada: Quebec
+SRR23179800	country	Canada	Canada: Ontario
+SRR23179799	country	Canada	Canada: Quebec
+SRR23179798	country	Canada	Canada: Quebec
+SRR23179797	country	Canada	Canada: Quebec
+SRR23179796	country	Canada	Canada: Quebec
+SRR23179794	country	Canada	Canada: Quebec
+SRR23179792	country	Canada	Canada: Ontario
+SRR23179791	country	Canada	Canada: Ontario
+SRR23179790	country	Canada	Canada: Quebec
+SRR19395035	country	Ireland	Ireland: Cork
+SRR19395034	country	Ireland	Ireland: Kerry
+SRR19395033	country	Ireland	Ireland: Clare
+SRR19395024	country	Ireland	Ireland: Cork
+SRR19395016	country	Ireland	Ireland: Tyrone
+SRR19395015	country	Ireland	Ireland: Tyrone
+SRR19395014	country	Ireland	Ireland: Tyrone
+SRR19395013	country	Ireland	Ireland: Cork
+SRR19395012	country	Ireland	Ireland: Cork
+SRR19395011	country	Ireland	Ireland: Cork
+SRR19395010	country	Ireland	Ireland: Cork
+SRR19395009	country	Ireland	Ireland: Cork
+SRR19395008	country	Ireland	Ireland: Cork
+SRR19395007	country	Ireland	Ireland: Cork
+SRR19395006	country	Ireland	Ireland: Cork
+SRR19395005	country	Ireland	Ireland: Cork
+SRR19395004	country	Ireland	Ireland: Cork
+SRR19395003	country	Ireland	Ireland: Cork
+SRR19395002	country	Ireland	Ireland: Cork
+SRR19395001	country	Ireland	Ireland: Cork
+SRR19395000	country	Ireland	Ireland: Cork
+SRR19394999	country	Ireland	Ireland: Cork
+SRR19394998	country	Ireland	Ireland: Cork
+SRR19394997	country	Ireland	Ireland: Cork
+SRR19394996	country	Ireland	Ireland: Cork
+SRR19394995	country	Ireland	Ireland: Cork
+SRR19394994	country	Ireland	Ireland: Cork
+SRR19394993	country	Ireland	Ireland: Cork
+SRR19394992	country	Ireland	Ireland: Cork
+SRR19394991	country	Ireland	Ireland: Cork
+SRR19394990	country	Ireland	Ireland: Cork
+SRR19394989	country	Ireland	Ireland: Cork
+SRR19394988	country	Ireland	Ireland: Tyrone
+SRR19394987	country	Ireland	Ireland: Tyrone
+SRR19394985	country	Ireland	Ireland: Tyrone
+SRR19394984	country	Ireland	Ireland: Tyrone
+SRR19394983	country	Ireland	Ireland: Tyrone
+SRR19394982	country	Ireland	Ireland: Tyrone
+SRR19394981	country	Ireland	Ireland: Tyrone
+SRR19394980	country	Ireland	Ireland: Tyrone
+SRR19394979	country	Ireland	Ireland: Tyrone
+SRR19394978	country	Ireland	Ireland: Cork
+SRR19394977	country	Ireland	Ireland: Tyrone
+SRR19394976	country	Ireland	Ireland: Tyrone
+SRR19394975	country	Ireland	Ireland: Tyrone
+SRR19394974	country	Ireland	Ireland: Tyrone
+SRR19394973	country	Ireland	Ireland: Tyrone
+SRR19394972	country	Ireland	Ireland: Tyrone
+SRR19394971	country	Ireland	Ireland: Cork
+SRR19394970	country	Ireland	Ireland: Cork
+SRR19394969	country	Ireland	Ireland: Cork
+SRR19394968	country	Ireland	Ireland: Cork
+SRR19394967	country	Ireland	Ireland: Cork
+SRR19394966	country	Ireland	Ireland: Cork
+SRR19394965	country	Ireland	Ireland: Cork
+SRR19394964	country	Ireland	Ireland: Cork
+SRR19394962	country	Ireland	Ireland: Cork
+SRR19394961	country	Ireland	Ireland: Cork
+SRR19394960	country	Ireland	Ireland: Cork
+SRR19394959	country	Ireland	Ireland: Cork
+SRR19394958	country	Ireland	Ireland: Cork
+SRR19394957	country	Ireland	Ireland: Cork
+SRR19394956	country	Ireland	Ireland: Cork
+SRR19394955	country	Ireland	Ireland: Cork
+SRR19394954	country	Ireland	Ireland: Cork
+SRR19394953	country	Ireland	Ireland: Cork
+SRR19394951	country	Ireland	Ireland: Cork
+SRR19394950	country	Ireland	Ireland: Cork
+SRR19394949	country	Ireland	Ireland: Cork
+SRR19394948	country	Ireland	Ireland: Cork
+SRR19394947	country	Ireland	Ireland: Cork
+SRR19394946	country	Ireland	Ireland: Cork
+SRR19394945	country	Ireland	Ireland: Cork
+SRR19394944	country	Ireland	Ireland: Cork
+SRR19394943	country	Ireland	Ireland: Cork
+SRR19394942	country	Ireland	Ireland: Cork
+SRR19394940	country	Ireland	Ireland: Cork
+SRR19394939	country	Ireland	Ireland: Cork
+SRR19394938	country	Ireland	Ireland: Cork
+SRR19394937	country	Ireland	Ireland: Cork
+SRR19394936	country	Ireland	Ireland: Cork
+SRR19394935	country	Ireland	Ireland: Cork
+SRR19394934	country	Ireland	Ireland: Cork
+SRR19394933	country	Ireland	Ireland: Cork
+SRR19394932	country	Ireland	Ireland: Cork
+SRR19394931	country	Ireland	Ireland: Cork
+SRR19394929	country	Ireland	Ireland: Cork
+SRR19394928	country	Ireland	Ireland: Cork
+SRR19394927	country	Ireland	Ireland: Cork
+SRR19394926	country	Ireland	Ireland: Cork
+SRR19394925	country	Ireland	Ireland: Cork
+SRR19394924	country	Ireland	Ireland: Cork
+SRR19394923	country	Ireland	Ireland: Cork
+SRR19394922	country	Ireland	Ireland: Cork
+SRR19394921	country	Ireland	Ireland: Cork
+SRR19394920	country	Ireland	Ireland: Cork
+SRR19394919	country	Ireland	Ireland: Cork
+SRR19394918	country	Ireland	Ireland: Cork
+SRR19394917	country	Ireland	Ireland: Cork
+SRR19394916	country	Ireland	Ireland: Cork
+SRR19394915	country	Ireland	Ireland: Cork
+SRR19394914	country	Ireland	Ireland: Cork
+SRR19394913	country	Ireland	Ireland: Cork
+SRR19394912	country	Ireland	Ireland: Cork
+SRR19394911	country	Ireland	Ireland: Cork
+SRR19394910	country	Ireland	Ireland: Cork
+SRR19394909	country	Ireland	Ireland: Cork
+SRR19394908	country	Ireland	Ireland: Cork
+SRR19394907	country	Ireland	Ireland: Cork
+SRR19394906	country	Ireland	Ireland: Cork
+SRR19394905	country	Ireland	Ireland: Cork
+SRR19394904	country	Ireland	Ireland: Cork
+SRR19394903	country	Ireland	Ireland: Cork
+SRR19394902	country	Ireland	Ireland: Cork
+SRR19394901	country	Ireland	Ireland: Kerry
+SRR19394900	country	Ireland	Ireland: Clare
+SRR15101044	country	India	India: Mathura
+SRR14863475	country	Ireland	Ireland: Cavan
+SRR14863474	country	Ireland	Ireland: Cork
+SRR14863473	country	Ireland	Ireland: Meath
+SRR14863472	country	Ireland	Ireland: Tipperary
+SRR14863471	country	Ireland	Ireland: Tipperary
+SRR14863470	country	Ireland	Ireland: Cork
+SRR14863468	country	Ireland	Ireland: Wexford
+SRR14863467	country	Ireland	Ireland: Kerry
+SRR14863466	country	Ireland	Ireland: Cork
+SRR14863465	country	Ireland	Ireland: Cork
+SRR14863464	country	Ireland	Ireland: Clare
+SRR14863463	country	Ireland	Ireland: Cork
+SRR14863462	country	Ireland	Ireland: Louth
+SRR14863460	country	Ireland	Ireland: Kerry
+SRR14863459	country	Ireland	Ireland: Monaghan
+SRR14863458	country	Ireland	Ireland: Westmeath
+SRR14863457	country	Ireland	Ireland: Westmeath
+SRR14863456	country	Ireland	Ireland: Westmeath
+SRR14863455	country	Ireland	Ireland: Westmeath
+SRR14863454	country	Ireland	Ireland: Westmeath
+SRR14863453	country	Ireland	Ireland: Kerry
+SRR14863451	country	Ireland	Ireland: Louth
+SRR14863450	country	Ireland	Ireland: Clare
+SRR14863449	country	Ireland	Ireland: Cork
+SRR14863448	country	Ireland	Ireland: Cork
+SRR14863447	country	Ireland	Ireland: Cork
+SRR14863446	country	Ireland	Ireland: Tipperary
+SRR14863445	country	Ireland	Ireland: Kildare
+SRR14863444	country	Ireland	Ireland: Kildare
+SRR14863443	country	Ireland	Ireland: Tipperary
+SRR14863442	country	Ireland	Ireland: Laois
+SRR14863441	country	Ireland	Ireland: Clare
+SRR14863440	country	Ireland	Ireland: Louth
+SRR14863438	country	Ireland	Ireland: Westmeath
+SRR14863437	country	Ireland	Ireland: Cork
+SRR14863436	country	Ireland	Ireland: Limerick
+SRR14863435	country	Ireland	Ireland: Limerick
+SRR14863434	country	Ireland	Ireland: Galway
+SRR14863433	country	Ireland	Ireland: Kerry
+SRR14863432	country	Ireland	Ireland: Kerry
+SRR14863431	country	Ireland	Ireland: Kerry
+SRR14863430	country	Ireland	Ireland: Wexford
+SRR14863429	country	Ireland	Ireland: Limerick
+SRR14863428	country	Ireland	Ireland: Sligo
+SRR14863427	country	Ireland	Ireland: Kerry
+SRR14863426	country	Ireland	Ireland: Kildare
+SRR14863425	country	Ireland	Ireland: Kildare
+SRR14863424	country	Ireland	Ireland: Tipperary
+SRR14863423	country	Ireland	Ireland: Clare
+SRR14863422	country	Ireland	Ireland: Laois
+SRR14863421	country	Ireland	Ireland: Tipperary
+SRR14863420	country	Ireland	Ireland: Galway
+SRR14863419	country	Ireland	Ireland: Westmeath
+SRR14863418	country	Ireland	Ireland: Meath
+SRR14863417	country	Ireland	Ireland: Meath
+SRR14863416	country	Ireland	Ireland: Kerry
+SRR14863415	country	Ireland	Ireland: Kerry
+SRR14863414	country	Ireland	Ireland: Cork
+SRR14863413	country	Ireland	Ireland: Kildare
+SRR14863412	country	Ireland	Ireland: Kerry
+SRR14863411	country	Ireland	Ireland: Cork
+SRR14863410	country	Ireland	Ireland: Kildare
+SRR14863409	country	Ireland	Ireland: Cavan
+SRR14863408	country	Ireland	Ireland: Cork
+SRR14863407	country	Ireland	Ireland: Cork
+SRR14863406	country	Ireland	Ireland: Clare
+SRR14863405	country	Ireland	Ireland: Galway
+SRR14863404	country	Ireland	Ireland: Meath
+SRR14863403	country	Ireland	Ireland: Meath
+SRR14863402	country	Ireland	Ireland: Derry
+SRR14863401	country	Ireland	Ireland: Down
+SRR14863400	country	Ireland	Ireland: Antrim
+SRR14863399	country	Ireland	Ireland: Antrim
+SRR14863398	country	Ireland	Ireland: Tyrone
+SRR14863397	country	Ireland	Ireland: Clare
+SRR14863396	country	Ireland	Ireland: Cork
+SRR14863395	country	Ireland	Ireland: Clare
+SRR14863394	country	Ireland	Ireland: Clare
+SRR14863393	country	Ireland	Ireland: Dublin
+SRR14863392	country	Ireland	Ireland: Kerry
+SRR14863391	country	Ireland	Ireland: Tyrone
+SRR14863390	country	Ireland	Ireland: Tyrone
+SRR14863389	country	Ireland	Ireland: Down
+SRR14863388	country	Ireland	Ireland: Down
+SRR14863387	country	Ireland	Ireland: Down
+SRR14863386	country	Ireland	Ireland: Down
+SRR14863385	country	Ireland	Ireland: Cork
+SRR14863384	country	Ireland	Ireland: Down
+SRR14863383	country	Ireland	Ireland: Down
+SRR14863382	country	Ireland	Ireland: Down
+SRR14863381	country	Ireland	Ireland: Down
+SRR14863380	country	Ireland	Ireland: Derry
+SRR14863379	country	Ireland	Ireland: Derry
+SRR14863378	country	Ireland	Ireland: Derry
+SRR14863377	country	Ireland	Ireland: Derry
+SRR14863376	country	Ireland	Ireland: Derry
+SRR14863375	country	Ireland	Ireland: Derry
+SRR14863374	country	Ireland	Ireland: Cork
+SRR14863373	country	Ireland	Ireland: Derry
+SRR14863372	country	Ireland	Ireland: Derry
+SRR14863371	country	Ireland	Ireland: Derry
+SRR14863370	country	Ireland	Ireland: Derry
+SRR14863368	country	Ireland	Ireland: Tyrone
+SRR14863367	country	Ireland	Ireland: Tyrone
+SRR14863366	country	Ireland	Ireland: Limerick
+SRR14863365	country	Ireland	Ireland: Clare
+SRR14863364	country	Ireland	Ireland: Cork
+SRR14863363	country	Ireland	Ireland: Clare
+SRR14863362	country	Ireland	Ireland: Clare
+SRR14863361	country	Ireland	Ireland: Donegal
+SRR14863360	country	Ireland	Ireland: Tipperary
+SRR14863359	country	Ireland	Ireland: Donegal
+SRR14863358	country	Ireland	Ireland: Louth
+SRR14863357	country	Ireland	Ireland: Kilkenny
+SRR14863356	country	Ireland	Ireland: Kerry
+SRR14863355	country	Ireland	Ireland: Limerick
+SRR14863354	country	Ireland	Ireland: Cavan
+SRR14863353	country	Ireland	Ireland: Cork
+SRR14863351	country	Ireland	Ireland: Limerick
+SRR14863350	country	Ireland	Ireland: Leitrim
+SRR14863349	country	Ireland	Ireland: Leitrim
+SRR14863348	country	Ireland	Ireland: Laois
+SRR14863347	country	Ireland	Ireland: Laois
+SRR14863346	country	Ireland	Ireland: Wexford
+SRR14863345	country	Ireland	Ireland: Roscommon
+SRR14863344	country	Ireland	Ireland: Clare
+SRR14863343	country	Ireland	Ireland: Cavan
+SRR14863342	country	Ireland	Ireland: Cork
+SRR14863341	country	Ireland	Ireland: Louth
+SRR14863340	country	Ireland	Ireland: Mayo
+SRR14863339	country	Ireland	Ireland: Limerick
+SRR14863338	country	Ireland	Ireland: Clare
+SRR14863337	country	Ireland	Ireland: Clare
+SRR14863336	country	Ireland	Ireland: Cork
+SRR14863335	country	Ireland	Ireland: Wexford
+SRR14863334	country	Ireland	Ireland: Wexford
+SRR14863333	country	Ireland	Ireland: Clare
+SRR14863332	country	Ireland	Ireland: Clare
+SRR14863331	country	Ireland	Ireland: Dublin
+SRR14863330	country	Ireland	Ireland: Donegal
+SRR14863329	country	Ireland	Ireland: Wexford
+SRR14863328	country	Ireland	Ireland: Kerry
+SRR14863327	country	Ireland	Ireland: Clare
+SRR14863326	country	Ireland	Ireland: Tipperary
+SRR14863325	country	Ireland	Ireland: Cork
+SRR14863324	country	Ireland	Ireland: Cork
+SRR14863323	country	Ireland	Ireland: Cork
+SRR14863322	country	Ireland	Ireland: Wicklow
+SRR14863321	country	Ireland	Ireland: Cork
+SRR14863320	country	Ireland	Ireland: Clare
+SRR14863319	country	Ireland	Ireland: Meath
+SRR14863318	country	Ireland	Ireland: Meath
+SRR14863317	country	Ireland	Ireland: Meath
+SRR14863316	country	Ireland	Ireland: Meath
+SRR14863315	country	Ireland	Ireland: Meath
+SRR14863314	country	Ireland	Ireland: Meath
+SRR14863313	country	Ireland	Ireland: Waterford
+SRR14863312	country	Ireland	Ireland: Wexford
+SRR14863311	country	Ireland	Ireland: Clare
+SRR14863310	country	Ireland	Ireland: Waterford
+SRR14863309	country	Ireland	Ireland: Waterford
+SRR14863308	country	Ireland	Ireland: Kerry
+SRR14863307	country	Ireland	Ireland: Mayo
+SRR14863306	country	Ireland	Ireland: Clare
+SRR14863305	country	Ireland	Ireland: Clare
+SRR14863304	country	Ireland	Ireland: Waterford
+SRR14863303	country	Ireland	Ireland: Clare
+SRR14863302	country	Ireland	Ireland: Limerick
+SRR14863301	country	Ireland	Ireland: Cork
+SRR14863300	country	Ireland	Ireland: Clare
+SRR14863299	country	Ireland	Ireland: Cork
+SRR14863298	country	Ireland	Ireland: Cork
+SRR14863297	country	Ireland	Ireland: Sligo
+SRR14863296	country	Ireland	Ireland: Cork
+SRR14863295	country	Ireland	Ireland: Tipperary
+SRR14863294	country	Ireland	Ireland: Cork
+SRR14863292	country	Ireland	Ireland: Kildare
+SRR14863291	country	Ireland	Ireland: Kildare
+SRR14863290	country	Ireland	Ireland: Tipperary
+SRR14863289	country	Ireland	Ireland: Clare
+SRR14863288	country	Ireland	Ireland: Laois
+SRR14863287	country	Ireland	Ireland: Kerry
+SRR14863285	country	Ireland	Ireland: Louth
+SRR14863284	country	Ireland	Ireland: Louth
+SRR14863283	country	Ireland	Ireland: Tyrone
+SRR14863282	country	Ireland	Ireland: Derry
+SRR14863281	country	Ireland	Ireland: Wexford
+SRR14863280	country	Ireland	Ireland: Wexford
+SRR14863279	country	Ireland	Ireland: Kildare
+SRR14335547	country	USA	USA:NY
+SRR14335546	country	USA	USA:NY
+SRR14335525	country	USA	USA:NY
+SRR14335522	country	USA	USA:NY
+SRR13396024	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396023	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396022	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396021	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396020	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13396002	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395987	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395951	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395950	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395949	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395931	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395930	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395929	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395928	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395926	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395925	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395924	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395905	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395894	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395883	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395876	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395875	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395874	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395872	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395871	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395868	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395862	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395861	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395851	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395848	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395839	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395827	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395816	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395772	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395727	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395913	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395810	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR14335475	country	USA	USA:VT
+SRR14335506	country	USA	USA:PA
+SRR14335498	country	USA	USA:VT
+SRR14335497	country	USA	USA:VT
+SRR14335482	country	USA	USA:VT
+SRR14335481	country	USA	USA:VT
+SRR14335473	country	USA	USA:VT
+SRR13396010	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395902	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395897	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395890	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395889	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395885	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395830	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395828	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395803	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395774	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395722	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395854	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR3050069	country	Canada	Canada:PE
+SRR3050068	country	Canada	Canada:ON
+SRR3050064	country	Canada	Canada:ON
+SRR3050063	country	Canada	Canada:ON
+SRR3050062	country	Canada	Canada:ON
+SRR3050061	country	Canada	Canada:ON
+SRR3050060	country	Canada	Canada:ON
+SRR3050059	country	Canada	Canada:BC
+SRR3050056	country	Canada	Canada:ON
+SRR3050055	country	Canada	Canada:ON
+SRR3050054	country	Canada	Canada:ON
+SRR3050053	country	Canada	Canada:ON
+SRR3050052	country	Canada	Canada:ON
+SRR3050051	country	Canada	Canada:ON
+SRR3050048	country	Canada	Canada:QC
+SRR3050042	country	Canada	Canada:AB
+SRR3050041	country	Canada	Canada:AB
+SRR3050037	country	Canada	Canada:AB
+SRR3050036	country	Canada	Canada:AB
+SRR3050035	country	Canada	Canada:AB
+SRR3050026	country	Canada	Canada:QC
+SRR3050024	country	Canada	Canada:AB
+SRR3050023	country	Canada	Canada:QC
+SRR3050021	country	Canada	Canada:QC
+SRR3050020	country	Canada	Canada:QC
+SRR3050019	country	Canada	Canada:QC
+SRR3050018	country	Canada	Canada:QC
+SRR3050016	country	Canada	Canada:QC
+SRR3050015	country	Canada	Canada:SK
+SRR3050013	country	Canada	Canada:QC
+SRR3050012	country	Canada	Canada:QC
+SRR3050010	country	Canada	Canada:QC
+SRR3050009	country	Canada	Canada:QC
+SRR3050008	country	Canada	Canada:QC
+SRR3050006	country	Canada	Canada:AB
+SRR3050005	country	Canada	Canada:AB
+SRR3050004	country	Canada	Canada:AB
+SRR3050003	country	Canada	Canada:AB
+SRR1793772	country	Canada	Canada:SK
+SRR1793771	country	Canada	Canada:AB
+SRR1793770	country	Canada	Canada:AB
+SRR1793769	country	Canada	Canada:SK
+SRR1793767	country	Canada	Canada:AB
+SRR1793766	country	Canada	Canada:SK
+SRR1793762	country	Canada	Canada:SK
+SRR1793761	country	Canada	Canada:SK
+SRR1793760	country	Canada	Canada:AB
+SRR1793759	country	Canada	Canada:AB
+SRR1793758	country	Canada	Canada:SK
+SRR1793757	country	Canada	Canada:SK
+SRR1793754	country	Canada	Canada:SK
+SRR1793753	country	Canada	Canada:AB
+SRR1793752	country	Canada	Canada:SK
+SRR1793747	country	Canada	Canada:AT
+SRR1793745	country	Canada	Canada:AB
+SRR1793744	country	Canada	Canada:SK
+SRR1793743	country	Canada	Canada:AB
+SRR1793742	country	Canada	Canada:AB
+SRR1793741	country	Canada	Canada:AB
+SRR1793740	country	Canada	Canada:AB
+SRR1793738	country	Canada	Canada:AB
+SRR1793737	country	Canada	Canada:AB
+SRR1793733	country	Canada	Canada:AB
+SRR1793731	country	Canada	Canada:AB
+SRR1793730	country	Canada	Canada:SK
+SRR1793729	country	Canada	Canada:SK
+SRR1793727	country	Canada	Canada:AT
+SRR1793726	country	Canada	Canada:AT
+SRR1793725	country	Canada	Canada:AT
+SRR1793724	country	Canada	Canada:AT
+SRR1793723	country	Canada	Canada:AT
+SRR1793722	country	Canada	Canada:AT
+SRR1793721	country	Canada	Canada:ON
+SRR1793720	country	Canada	Canada:ON
+SRR1793719	country	Canada	Canada:ON
+SRR1793718	country	Canada	Canada:ON
+SRR1793717	country	Canada	Canada:ON
+SRR1793716	country	Canada	Canada:ON
+SRR1793715	country	Canada	Canada:AB
+SRR1793714	country	Canada	Canada:AB
+SRR1793713	country	Canada	Canada:AB
+SRR1793712	country	Canada	Canada:AB
+SRR1793711	country	Canada	Canada:ON
+SRR1793709	country	Canada	Canada:QC
+SRR1793708	country	Canada	Canada:ON
+SRR1793707	country	Canada	Canada:BC
+SRR1793706	country	Canada	Canada:BC
+SRR1793705	country	Canada	Canada:AB
+SRR1793704	country	Canada	Canada:ON
+SRR1793703	country	Canada	Canada:ON
+SRR1793702	country	Canada	Canada:ON
+SRR1793701	country	Canada	Canada:BC
+SRR1793700	country	Canada	Canada:BC
+SRR1793699	country	Canada	Canada:ON
+SRR1793698	country	Canada	Canada:ON
+SRR1793697	country	Canada	Canada:AB
+SRR1793696	country	Canada	Canada:AB
+SRR1793691	country	Canada	Canada:AB
+SRR1793690	country	Canada	Canada:AB
+SRR1793689	country	Canada	Canada:AB
+SRR1793688	country	Canada	Canada:AB
+SRR1793687	country	Canada	Canada:AB
+SRR1793686	country	Canada	Canada:QC
+SRR1793685	country	Canada	Canada:QC
+SRR1793684	country	Canada	Canada:SK
+SRR1793683	country	Canada	Canada:QC
+SRR1793681	country	Canada	Canada:ON
+SRR1793680	country	Canada	Canada:AB
+SRR1793679	country	Canada	Canada:AB
+SRR1793678	country	Canada	Canada:AB
+SRR1793677	country	Canada	Canada:AB
+SRR1793676	country	Canada	Canada:AB
+SRR1793675	country	Canada	Canada:AB
+SRR1793674	country	Canada	Canada:AB
+SRR1793673	country	Canada	Canada:AB
+SRR1793672	country	Canada	Canada:AB
+SRR1793669	country	Canada	Canada:AB
+SRR1793668	country	Canada	Canada:AB
+SRR1793667	country	Canada	Canada:AB
+SRR1793666	country	Canada	Canada:AB
+SRR1793665	country	Canada	Canada:AB
+SRR1793664	country	Canada	Canada:AB
+SRR1793663	country	Canada	Canada:AB
+SRR1793662	country	Canada	Canada:AB
+SRR1793661	country	Canada	Canada:AB
+SRR14335517	country	USA	USA:PA
+SRR14335501	country	USA	USA:PA
+SRR8177401	country	Australia	Australia:New South Wales, Central Tablelands
+SRR5204549	country	Portugal	Portugal:Vila do Conde
+SRR5204548	country	Portugal	Portugal:Azores, Sao Miguel
+SRR13395942	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395850	country	USA	USA: Petersburgh, NY (Evergreen Farm)
+SRR13395811	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395760	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395730	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395919	country	USA	USA: Blair, PA (Ridge Side Dairy)
+SRR13395781	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395762	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395882	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395879	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR13395877	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR12593860	country	Argentina	Argentina: Buenos Aires
+SRR12593859	country	Argentina	Argentina: Buenos Aires
+SRR12593858	country	Argentina	Argentina: Buenos Aires
+SRR13395860	country	USA	USA: Rutland, VT (Harvey Farms)
+SRR25024359	country	Italy	Italy: Parco dello Stelvio
+SRR25024357	country	Italy	Italy: Parco dello Stelvio
+SRR25024356	country	Italy	Italy: Parco dello Stelvio
+SRR25024355	country	Italy	Italy: Parco dello Stelvio
+SRR25024354	country	Italy	Italy: Parco dello Stelvio
+SRR25024353	country	Italy	Italy: Parco dello Stelvio
+SRR25024351	country	Italy	Italy: Parco dello Stelvio
+SRR25024350	country	Italy	Italy: Parco dello Stelvio
+SRR25024349	country	Italy	Italy: Parco dello Stelvio
+SRR25024348	country	Italy	Italy: Parco dello Stelvio
+SRR25024347	country	Italy	Italy: Parco dello Stelvio
+SRR25024346	country	Italy	Italy: Parco dello Stelvio
+SRR13395907	host	Cattle	Herd
+SRR13395853	host	Cattle	Bovine
+SRR13395923	host	Cattle	Bovine
+SRR11839143	host	Goat	Caprine
+SRR11839099	host	Camel	Camelid
+SRR11839079	host	Human	Homo-sapien
+SRR11838948	host	Human	Homo-sapien
+SRR13395998	host	Cattle	Bovine
+SRR13395999	host	Cattle	Bovine
+SRR13396000	host	Cattle	Bovine
+SRR13395845	host	Cattle	Bovine
+SRR13395723	host	Cattle	Bovine
+SRR13395896	host	Cattle	Bovine
+SRR13395892	host	Cattle	Bovine
+SRR13395895	host	Cattle	Bovine
+SRR13395893	host	Cattle	Bovine
+SRR14335523	host	Environment	environmental
+SRR14335484	host	Environment	environmental
+SRR14335483	host	Environment	environmental
+SRR14335499	host	Environment	environmental
+SRR13396028	host	Cattle	Bovine
+SRR13396027	host	Cattle	Bovine
+SRR13396007	host	Cattle	Bovine
+SRR13395983	host	Cattle	Bovine
+SRR13395982	host	Cattle	Bovine
+SRR13395981	host	Cattle	Bovine
+SRR13395976	host	Cattle	Bovine
+SRR13395975	host	Cattle	Bovine
+SRR13395974	host	Cattle	Bovine
+SRR13395972	host	Cattle	Bovine
+SRR13395971	host	Cattle	Bovine
+SRR13395970	host	Cattle	Bovine
+SRR13395969	host	Cattle	Bovine
+SRR13395968	host	Cattle	Bovine
+SRR13395967	host	Cattle	Bovine
+SRR13395963	host	Cattle	Herd
+SRR13395959	host	Cattle	Bovine
+SRR13395958	host	Cattle	Bovine
+SRR13395957	host	Cattle	Bovine
+SRR13395956	host	Cattle	Bovine
+SRR13395955	host	Cattle	Bovine
+SRR13395954	host	Cattle	Bovine
+SRR13395953	host	Cattle	Bovine
+SRR13395952	host	Cattle	Bovine
+SRR13395948	host	Cattle	Herd
+SRR13395945	host	Cattle	Bovine
+SRR13395944	host	Cattle	Bovine
+SRR13395943	host	Cattle	Bovine
+SRR13395910	host	Cattle	Bovine
+SRR13395908	host	Cattle	Bovine
+SRR13395906	host	Cattle	Bovine
+SRR13395903	host	Cattle	Bovine
+SRR13395899	host	Cattle	Bovine
+SRR13395824	host	Cattle	Bovine
+SRR13395823	host	Cattle	Bovine
+SRR13395822	host	Cattle	Bovine
+SRR13395821	host	Cattle	Bovine
+SRR13395820	host	Cattle	Bovine
+SRR13395819	host	Cattle	Bovine
+SRR13395818	host	Cattle	Bovine
+SRR13395817	host	Cattle	Bovine
+SRR13395815	host	Cattle	Bovine
+SRR13395802	host	Cattle	Bovine
+SRR13395801	host	Cattle	Bovine
+SRR13395800	host	Cattle	Bovine
+SRR13395799	host	Cattle	Bovine
+SRR13395798	host	Cattle	Bovine
+SRR13395796	host	Cattle	Bovine
+SRR13395795	host	Cattle	Bovine
+SRR13395789	host	Cattle	Bovine
+SRR13395788	host	Cattle	Bovine
+SRR13395787	host	Cattle	Bovine
+SRR13395786	host	Cattle	Herd
+SRR13395773	host	Cattle	Bovine
+SRR13395771	host	Cattle	Bovine
+SRR13395764	host	Cattle	Bovine
+SRR13395758	host	Cattle	Bovine
+SRR13395756	host	Cattle	Bovine
+SRR13395755	host	Cattle	Herd
+SRR13395751	host	Cattle	Bovine
+SRR13395746	host	Cattle	Bovine
+SRR13395745	host	Cattle	Bovine
+SRR13395744	host	Cattle	Bovine
+SRR13395743	host	Cattle	Bovine
+SRR13395742	host	Cattle	Bovine
+SRR13395741	host	Cattle	Bovine
+SRR13395740	host	Cattle	Bovine
+SRR13395738	host	Cattle	Bovine
+SRR13395737	host	Cattle	Bovine
+SRR13395736	host	Cattle	Bovine
+SRR13395734	host	Cattle	Herd
+SRR13395721	host	Cattle	Bovine
+SRR13395720	host	Cattle	Bovine
+SRR13395719	host	Cattle	Bovine
+SRR13395718	host	Cattle	Herd
+SRR13396017	host	Cattle	Bovine
+SRR13395837	host	Cattle	Bovine
+SRR13395840	host	Cattle	Bovine
+SRR13396019	host	Cattle	Bovine
+SRR13396013	host	Cattle	Bovine
+SRR13396008	host	Cattle	Bovine
+SRR13395997	host	Cattle	Bovine
+SRR13395993	host	Cattle	Bovine
+SRR13395990	host	Cattle	Bovine
+SRR13395979	host	Cattle	Bovine
+SRR13395977	host	Cattle	Bovine
+SRR13395936	host	Cattle	Bovine
+SRR13395933	host	Cattle	Bovine
+SRR13395914	host	Cattle	Bovine
+SRR13395909	host	Cattle	Bovine
+SRR13395901	host	Cattle	Bovine
+SRR13395898	host	Cattle	Bovine
+SRR13395884	host	Cattle	Bovine
+SRR13395838	host	Cattle	Bovine
+SRR13395832	host	Cattle	Bovine
+SRR13395829	host	Cattle	Bovine
+SRR13395794	host	Cattle	Bovine
+SRR13395783	host	Cattle	Bovine
+SRR13395769	host	Cattle	Bovine
+SRR13395768	host	Cattle	Bovine
+SRR13395767	host	Cattle	Bovine
+SRR13395739	host	Cattle	Bovine
+SRR13396014	host	Cattle	Bovine
+SRR13396012	host	Cattle	Bovine
+SRR13396009	host	Cattle	Bovine
+SRR13396004	host	Cattle	Bovine
+SRR13395992	host	Cattle	Bovine
+SRR13395985	host	Cattle	Bovine
+SRR13395947	host	Cattle	Bovine
+SRR13395946	host	Cattle	Bovine
+SRR13395939	host	Cattle	Bovine
+SRR13395934	host	Cattle	Bovine
+SRR13395932	host	Cattle	Bovine
+SRR13395927	host	Cattle	Bovine
+SRR13395888	host	Cattle	Bovine
+SRR13395852	host	Cattle	Bovine
+SRR13395847	host	Cattle	Bovine
+SRR13395841	host	Cattle	Bovine
+SRR13395833	host	Cattle	Bovine
+SRR13395807	host	Cattle	Bovine
+SRR13395797	host	Cattle	Bovine
+SRR13395780	host	Cattle	Bovine
+SRR13395779	host	Cattle	Bovine
+SRR13395777	host	Cattle	Bovine
+SRR13395766	host	Cattle	Bovine
+SRR13395761	host	Cattle	Bovine
+SRR13395729	host	Cattle	Bovine
+SRR13395728	host	Cattle	Bovine
+SRR13395726	host	Cattle	Bovine
+SRR14335545	host	Cattle	bovine
+SRR14335544	host	Cattle	bovine
+SRR14335541	host	Cattle	bovine
+SRR14335539	host	Cattle	bovine
+SRR14335538	host	Cattle	bovine
+SRR14335537	host	Cattle	bovine
+SRR14335535	host	Cattle	bovine
+SRR14335532	host	Cattle	bovine
+SRR14335531	host	Cattle	bovine
+SRR14335528	host	Cattle	bovine
+SRR14335524	host	Cattle	bovine
+SRR14335516	host	Cattle	bovine
+SRR14335515	host	Cattle	bovine
+SRR14335513	host	Cattle	bovine
+SRR14335512	host	Cattle	bovine
+SRR14335511	host	Cattle	bovine
+SRR14335509	host	Cattle	bovine
+SRR14335507	host	Cattle	bovine
+SRR14335505	host	Goat	caprine
+SRR14335504	host	Goat	caprine
+SRR14335500	host	Cattle	bovine
+SRR14335496	host	Cattle	bovine
+SRR14335494	host	Cattle	bovine
+SRR14335490	host	Cattle	bovine
+SRR14335489	host	Cattle	bovine
+SRR14335480	host	Cattle	bovine
+SRR14335478	host	Cattle	bovine
+SRR14335472	host	Cattle	bovine
+SRR13396033	host	Cattle	Bovine
+SRR13396025	host	Cattle	Bovine
+SRR12237017	host	Cattle	bovine
+SRR13395867	host	Cattle	Bovine
+SRR13395865	host	Cattle	Bovine
+SRR13395866	host	Cattle	Bovine
+SRR13395864	host	Cattle	Bovine
+SRR13395857	host	Cattle	Bovine
+SRR13395834	host	Cattle	Bovine
+SRR13395835	host	Cattle	Bovine
+SRR13396016	host	Cattle	Bovine
+SRR13396011	host	Cattle	Bovine
+SRR13396006	host	Cattle	Bovine
+SRR13396003	host	Cattle	Bovine
+SRR13395994	host	Cattle	Bovine
+SRR13395988	host	Cattle	Bovine
+SRR13395986	host	Cattle	Bovine
+SRR13395980	host	Cattle	Bovine
+SRR13395978	host	Cattle	Bovine
+SRR13395937	host	Cattle	Bovine
+SRR13395917	host	Cattle	Bovine
+SRR13395916	host	Cattle	Bovine
+SRR13395915	host	Cattle	Bovine
+SRR13395911	host	Cattle	Bovine
+SRR13395887	host	Cattle	Bovine
+SRR13395886	host	Cattle	Bovine
+SRR13395863	host	Cattle	Bovine
+SRR13395855	host	Cattle	Bovine
+SRR13395846	host	Cattle	Bovine
+SRR13395805	host	Cattle	Bovine
+SRR13395804	host	Cattle	Bovine
+SRR13395775	host	Cattle	Bovine
+SRR13395724	host	Cattle	Bovine
+SRR14335543	host	Cattle	bovine
+SRR14335542	host	Cattle	bovine
+SRR14335540	host	Cattle	bovine
+SRR14335536	host	Cattle	bovine
+SRR14335534	host	Cattle	bovine
+SRR14335533	host	Cattle	bovine
+SRR14335530	host	Cattle	bovine
+SRR14335529	host	Cattle	bovine
+SRR14335527	host	Cattle	bovine
+SRR14335526	host	Cattle	bovine
+SRR14335521	host	Cattle	bovine
+SRR14335520	host	Cattle	bovine
+SRR14335519	host	Cattle	bovine
+SRR14335518	host	Cattle	bovine
+SRR14335514	host	Cattle	bovine
+SRR14335510	host	Cattle	bovine
+SRR14335508	host	Cattle	bovine
+SRR14335503	host	Goat	caprine
+SRR14335502	host	Cattle	bovine
+SRR14335495	host	Cattle	bovine
+SRR14335493	host	Cattle	bovine
+SRR14335492	host	Cattle	bovine
+SRR14335491	host	Cattle	bovine
+SRR14335488	host	Cattle	bovine
+SRR14335487	host	Cattle	bovine
+SRR14335486	host	Cattle	bovine
+SRR14335479	host	Cattle	bovine
+SRR14335477	host	Cattle	bovine
+SRR14335476	host	Cattle	bovine
+SRR14335474	host	Cattle	bovine
+SRR14335471	host	Cattle	bovine
+SRR13396018	host	Cattle	Bovine
+SRR13395996	host	Cattle	Bovine
+SRR13395991	host	Cattle	Bovine
+SRR13395989	host	Cattle	Bovine
+SRR13395935	host	Cattle	Bovine
+SRR13395912	host	Cattle	Bovine
+SRR13395904	host	Cattle	Bovine
+SRR13395900	host	Cattle	Bovine
+SRR13395856	host	Cattle	Bovine
+SRR13395836	host	Cattle	Bovine
+SRR13395831	host	Cattle	Bovine
+SRR13395806	host	Cattle	Bovine
+SRR13395778	host	Cattle	Bovine
+SRR13395776	host	Cattle	Bovine
+SRR13395765	host	Cattle	Bovine
+SRR13395725	host	Cattle	Bovine
+SRR13395717	host	Cattle	Bovine
+SRR12237016	host	Cattle	bovine
+SRR29477257	host	Cattle	Bos taurus
+SRR29477256	host	Cattle	Bos taurus
+SRR29477255	host	Cattle	Bos taurus
+SRR29477254	host	Cattle	Bos taurus
+SRR29477252	host	Cattle	Bos taurus
+SRR29477251	host	Cattle	Bos taurus
+SRR29477250	host	Cattle	Bos taurus
+SRR29477249	host	Cattle	Bos taurus
+SRR29477248	host	Cattle	Bos taurus
+SRR29477247	host	Cattle	Bos taurus
+SRR29477246	host	Cattle	Bos taurus
+SRR29477245	host	Cattle	Bos taurus
+SRR29477244	host	Cattle	Bos taurus
+SRR29477243	host	Cattle	Bos taurus
+SRR29477242	host	Cattle	Bos taurus
+SRR29477241	host	Cattle	Bos taurus
+SRR29477240	host	Cattle	Bos taurus
+SRR29477239	host	Cattle	Bos taurus
+SRR29477238	host	Cattle	Bos taurus
+SRR29477237	host	Cattle	Bos taurus
+SRR29477236	host	Cattle	Bos taurus
+SRR29477235	host	Cattle	Bos taurus
+SRR29477234	host	Cattle	Bos taurus
+SRR29477233	host	Cattle	Bos taurus
+SRR29477232	host	Cattle	Bos taurus
+SRR29477231	host	Cattle	Bos taurus
+SRR29477230	host	Cattle	Bos taurus
+SRR29477229	host	Cattle	Bos taurus
+SRR29477228	host	Cattle	Bos taurus
+SRR29477227	host	Cattle	Bos taurus
+SRR29477226	host	Cattle	Bos taurus
+SRR29477225	host	Cattle	Bos taurus
+SRR29477224	host	Cattle	Bos taurus
+SRR29477223	host	Cattle	Bos taurus
+SRR29477222	host	Cattle	Bos taurus
+SRR29477221	host	Cattle	Bos taurus
+SRR29477220	host	Cattle	Bos taurus
+SRR29477219	host	Cattle	Bos taurus
+SRR29477218	host	Cattle	Bos taurus
+SRR29477217	host	Cattle	Bos taurus
+SRR29477216	host	Cattle	Bos taurus
+SRR29477215	host	Cattle	Bos taurus
+SRR29477214	host	Cattle	Bos taurus
+SRR29477213	host	Cattle	Bos taurus
+SRR29477212	host	Cattle	Bos taurus
+SRR29477211	host	Cattle	Bos taurus
+SRR29477210	host	Cattle	Bos taurus
+SRR29477209	host	Cattle	Bos taurus
+SRR29477208	host	Cattle	Bos taurus
+SRR29477207	host	Cattle	Bos taurus
+SRR29477206	host	Cattle	Bos taurus
+SRR29477205	host	Cattle	Bos taurus
+SRR29477204	host	Cattle	Bos taurus
+SRR29477203	host	Cattle	Bos taurus
+SRR29477202	host	Cattle	Bos taurus
+SRR29477201	host	Cattle	Bos taurus
+SRR29477200	host	Cattle	Bos taurus
+SRR29477199	host	Cattle	Bos taurus
+SRR29477198	host	Cattle	Bos taurus
+SRR29477197	host	Cattle	Bos taurus
+SRR29477196	host	Cattle	Bos taurus
+SRR29477195	host	Cattle	Bos taurus
+SRR29477194	host	Cattle	Bos taurus
+SRR29477193	host	Cattle	Bos taurus
+SRR29477192	host	Cattle	Bos taurus
+SRR29477191	host	Cattle	Bos taurus
+SRR29477190	host	Cattle	Bos taurus
+SRR29477189	host	Cattle	Bos taurus
+SRR29477188	host	Cattle	Bos taurus
+SRR29477187	host	Cattle	Bos taurus
+SRR29477186	host	Cattle	Bos taurus
+SRR29477185	host	Cattle	Bos taurus
+SRR29477184	host	Cattle	Bos taurus
+SRR29477183	host	Cattle	Bos taurus
+SRR29477182	host	Cattle	Bos taurus
+SRR29477181	host	Cattle	Bos taurus
+SRR29477180	host	Cattle	Bos taurus
+SRR29477179	host	Cattle	Bos taurus
+SRR29477178	host	Cattle	Bos taurus
+SRR29477177	host	Cattle	Bos taurus
+SRR29477176	host	Cattle	Bos taurus
+SRR29477175	host	Cattle	Bos taurus
+SRR29477174	host	Cattle	Bos taurus
+SRR29477173	host	Cattle	Bos taurus
+SRR29477172	host	Cattle	Bos taurus
+SRR29477171	host	Cattle	Bos taurus
+SRR29477170	host	Cattle	Bos taurus
+SRR29477169	host	Cattle	Bos taurus
+SRR29477168	host	Cattle	Bos taurus
+SRR29477167	host	Cattle	Bos taurus
+SRR29477166	host	Cattle	Bos taurus
+SRR29477165	host	Cattle	Bos taurus
+SRR29477164	host	Cattle	Bos taurus
+SRR29477163	host	Cattle	Bos taurus
+SRR29477162	host	Cattle	Bos taurus
+SRR29477161	host	Cattle	Bos taurus
+SRR29477160	host	Cattle	Bos taurus
+SRR29477159	host	Cattle	Bos taurus
+SRR29477158	host	Cattle	Bos taurus
+SRR29477157	host	Cattle	Bos taurus
+SRR29477156	host	Cattle	Bos taurus
+SRR29477155	host	Cattle	Bos taurus
+SRR29477154	host	Cattle	Bos taurus
+SRR29477153	host	Cattle	Bos taurus
+SRR29477152	host	Cattle	Bos taurus
+SRR29477151	host	Cattle	Bos taurus
+SRR29477150	host	Cattle	Bos taurus
+SRR29477149	host	Cattle	Bos taurus
+SRR29477148	host	Cattle	Bos taurus
+SRR29477147	host	Cattle	Bos taurus
+SRR29477146	host	Cattle	Bos taurus
+SRR29477145	host	Cattle	Bos taurus
+SRR29477144	host	Cattle	Bos taurus
+SRR29477143	host	Cattle	Bos taurus
+SRR29477142	host	Cattle	Bos taurus
+SRR29477141	host	Cattle	Bos taurus
+SRR29477140	host	Cattle	Bos taurus
+SRR29477139	host	Cattle	Bos taurus
+SRR29477138	host	Cattle	Bos taurus
+SRR29477137	host	Cattle	Bos taurus
+SRR29477136	host	Cattle	Bos taurus
+SRR29477135	host	Cattle	Bos taurus
+SRR29477134	host	Cattle	Bos taurus
+SRR29477133	host	Cattle	Bos taurus
+SRR29477132	host	Cattle	Bos taurus
+SRR29477131	host	Cattle	Bos taurus
+SRR29477130	host	Cattle	Bos taurus
+SRR29477129	host	Cattle	Bos taurus
+SRR29477128	host	Cattle	Bos taurus
+SRR29477127	host	Cattle	Bos taurus
+SRR29477126	host	Cattle	Bos taurus
+SRR29477125	host	Cattle	Bos taurus
+SRR29477124	host	Cattle	Bos taurus
+SRR29477123	host	Cattle	Bos taurus
+SRR29477122	host	Cattle	Bos taurus
+SRR29477121	host	Cattle	Bos taurus
+SRR29477120	host	Cattle	Bos taurus
+SRR29477119	host	Cattle	Bos taurus
+SRR29477118	host	Cattle	Bos taurus
+SRR29477117	host	Cattle	Bos taurus
+SRR29477116	host	Cattle	Bos taurus
+SRR29477115	host	Cattle	Bos taurus
+SRR29477114	host	Cattle	Bos taurus
+SRR29477113	host	Cattle	Bos taurus
+SRR29477112	host	Cattle	Bos taurus
+SRR29477111	host	Cattle	Bos taurus
+SRR29477110	host	Cattle	Bos taurus
+SRR29477109	host	Cattle	Bos taurus
+SRR29477108	host	Cattle	Bos taurus
+SRR29477107	host	Cattle	Bos taurus
+SRR29477106	host	Cattle	Bos taurus
+SRR29477105	host	Cattle	Bos taurus
+SRR29477104	host	Cattle	Bos taurus
+SRR29477103	host	Cattle	Bos taurus
+SRR29477102	host	Cattle	Bos taurus
+SRR29477101	host	Cattle	Bos taurus
+SRR29477100	host	Cattle	Bos taurus
+SRR29477099	host	Cattle	Bos taurus
+SRR29477098	host	Cattle	Bos taurus
+SRR29477097	host	Cattle	Bos taurus
+SRR29477096	host	Cattle	Bos taurus
+SRR29477095	host	Cattle	Bos taurus
+SRR29477094	host	Cattle	Bos taurus
+SRR29477093	host	Cattle	Bos taurus
+SRR29477092	host	Cattle	Bos taurus
+SRR29477091	host	Cattle	Bos taurus
+SRR29477090	host	Cattle	Bos taurus
+SRR29477089	host	Cattle	Bos taurus
+SRR29477088	host	Cattle	Bos taurus
+SRR29477087	host	Cattle	Bos taurus
+SRR29477086	host	Cattle	Bos taurus
+SRR29477085	host	Cattle	Bos taurus
+SRR29477084	host	Cattle	Bos taurus
+SRR29477083	host	Cattle	Bos taurus
+SRR29477082	host	Cattle	Bos taurus
+SRR29477081	host	Cattle	Bos taurus
+SRR29477080	host	Cattle	Bos taurus
+SRR29477079	host	Cattle	Bos taurus
+SRR29477078	host	Cattle	Bos taurus
+SRR29477077	host	Cattle	Bos taurus
+SRR29477076	host	Cattle	Bos taurus
+SRR29477075	host	Cattle	Bos taurus
+SRR29477074	host	Cattle	Bos taurus
+SRR29477073	host	Cattle	Bos taurus
+SRR29477072	host	Cattle	Bos taurus
+SRR29477071	host	Cattle	Bos taurus
+SRR29477070	host	Cattle	Bos taurus
+SRR29477069	host	Cattle	Bos taurus
+SRR29477068	host	Cattle	Bos taurus
+SRR29477067	host	Cattle	Bos taurus
+SRR29477066	host	Cattle	Bos taurus
+SRR29477065	host	Cattle	Bos taurus
+SRR29477064	host	Cattle	Bos taurus
+SRR29477063	host	Cattle	Bos taurus
+SRR29477062	host	Cattle	Bos taurus
+SRR29477061	host	Cattle	Bos taurus
+SRR29477060	host	Cattle	Bos taurus
+SRR29477059	host	Cattle	Bos taurus
+SRR29477058	host	Cattle	Bos taurus
+SRR29477057	host	Cattle	Bos taurus
+SRR29477056	host	Cattle	Bos taurus
+SRR29477055	host	Cattle	Bos taurus
+SRR29477054	host	Cattle	Bos taurus
+SRR29477053	host	Cattle	Bos taurus
+SRR29477052	host	Cattle	Bos taurus
+SRR29477051	host	Cattle	Bos taurus
+SRR29477050	host	Cattle	Bos taurus
+SRR29477049	host	Cattle	Bos taurus
+SRR29477048	host	Cattle	Bos taurus
+SRR29477047	host	Cattle	Bos taurus
+SRR29477046	host	Cattle	Bos taurus
+SRR29477045	host	Cattle	Bos taurus
+SRR29477044	host	Cattle	Bos taurus
+SRR29477042	host	Cattle	Bos taurus
+SRR29477041	host	Cattle	Bos taurus
+SRR29477040	host	Cattle	Bos taurus
+SRR29477039	host	Cattle	Bos taurus
+SRR29477038	host	Cattle	Bos taurus
+SRR29477037	host	Cattle	Bos taurus
+SRR29477036	host	Cattle	Bos taurus
+SRR29477034	host	Cattle	Bos taurus
+SRR29477033	host	Cattle	Bos taurus
+SRR29477032	host	Cattle	Bos taurus
+SRR29477031	host	Cattle	Bos taurus
+SRR29477030	host	Cattle	Bos taurus
+SRR29477029	host	Cattle	Bos taurus
+SRR29477028	host	Cattle	Bos taurus
+SRR29477027	host	Cattle	Bos taurus
+SRR29477026	host	Cattle	Bos taurus
+SRR29477025	host	Cattle	Bos taurus
+SRR29477024	host	Cattle	Bos taurus
+SRR29477023	host	Cattle	Bos taurus
+SRR29477022	host	Cattle	Bos taurus
+SRR29477021	host	Cattle	Bos taurus
+SRR29477020	host	Cattle	Bos taurus
+SRR29477019	host	Cattle	Bos taurus
+SRR29477018	host	Cattle	Bos taurus
+SRR29477017	host	Cattle	Bos taurus
+SRR24326312	host	Cattle	Bos taurus
+SRR24326311	host	Cattle	Bos taurus
+SRR24326310	host	Cattle	Bos taurus
+SRR24326309	host	Cattle	Bos taurus
+SRR24326308	host	Cattle	Bos taurus
+SRR24326307	host	Cattle	Bos taurus
+SRR24326306	host	Cattle	Bos taurus
+SRR24326305	host	Cattle	Bos taurus
+SRR24326304	host	Cattle	Bos taurus
+SRR24326303	host	Cattle	Bos taurus
+SRR24326302	host	Cattle	Bos taurus
+SRR24326301	host	Cattle	Bos taurus
+SRR24326300	host	Cattle	Bos taurus
+SRR24326299	host	Cattle	Bos taurus
+SRR24326298	host	Cattle	Bos taurus
+SRR24326297	host	Cattle	Bos taurus
+SRR24326296	host	Cattle	Bos taurus
+SRR24326295	host	Cattle	Bos taurus
+SRR24326294	host	Cattle	Bos taurus
+SRR24326293	host	Cattle	Bos taurus
+SRR24326292	host	Cattle	Bos taurus
+SRR24326291	host	Cattle	Bos taurus
+SRR24326290	host	Cattle	Bos taurus
+SRR24326289	host	Cattle	Bos taurus
+SRR24326288	host	Cattle	Bos taurus
+SRR24326287	host	Cattle	Bos taurus
+SRR24326286	host	Cattle	Bos taurus
+SRR24326285	host	Cattle	Bos taurus
+SRR24326284	host	Cattle	Bos taurus
+SRR24326283	host	Cattle	Bos taurus
+SRR24326282	host	Cattle	Bos taurus
+SRR24326281	host	Cattle	Bos taurus
+SRR24326280	host	Cattle	Bos taurus
+SRR24326279	host	Cattle	Bos taurus
+SRR24326278	host	Cattle	Bos taurus
+SRR24326277	host	Cattle	Bos taurus
+SRR24326276	host	Cattle	Bos taurus
+SRR24326275	host	Cattle	Bos taurus
+SRR24326274	host	Cattle	Bos taurus
+SRR24326273	host	Cattle	Bos taurus
+SRR24326272	host	Cattle	Bos taurus
+SRR24326271	host	Cattle	Bos taurus
+SRR24326270	host	Cattle	Bos taurus
+SRR24326269	host	Cattle	Bos taurus
+SRR24326268	host	Cattle	Bos taurus
+SRR24326267	host	Cattle	Bos taurus
+SRR24326266	host	Cattle	Bos taurus
+SRR24326265	host	Cattle	Bos taurus
+SRR24326264	host	Cattle	Bos taurus
+SRR24326263	host	Cattle	Bos taurus
+SRR24326262	host	Cattle	Bos taurus
+SRR24326261	host	Cattle	Bos taurus
+SRR24326260	host	Cattle	Bos taurus
+SRR24326259	host	Cattle	Bos taurus
+SRR24326258	host	Cattle	Bos taurus
+SRR24326257	host	Cattle	Bos taurus
+SRR24326256	host	Cattle	Bos taurus
+SRR24326255	host	Cattle	Bos taurus
+SRR24326254	host	Cattle	Bos taurus
+SRR24326253	host	Cattle	Bos taurus
+SRR24326252	host	Cattle	Bos taurus
+SRR24326251	host	Cattle	Bos taurus
+SRR24326250	host	Cattle	Bos taurus
+SRR24326249	host	Cattle	Bos taurus
+SRR24326248	host	Cattle	Bos taurus
+SRR24326247	host	Cattle	Bos taurus
+SRR24326246	host	Cattle	Bos taurus
+SRR24326245	host	Cattle	Bos taurus
+SRR24326244	host	Cattle	Bos taurus
+SRR24326243	host	Cattle	Bos taurus
+SRR24326242	host	Cattle	Bos taurus
+SRR24326241	host	Cattle	Bos taurus
+SRR24326240	host	Cattle	Bos taurus
+SRR24326239	host	Cattle	Bos taurus
+SRR24326238	host	Cattle	Bos taurus
+SRR24326237	host	Cattle	Bos taurus
+SRR24326236	host	Cattle	Bos taurus
+SRR24326235	host	Cattle	Bos taurus
+SRR24326234	host	Cattle	Bos taurus
+SRR24326233	host	Cattle	Bos taurus
+SRR24326232	host	Cattle	Bos taurus
+SRR24326231	host	Cattle	Bos taurus
+SRR24326230	host	Cattle	Bos taurus
+SRR24326229	host	Cattle	Bos taurus
+SRR24326228	host	Cattle	Bos taurus
+SRR24326227	host	Cattle	Bos taurus
+SRR24326226	host	Cattle	Bos taurus
+SRR24326225	host	Cattle	Bos taurus
+SRR24326224	host	Cattle	Bos taurus
+SRR24326223	host	Cattle	Bos taurus
+SRR24326221	host	Cattle	Bos taurus
+SRR24326220	host	Cattle	Bos taurus
+SRR24326219	host	Cattle	Bos taurus
+SRR24326218	host	Cattle	Bos taurus
+SRR24326217	host	Cattle	Bos taurus
+SRR24326216	host	Cattle	Bos taurus
+SRR24326215	host	Cattle	Bos taurus
+SRR24326214	host	Cattle	Bos taurus
+SRR24326213	host	Cattle	Bos taurus
+SRR24326212	host	Cattle	Bos taurus
+SRR24326211	host	Cattle	Bos taurus
+SRR24326210	host	Cattle	Bos taurus
+SRR24326209	host	Cattle	Bos taurus
+SRR24326208	host	Cattle	Bos taurus
+SRR24326207	host	Cattle	Bos taurus
+SRR24326206	host	Cattle	Bos taurus
+SRR24326205	host	Cattle	Bos taurus
+SRR24326204	host	Cattle	Bos taurus
+SRR24326203	host	Cattle	Bos taurus
+SRR24326202	host	Cattle	Bos taurus
+SRR24326201	host	Cattle	Bos taurus
+SRR24326200	host	Cattle	Bos taurus
+SRR24326199	host	Cattle	Bos taurus
+SRR24326198	host	Cattle	Bos taurus
+SRR24326197	host	Cattle	Bos taurus
+SRR24326196	host	Cattle	Bos taurus
+SRR24326195	host	Cattle	Bos taurus
+SRR24326194	host	Cattle	Bos taurus
+SRR24326193	host	Cattle	Bos taurus
+SRR24326192	host	Cattle	Bos taurus
+SRR24326191	host	Cattle	Bos taurus
+SRR24326190	host	Cattle	Bos taurus
+SRR24326189	host	Cattle	Bos taurus
+SRR24326188	host	Cattle	Bos taurus
+SRR23179856	host	Cattle	Bos taurus
+SRR23179855	host	Cattle	Bos taurus
+SRR23179854	host	Cattle	Bos taurus
+SRR23179853	host	Cattle	Bos taurus
+SRR23179852	host	Cattle	Bos taurus
+SRR23179851	host	Cattle	Bos taurus
+SRR23179850	host	Cattle	Bos taurus
+SRR23179849	host	Cattle	Bos taurus
+SRR23179848	host	Cattle	Bos taurus
+SRR23179847	host	Cattle	Bos taurus
+SRR23179846	host	Cattle	Bos taurus
+SRR23179845	host	Cattle	Bos taurus
+SRR23179844	host	Cattle	Bos taurus
+SRR23179843	host	Cattle	Bos taurus
+SRR23179842	host	Cattle	Bos taurus
+SRR23179841	host	Cattle	Bos taurus
+SRR23179840	host	Cattle	Bos taurus
+SRR23179839	host	Cattle	Bos taurus
+SRR23179838	host	Cattle	Bos taurus
+SRR23179837	host	Cattle	Bos taurus
+SRR23179836	host	Cattle	Bos taurus
+SRR23179835	host	Cattle	Bos taurus
+SRR23179834	host	Cattle	Bos taurus
+SRR23179833	host	Cattle	Bos taurus
+SRR23179832	host	Cattle	Bos taurus
+SRR23179831	host	Cattle	Bos taurus
+SRR23179830	host	Cattle	Bos taurus
+SRR23179829	host	Cattle	Bos taurus
+SRR23179828	host	Cattle	Bos taurus
+SRR23179827	host	Cattle	Bos taurus
+SRR23179826	host	Cattle	Bos taurus
+SRR23179825	host	Cattle	Bos taurus
+SRR23179824	host	Cattle	Bos taurus
+SRR23179823	host	Cattle	Bos taurus
+SRR23179822	host	Cattle	Bos taurus
+SRR23179821	host	Cattle	Bos taurus
+SRR23179820	host	Cattle	Bos taurus
+SRR23179819	host	Cattle	Bos taurus
+SRR23179818	host	Cattle	Bos taurus
+SRR23179817	host	Cattle	Bos taurus
+SRR23179816	host	Cattle	Bos taurus
+SRR23179815	host	Cattle	Bos taurus
+SRR23179814	host	Cattle	Bos taurus
+SRR23179813	host	Cattle	Bos taurus
+SRR23179812	host	Cattle	Bos taurus
+SRR23179811	host	Cattle	Bos taurus
+SRR23179810	host	Cattle	Bos taurus
+SRR23179809	host	Cattle	Bos taurus
+SRR23179808	host	Cattle	Bos taurus
+SRR23179806	host	Cattle	Bos taurus
+SRR23179805	host	Cattle	Bos taurus
+SRR23179804	host	Cattle	Bos taurus
+SRR23179803	host	Cattle	Bos taurus
+SRR23179802	host	Cattle	Bos taurus
+SRR23179801	host	Cattle	Bos taurus
+SRR23179800	host	Cattle	Bos taurus
+SRR23179799	host	Cattle	Bos taurus
+SRR23179798	host	Cattle	Bos taurus
+SRR23179797	host	Cattle	Bos taurus
+SRR23179796	host	Cattle	Bos taurus
+SRR23179794	host	Cattle	Bos taurus
+SRR23179792	host	Cattle	Bos taurus
+SRR23179791	host	Cattle	Bos taurus
+SRR23179790	host	Cattle	Bos taurus
+SRR19395035	host	Cattle	Bos taurus
+SRR19395034	host	Cattle	Bos taurus
+SRR19395033	host	Cattle	Bos taurus
+SRR19395032	host	Cattle	Bos taurus
+SRR19395031	host	Cattle	Bos taurus
+SRR19395030	host	Cattle	Bos taurus
+SRR19395029	host	Cattle	Bos taurus
+SRR19395028	host	Cattle	Bos taurus
+SRR19395027	host	Cattle	Bos taurus
+SRR19395026	host	Cattle	Bos taurus
+SRR19395025	host	Cattle	Bos taurus
+SRR19395024	host	Cattle	Bos taurus
+SRR19395023	host	Cattle	Bos taurus
+SRR19395022	host	Cattle	Bos taurus
+SRR19395021	host	Cattle	Bos taurus
+SRR19395020	host	Cattle	Bos taurus
+SRR19395019	host	Cattle	Bos taurus
+SRR19395018	host	Cattle	Bos taurus
+SRR19395017	host	Cattle	Bos taurus
+SRR19395016	host	Cattle	Bos taurus
+SRR19395015	host	Cattle	Bos taurus
+SRR19395014	host	Cattle	Bos taurus
+SRR19395013	host	Cattle	Bos taurus
+SRR19395012	host	Cattle	Bos taurus
+SRR19395011	host	Cattle	Bos taurus
+SRR19395010	host	Cattle	Bos taurus
+SRR19395009	host	Cattle	Bos taurus
+SRR19395008	host	Cattle	Bos taurus
+SRR19395007	host	Cattle	Bos taurus
+SRR19395006	host	Cattle	Bos taurus
+SRR19395005	host	Cattle	Bos taurus
+SRR19395004	host	Cattle	Bos taurus
+SRR19395003	host	Cattle	Bos taurus
+SRR19395002	host	Cattle	Bos taurus
+SRR19395001	host	Cattle	Bos taurus
+SRR19395000	host	Cattle	Bos taurus
+SRR19394999	host	Cattle	Bos taurus
+SRR19394998	host	Cattle	Bos taurus
+SRR19394997	host	Cattle	Bos taurus
+SRR19394996	host	Cattle	Bos taurus
+SRR19394995	host	Cattle	Bos taurus
+SRR19394994	host	Cattle	Bos taurus
+SRR19394993	host	Cattle	Bos taurus
+SRR19394992	host	Cattle	Bos taurus
+SRR19394991	host	Cattle	Bos taurus
+SRR19394990	host	Cattle	Bos taurus
+SRR19394989	host	Cattle	Bos taurus
+SRR19394988	host	Cattle	Bos taurus
+SRR19394987	host	Cattle	Bos taurus
+SRR19394985	host	Cattle	Bos taurus
+SRR19394984	host	Cattle	Bos taurus
+SRR19394983	host	Cattle	Bos taurus
+SRR19394982	host	Cattle	Bos taurus
+SRR19394981	host	Cattle	Bos taurus
+SRR19394980	host	Cattle	Bos taurus
+SRR19394979	host	Cattle	Bos taurus
+SRR19394978	host	Cattle	Bos taurus
+SRR19394977	host	Cattle	Bos taurus
+SRR19394976	host	Cattle	Bos taurus
+SRR19394975	host	Cattle	Bos taurus
+SRR19394974	host	Cattle	Bos taurus
+SRR19394973	host	Cattle	Bos taurus
+SRR19394972	host	Cattle	Bos taurus
+SRR19394971	host	Cattle	Bos taurus
+SRR19394970	host	Cattle	Bos taurus
+SRR19394969	host	Cattle	Bos taurus
+SRR19394968	host	Cattle	Bos taurus
+SRR19394967	host	Cattle	Bos taurus
+SRR19394966	host	Cattle	Bos taurus
+SRR19394965	host	Cattle	Bos taurus
+SRR19394964	host	Cattle	Bos taurus
+SRR19394963	host	Cattle	Bos taurus
+SRR19394962	host	Cattle	Bos taurus
+SRR19394961	host	Cattle	Bos taurus
+SRR19394960	host	Cattle	Bos taurus
+SRR19394959	host	Cattle	Bos taurus
+SRR19394958	host	Cattle	Bos taurus
+SRR19394957	host	Cattle	Bos taurus
+SRR19394956	host	Cattle	Bos taurus
+SRR19394955	host	Cattle	Bos taurus
+SRR19394954	host	Cattle	Bos taurus
+SRR19394953	host	Cattle	Bos taurus
+SRR19394952	host	Cattle	Bos taurus
+SRR19394951	host	Cattle	Bos taurus
+SRR19394950	host	Cattle	Bos taurus
+SRR19394949	host	Cattle	Bos taurus
+SRR19394948	host	Cattle	Bos taurus
+SRR19394947	host	Cattle	Bos taurus
+SRR19394946	host	Cattle	Bos taurus
+SRR19394945	host	Cattle	Bos taurus
+SRR19394944	host	Cattle	Bos taurus
+SRR19394943	host	Cattle	Bos taurus
+SRR19394942	host	Cattle	Bos taurus
+SRR19394941	host	Cattle	Bos taurus
+SRR19394940	host	Cattle	Bos taurus
+SRR19394939	host	Cattle	Bos taurus
+SRR19394938	host	Cattle	Bos taurus
+SRR19394937	host	Cattle	Bos taurus
+SRR19394936	host	Cattle	Bos taurus
+SRR19394935	host	Cattle	Bos taurus
+SRR19394934	host	Cattle	Bos taurus
+SRR19394933	host	Cattle	Bos taurus
+SRR19394932	host	Cattle	Bos taurus
+SRR19394931	host	Cattle	Bos taurus
+SRR19394930	host	Cattle	Bos taurus
+SRR19394929	host	Cattle	Bos taurus
+SRR19394928	host	Cattle	Bos taurus
+SRR19394927	host	Cattle	Bos taurus
+SRR19394926	host	Cattle	Bos taurus
+SRR19394925	host	Cattle	Bos taurus
+SRR19394924	host	Cattle	Bos taurus
+SRR19394923	host	Cattle	Bos taurus
+SRR19394922	host	Cattle	Bos taurus
+SRR19394921	host	Cattle	Bos taurus
+SRR19394920	host	Cattle	Bos taurus
+SRR19394919	host	Cattle	Bos taurus
+SRR19394918	host	Cattle	Bos taurus
+SRR19394917	host	Cattle	Bos taurus
+SRR19394916	host	Cattle	Bos taurus
+SRR19394915	host	Cattle	Bos taurus
+SRR19394914	host	Cattle	Bos taurus
+SRR19394913	host	Cattle	Bos taurus
+SRR19394912	host	Cattle	Bos taurus
+SRR19394911	host	Cattle	Bos taurus
+SRR19394910	host	Cattle	Bos taurus
+SRR19394909	host	Cattle	Bos taurus
+SRR19394908	host	Cattle	Bos taurus
+SRR19394907	host	Cattle	Bos taurus
+SRR19394906	host	Cattle	Bos taurus
+SRR19394905	host	Cattle	Bos taurus
+SRR19394904	host	Cattle	Bos taurus
+SRR19394903	host	Cattle	Bos taurus
+SRR19394902	host	Cattle	Bos taurus
+SRR19394901	host	Cattle	Bos taurus
+SRR19394900	host	Cattle	Bos taurus
+SRR18116707	host	Sheep	Ovis aries
+SRR18116705	host	Sheep	Ovis aries
+SRR18116704	host	Sheep	Ovis aries
+SRR18116703	host	Sheep	Ovis aries
+SRR18116702	host	Sheep	Ovis aries
+SRR18116701	host	Sheep	Ovis aries
+SRR18116699	host	Sheep	Ovis aries
+SRR18116698	host	Sheep	Ovis aries
+SRR18116697	host	Sheep	Ovis aries
+SRR18116696	host	Sheep	Ovis aries
+SRR18116695	host	Sheep	Ovis aries
+SRR18116694	host	Sheep	Ovis aries
+SRR18116693	host	Sheep	Ovis aries
+SRR18116692	host	Sheep	Ovis aries
+SRR18116691	host	Sheep	Ovis aries
+SRR18116690	host	Sheep	Ovis aries
+SRR18116688	host	Sheep	Ovis aries
+SRR18116687	host	Sheep	Ovis aries
+SRR18116686	host	Sheep	Ovis aries
+SRR18116685	host	Sheep	Ovis aries
+SRR18116684	host	Sheep	Ovis aries
+SRR18116683	host	Sheep	Ovis aries
+SRR18116682	host	Sheep	Ovis aries
+SRR18116681	host	Sheep	Ovis aries
+SRR18116680	host	Sheep	Ovis aries
+SRR18116679	host	Sheep	Ovis aries
+SRR18116663	host	Sheep	Ovis aries
+SRR18116662	host	Sheep	Ovis aries
+SRR18116661	host	Sheep	Ovis aries
+SRR18116660	host	Sheep	Ovis aries
+SRR18116659	host	Sheep	Ovis aries
+SRR18116657	host	Sheep	Ovis aries
+SRR18116656	host	Sheep	Ovis aries
+SRR18116655	host	Sheep	Ovis aries
+SRR18116654	host	Sheep	Ovis aries
+SRR18116652	host	Sheep	Ovis aries
+SRR18116651	host	Sheep	Ovis aries
+SRR18116650	host	Sheep	Ovis aries
+SRR18116649	host	Sheep	Ovis aries
+SRR18116648	host	Sheep	Ovis aries
+SRR18116647	host	Sheep	Ovis aries
+SRR18116646	host	Sheep	Ovis aries
+SRR17460194	host	Cattle	Bos taurus
+SRR17460193	host	Cattle	Bos taurus
+SRR17460192	host	Cattle	Bos taurus
+SRR17460191	host	Cattle	Bos taurus
+SRR17460190	host	Cattle	Bos taurus
+SRR17460189	host	Cattle	Bos taurus
+SRR17460188	host	Cattle	Bos taurus
+SRR17460187	host	Cattle	Bos taurus
+SRR17460186	host	Cattle	Bos taurus
+SRR17460185	host	Cattle	Bos taurus
+SRR15101044	host	Goat	Capra hircus
+SRR14863475	host	Cattle	Bos taurus
+SRR14863474	host	Cattle	Bos taurus
+SRR14863473	host	Cattle	Bos taurus
+SRR14863472	host	Cattle	Bos taurus
+SRR14863471	host	Cattle	Bos taurus
+SRR14863470	host	Cattle	Bos taurus
+SRR14863468	host	Cattle	Bos taurus
+SRR14863467	host	Cattle	Bos taurus
+SRR14863466	host	Cattle	Bos taurus
+SRR14863465	host	Cattle	Bos taurus
+SRR14863464	host	Cattle	Bos taurus
+SRR14863463	host	Cattle	Bos taurus
+SRR14863462	host	Cattle	Bos taurus
+SRR14863460	host	Cattle	Bos taurus
+SRR14863459	host	Cattle	Bos taurus
+SRR14863458	host	Cattle	Bos taurus
+SRR14863457	host	Cattle	Bos taurus
+SRR14863456	host	Cattle	Bos taurus
+SRR14863455	host	Cattle	Bos taurus
+SRR14863454	host	Cattle	Bos taurus
+SRR14863453	host	Cattle	Bos taurus
+SRR14863451	host	Cattle	Bos taurus
+SRR14863450	host	Cattle	Bos taurus
+SRR14863449	host	Cattle	Bos taurus
+SRR14863448	host	Cattle	Bos taurus
+SRR14863447	host	Cattle	Bos taurus
+SRR14863446	host	Cattle	Bos taurus
+SRR14863445	host	Goat	Capra hircus
+SRR14863444	host	Goat	Capra hircus
+SRR14863443	host	Cattle	Bos taurus
+SRR14863442	host	Cattle	Bos taurus
+SRR14863441	host	Cattle	Bos taurus
+SRR14863440	host	Cattle	Bos taurus
+SRR14863438	host	Cattle	Bos taurus
+SRR14863437	host	Cattle	Bos taurus
+SRR14863436	host	Cattle	Bos taurus
+SRR14863435	host	Cattle	Bos taurus
+SRR14863434	host	Cattle	Bos taurus
+SRR14863433	host	Cattle	Bos taurus
+SRR14863432	host	Cattle	Bos taurus
+SRR14863431	host	Cattle	Bos taurus
+SRR14863430	host	Cattle	Bos taurus
+SRR14863429	host	Cattle	Bos taurus
+SRR14863428	host	Cattle	Bos taurus
+SRR14863427	host	Cattle	Bos taurus
+SRR14863426	host	Cattle	Bos taurus
+SRR14863425	host	Cattle	Bos taurus
+SRR14863424	host	Cattle	Bos taurus
+SRR14863423	host	Cattle	Bos taurus
+SRR14863422	host	Cattle	Bos taurus
+SRR14863421	host	Cattle	Bos taurus
+SRR14863420	host	Cattle	Bos taurus
+SRR14863419	host	Cattle	Bos taurus
+SRR14863418	host	Cattle	Bos taurus
+SRR14863417	host	Cattle	Bos taurus
+SRR14863416	host	Cattle	Bos taurus
+SRR14863415	host	Cattle	Bos taurus
+SRR14863414	host	Cattle	Bos taurus
+SRR14863413	host	Cattle	Bos taurus
+SRR14863412	host	Cattle	Bos taurus
+SRR14863411	host	Cattle	Bos taurus
+SRR14863410	host	Goat	Capra hircus
+SRR14863409	host	Cattle	Bos taurus
+SRR14863408	host	Cattle	Bos taurus
+SRR14863407	host	Cattle	Bos taurus
+SRR14863406	host	Cattle	Bos taurus
+SRR14863405	host	Cattle	Bos taurus
+SRR14863404	host	Cattle	Bos taurus
+SRR14863403	host	Cattle	Bos taurus
+SRR14863402	host	Cattle	Bos taurus
+SRR14863401	host	Cattle	Bos taurus
+SRR14863400	host	Goat	Capra hircus
+SRR14863399	host	Goat	Capra hircus
+SRR14863398	host	Cattle	Bos taurus
+SRR14863397	host	Cattle	Bos taurus
+SRR14863396	host	Cattle	Bos taurus
+SRR14863395	host	Cattle	Bos taurus
+SRR14863394	host	Cattle	Bos taurus
+SRR14863393	host	Cattle	Bos taurus
+SRR14863392	host	Cattle	Bos taurus
+SRR14863391	host	Cattle	Bos taurus
+SRR14863390	host	Cattle	Bos taurus
+SRR14863389	host	Cattle	Bos taurus
+SRR14863388	host	Cattle	Bos taurus
+SRR14863387	host	Cattle	Bos taurus
+SRR14863386	host	Cattle	Bos taurus
+SRR14863385	host	Cattle	Bos taurus
+SRR14863384	host	Cattle	Bos taurus
+SRR14863383	host	Cattle	Bos taurus
+SRR14863382	host	Cattle	Bos taurus
+SRR14863381	host	Cattle	Bos taurus
+SRR14863380	host	Cattle	Bos taurus
+SRR14863379	host	Cattle	Bos taurus
+SRR14863378	host	Cattle	Bos taurus
+SRR14863377	host	Cattle	Bos taurus
+SRR14863376	host	Cattle	Bos taurus
+SRR14863375	host	Cattle	Bos taurus
+SRR14863374	host	Cattle	Bos taurus
+SRR14863373	host	Cattle	Bos taurus
+SRR14863372	host	Cattle	Bos taurus
+SRR14863371	host	Cattle	Bos taurus
+SRR14863370	host	Cattle	Bos taurus
+SRR14863368	host	Cattle	Bos taurus
+SRR14863367	host	Cattle	Bos taurus
+SRR14863366	host	Cattle	Bos taurus
+SRR14863365	host	Cattle	Bos taurus
+SRR14863364	host	Cattle	Bos taurus
+SRR14863363	host	Cattle	Bos taurus
+SRR14863362	host	Cattle	Bos taurus
+SRR14863361	host	Cattle	Bos taurus
+SRR14863360	host	Cattle	Bos taurus
+SRR14863359	host	Cattle	Bos taurus
+SRR14863358	host	Cattle	Bos taurus
+SRR14863357	host	Cattle	Bos taurus
+SRR14863356	host	Cattle	Bos taurus
+SRR14863355	host	Cattle	Bos taurus
+SRR14863354	host	Cattle	Bos taurus
+SRR14863353	host	Cattle	Bos taurus
+SRR14863351	host	Cattle	Bos taurus
+SRR14863350	host	Cattle	Bos taurus
+SRR14863349	host	Cattle	Bos taurus
+SRR14863348	host	Cattle	Bos taurus
+SRR14863347	host	Cattle	Bos taurus
+SRR14863346	host	Cattle	Bos taurus
+SRR14863345	host	Cattle	Bos taurus
+SRR14863344	host	Cattle	Bos taurus
+SRR14863343	host	Cattle	Bos taurus
+SRR14863342	host	Cattle	Bos taurus
+SRR14863341	host	Cattle	Bos taurus
+SRR14863340	host	Cattle	Bos taurus
+SRR14863339	host	Cattle	Bos taurus
+SRR14863338	host	Cattle	Bos taurus
+SRR14863337	host	Cattle	Bos taurus
+SRR14863336	host	Cattle	Bos taurus
+SRR14863335	host	Cattle	Bos taurus
+SRR14863334	host	Cattle	Bos taurus
+SRR14863333	host	Cattle	Bos taurus
+SRR14863332	host	Cattle	Bos taurus
+SRR14863331	host	Cattle	Bos taurus
+SRR14863330	host	Cattle	Bos taurus
+SRR14863329	host	Cattle	Bos taurus
+SRR14863328	host	Cattle	Bos taurus
+SRR14863327	host	Cattle	Bos taurus
+SRR14863326	host	Cattle	Bos taurus
+SRR14863325	host	Cattle	Bos taurus
+SRR14863324	host	Cattle	Bos taurus
+SRR14863323	host	Cattle	Bos taurus
+SRR14863322	host	Cattle	Bos taurus
+SRR14863321	host	Cattle	Bos taurus
+SRR14863320	host	Cattle	Bos taurus
+SRR14863319	host	Cattle	Bos taurus
+SRR14863318	host	Cattle	Bos taurus
+SRR14863317	host	Cattle	Bos taurus
+SRR14863316	host	Cattle	Bos taurus
+SRR14863315	host	Cattle	Bos taurus
+SRR14863314	host	Cattle	Bos taurus
+SRR14863313	host	Cattle	Bos taurus
+SRR14863312	host	Cattle	Bos taurus
+SRR14863311	host	Cattle	Bos taurus
+SRR14863310	host	Cattle	Bos taurus
+SRR14863309	host	Cattle	Bos taurus
+SRR14863308	host	Cattle	Bos taurus
+SRR14863307	host	Cattle	Bos taurus
+SRR14863306	host	Cattle	Bos taurus
+SRR14863305	host	Cattle	Bos taurus
+SRR14863304	host	Cattle	Bos taurus
+SRR14863303	host	Cattle	Bos taurus
+SRR14863302	host	Cattle	Bos taurus
+SRR14863301	host	Cattle	Bos taurus
+SRR14863300	host	Cattle	Bos taurus
+SRR14863299	host	Cattle	Bos taurus
+SRR14863298	host	Cattle	Bos taurus
+SRR14863297	host	Cattle	Bos taurus
+SRR14863296	host	Cattle	Bos taurus
+SRR14863295	host	Cattle	Bos taurus
+SRR14863294	host	Cattle	Bos taurus
+SRR14863292	host	Cattle	Bos taurus
+SRR14863291	host	Cattle	Bos taurus
+SRR14863290	host	Cattle	Bos taurus
+SRR14863289	host	Cattle	Bos taurus
+SRR14863288	host	Cattle	Bos taurus
+SRR14863287	host	Cattle	Bos taurus
+SRR14863285	host	Cattle	Bos taurus
+SRR14863284	host	Cattle	Bos taurus
+SRR14863283	host	Microbe	missing
+SRR14863282	host	Microbe	missing
+SRR14863281	host	Cattle	Bos taurus
+SRR14863280	host	Cattle	Bos taurus
+SRR14863279	host	Cattle	Bos taurus
+SRR14335547	host	Cattle	bovine
+SRR14335546	host	Cattle	bovine
+SRR14335525	host	Cattle	bovine
+SRR14335522	host	Cattle	bovine
+SRR13396024	host	Cattle	Bovine
+SRR13396023	host	Cattle	Bovine
+SRR13396022	host	Cattle	Bovine
+SRR13396021	host	Cattle	Bovine
+SRR13396020	host	Cattle	Bovine
+SRR13396002	host	Cattle	Bovine
+SRR13395987	host	Cattle	Bovine
+SRR13395951	host	Cattle	Bovine
+SRR13395950	host	Cattle	Bovine
+SRR13395949	host	Cattle	Bovine
+SRR13395931	host	Cattle	Bovine
+SRR13395930	host	Cattle	Bovine
+SRR13395929	host	Cattle	Bovine
+SRR13395928	host	Cattle	Bovine
+SRR13395926	host	Cattle	Bovine
+SRR13395925	host	Cattle	Bovine
+SRR13395924	host	Cattle	Bovine
+SRR13395905	host	Cattle	Bovine
+SRR13395894	host	Cattle	Bovine
+SRR13395883	host	Cattle	Bovine
+SRR13395876	host	Cattle	Bovine
+SRR13395875	host	Cattle	Bovine
+SRR13395874	host	Cattle	Bovine
+SRR13395872	host	Cattle	Bovine
+SRR13395871	host	Cattle	Bovine
+SRR13395868	host	Cattle	Bovine
+SRR13395862	host	Cattle	Bovine
+SRR13395861	host	Cattle	Bovine
+SRR13395851	host	Cattle	Bovine
+SRR13395848	host	Cattle	Bovine
+SRR13395839	host	Cattle	Bovine
+SRR13395827	host	Cattle	Bovine
+SRR13395816	host	Cattle	Bovine
+SRR13395772	host	Cattle	Bovine
+SRR13395727	host	Cattle	Bovine
+SRR13214447	host	Sheep	Ovis aries
+SRR13214446	host	Sheep	Ovis aries
+SRR13214445	host	Cattle	Bos taurus
+SRR13214444	host	Sheep	Ovis aries
+SRR13214443	host	Sheep	Ovis aries
+SRR13214442	host	Sheep	Ovis aries
+SRR11839120	host	Sheep	Ovis aries
+SRR11839109	host	Goat	Caprine
+SRR11839089	host	Cattle	Bos
+SRR11839066	host	Goat	Caprine
+SRR11839065	host	Goat	Caprine
+SRR11839064	host	Goat	Caprine
+SRR11839051	host	Goat	Caprine
+SRR11839050	host	Goat	Caprine
+SRR11839039	host	Camel	Camelid
+SRR11838992	host	Goat	Caprine
+SRR11838984	host	Sheep	Ovis aries
+SRR11838941	host	Cattle	Bos
+SRR11838926	host	Sheep	Ovis aries
+ERR4388993	host	Oryx	Oryx dammah
+SRR13395913	host	Cattle	Bovine
+SRR13395810	host	Cattle	Herd
+SRR14335475	host	Cattle	bovine
+SRR14335506	host	Goat	caprine
+SRR14335498	host	Cattle	bovine
+SRR14335497	host	Cattle	bovine
+SRR14335482	host	Cattle	bovine
+SRR14335481	host	Cattle	bovine
+SRR14335473	host	Cattle	bovine
+SRR13396010	host	Cattle	Bovine
+SRR13395902	host	Cattle	Bovine
+SRR13395897	host	Cattle	Bovine
+SRR13395890	host	Cattle	Bovine
+SRR13395889	host	Cattle	Bovine
+SRR13395885	host	Cattle	Bovine
+SRR13395830	host	Cattle	Bovine
+SRR13395828	host	Cattle	Bovine
+SRR13395803	host	Cattle	Bovine
+SRR13395774	host	Cattle	Bovine
+SRR13395722	host	Cattle	Bovine
+SRR13395854	host	Cattle	Bovine
+SRR1793772	host	Cattle	dairy cow
+SRR1793771	host	Cattle	dairy cow
+SRR1793770	host	Cattle	dairy cow
+SRR1793769	host	Cattle	dairy cow
+SRR1793767	host	Cattle	dairy cow
+SRR1793766	host	Cattle	dairy cow
+SRR1793762	host	Cattle	dairy cow
+SRR1793761	host	Cattle	dairy cow
+SRR1793760	host	Cattle	dairy cow
+SRR1793759	host	Cattle	dairy cow
+SRR1793758	host	Cattle	dairy cow
+SRR1793757	host	Cattle	dairy cow
+SRR1793754	host	Cattle	dairy cow
+SRR1793753	host	Cattle	dairy cow
+SRR1793752	host	Cattle	dairy cow
+SRR1793747	host	Cattle	dairy cow
+SRR1793745	host	Cattle	dairy cow
+SRR1793744	host	Cattle	dairy cow
+SRR1793743	host	Cattle	dairy cow
+SRR1793742	host	Cattle	dairy cow
+SRR1793741	host	Cattle	dairy cow
+SRR1793740	host	Cattle	dairy cow
+SRR1793738	host	Cattle	dairy cow
+SRR1793737	host	Cattle	dairy cow
+SRR1793733	host	Cattle	dairy cow
+SRR1793731	host	Cattle	dairy cow
+SRR1793730	host	Cattle	dairy cow
+SRR1793729	host	Cattle	dairy cow
+SRR1793727	host	Cattle	dairy cow
+SRR1793726	host	Cattle	dairy cow
+SRR1793725	host	Cattle	dairy cow
+SRR1793724	host	Cattle	dairy cow
+SRR1793723	host	Cattle	dairy cow
+SRR1793722	host	Cattle	dairy cow
+SRR1793721	host	Cattle	dairy cow
+SRR1793720	host	Cattle	dairy cow
+SRR1793719	host	Cattle	dairy cow
+SRR1793718	host	Cattle	dairy cow
+SRR1793717	host	Cattle	dairy cow
+SRR1793716	host	Cattle	dairy cow
+SRR1793715	host	Cattle	dairy cow
+SRR1793714	host	Cattle	dairy cow
+SRR1793713	host	Cattle	dairy cow
+SRR1793712	host	Cattle	dairy cow
+SRR1793711	host	Cattle	dairy cow
+SRR1793709	host	Cattle	dairy cow
+SRR1793708	host	Cattle	dairy cow
+SRR1793707	host	Cattle	dairy cow
+SRR1793706	host	Cattle	dairy cow
+SRR1793705	host	Cattle	dairy cow
+SRR1793704	host	Cattle	dairy cow
+SRR1793703	host	Cattle	dairy cow
+SRR1793702	host	Cattle	dairy cow
+SRR1793701	host	Cattle	dairy cow
+SRR1793700	host	Cattle	dairy cow
+SRR1793699	host	Cattle	dairy cow
+SRR1793698	host	Cattle	dairy cow
+SRR1793697	host	Cattle	dairy cow
+SRR1793696	host	Cattle	dairy cow
+SRR1793691	host	Cattle	dairy cow
+SRR1793690	host	Cattle	dairy cow
+SRR1793689	host	Cattle	dairy cow
+SRR1793688	host	Cattle	dairy cow
+SRR1793687	host	Cattle	dairy cow
+SRR1793686	host	Cattle	dairy cow
+SRR1793685	host	Cattle	dairy cow
+SRR1793684	host	Cattle	dairy cow
+SRR1793683	host	Cattle	dairy cow
+SRR1793681	host	Cattle	dairy cow
+SRR1793680	host	Cattle	dairy cow
+SRR1793679	host	Cattle	dairy cow
+SRR1793678	host	Cattle	dairy cow
+SRR1793677	host	Cattle	dairy cow
+SRR1793676	host	Cattle	dairy cow
+SRR1793675	host	Cattle	dairy cow
+SRR1793674	host	Cattle	dairy cow
+SRR1793673	host	Cattle	dairy cow
+SRR1793672	host	Cattle	dairy cow
+SRR1793669	host	Cattle	dairy cow
+SRR1793668	host	Cattle	dairy cow
+SRR1793667	host	Cattle	dairy cow
+SRR1793666	host	Cattle	dairy cow
+SRR1793665	host	Cattle	dairy cow
+SRR1793664	host	Cattle	dairy cow
+SRR1793663	host	Cattle	dairy cow
+SRR1793662	host	Cattle	dairy cow
+SRR1793661	host	Cattle	dairy cow
+SRR14335517	host	Cattle	bovine
+SRR14335501	host	Goat	caprine
+ERR6415295	host	Cattle	Bos taurus
+ERR6415294	host	Cattle	Bos taurus
+ERR6415293	host	Cattle	Bos taurus
+ERR6415292	host	Cattle	Bos taurus
+ERR6415291	host	Cattle	Bos taurus
+ERR6415290	host	Cattle	Bos taurus
+ERR6415289	host	Cattle	Bos taurus
+ERR6415288	host	Cattle	Bos taurus
+ERR6415285	host	Cattle	Bos taurus
+ERR6415284	host	Cattle	Bos taurus
+ERR6415283	host	Cattle	Bos taurus
+ERR6415282	host	Cattle	Bos taurus
+ERR6415280	host	Cattle	Bos taurus
+ERR6415279	host	Cattle	Bos taurus
+ERR6415278	host	Cattle	Bos taurus
+ERR6415276	host	Cattle	Bos taurus
+ERR6415275	host	Cattle	Bos taurus
+ERR6415274	host	Cattle	Bos taurus
+ERR6415273	host	Cattle	Bos taurus
+ERR6415272	host	Cattle	Bos taurus
+ERR6415271	host	Cattle	Bos taurus
+ERR6415267	host	Cattle	Bos taurus
+ERR6415266	host	Cattle	Bos taurus
+ERR6415265	host	Cattle	Bos taurus
+ERR6415264	host	Cattle	Bos taurus
+ERR6415263	host	Cattle	Bos taurus
+ERR6415262	host	Cattle	Bos taurus
+ERR6415256	host	Cattle	Bos taurus
+ERR6415255	host	Cattle	Bos taurus
+ERR6415253	host	Cattle	Bos taurus
+ERR6415249	host	Cattle	Bos taurus
+ERR6415237	host	Cattle	Bos taurus
+ERR6415236	host	Cattle	Bos taurus
+ERR6415235	host	Cattle	Bos taurus
+ERR6415234	host	Cattle	Bos taurus
+ERR6415233	host	Cattle	Bos taurus
+ERR6415232	host	Cattle	Bos taurus
+ERR6415231	host	Cattle	Bos taurus
+ERR6415230	host	Cattle	Bos taurus
+ERR6415229	host	Cattle	Bos taurus
+ERR6415228	host	Cattle	Bos taurus
+ERR6415227	host	Cattle	Bos taurus
+ERR6415226	host	Cattle	Bos taurus
+ERR6415225	host	Cattle	Bos taurus
+ERR6415224	host	Cattle	Bos taurus
+ERR6415223	host	Cattle	Bos taurus
+ERR6415222	host	Cattle	Bos taurus
+ERR6415221	host	Cattle	Bos taurus
+ERR6415220	host	Cattle	Bos taurus
+ERR6415219	host	Cattle	Bos taurus
+ERR6415218	host	Cattle	Bos taurus
+ERR6415217	host	Cattle	Bos taurus
+ERR6415216	host	Cattle	Bos taurus
+ERR6415215	host	Cattle	Bos taurus
+ERR6415214	host	Cattle	Bos taurus
+ERR6415213	host	Cattle	Bos taurus
+ERR6415212	host	Cattle	Bos taurus
+ERR6415211	host	Cattle	Bos taurus
+ERR6415210	host	Cattle	Bos taurus
+ERR6415209	host	Cattle	Bos taurus
+ERR6415208	host	Cattle	Bos taurus
+ERR6415207	host	Cattle	Bos taurus
+ERR6415206	host	Cattle	Bos taurus
+ERR6415205	host	Cattle	Bos taurus
+ERR6415204	host	Cattle	Bos taurus
+ERR6415203	host	Cattle	Bos taurus
+ERR6415202	host	Cattle	Bos taurus
+ERR6415201	host	Cattle	Bos taurus
+ERR6415200	host	Cattle	Bos taurus
+ERR6415199	host	Cattle	Bos taurus
+ERR6415198	host	Cattle	Bos taurus
+ERR6415197	host	Cattle	Bos taurus
+ERR6415196	host	Cattle	Bos taurus
+ERR6415195	host	Cattle	Bos taurus
+ERR6415194	host	Cattle	Bos taurus
+ERR6415192	host	Cattle	Bos taurus
+ERR6415191	host	Cattle	Bos taurus
+ERR6415190	host	Cattle	Bos taurus
+ERR6415189	host	Cattle	Bos taurus
+ERR6415188	host	Cattle	Bos taurus
+ERR6415187	host	Cattle	Bos taurus
+ERR6415186	host	Cattle	Bos taurus
+ERR6415185	host	Cattle	Bos taurus
+ERR6415184	host	Cattle	Bos taurus
+ERR6415183	host	Cattle	Bos taurus
+ERR6415182	host	Cattle	Bos taurus
+ERR6415181	host	Cattle	Bos taurus
+ERR6415180	host	Cattle	Bos taurus
+ERR6415179	host	Cattle	Bos taurus
+ERR6415178	host	Cattle	Bos taurus
+ERR6415177	host	Cattle	Bos taurus
+ERR6415176	host	Cattle	Bos taurus
+ERR6415175	host	Cattle	Bos taurus
+ERR6415174	host	Cattle	Bos taurus
+ERR6415173	host	Cattle	Bos taurus
+ERR6415171	host	Cattle	Bos taurus
+ERR6415169	host	Cattle	Bos taurus
+ERR6415167	host	Cattle	Bos taurus
+ERR6415166	host	Cattle	Bos taurus
+ERR6415165	host	Cattle	Bos taurus
+ERR6415164	host	Cattle	Bos taurus
+ERR6415163	host	Cattle	Bos taurus
+ERR6415162	host	Cattle	Bos taurus
+ERR6415161	host	Cattle	Bos taurus
+ERR6415160	host	Cattle	Bos taurus
+ERR6415159	host	Cattle	Bos taurus
+ERR6415158	host	Cattle	Bos taurus
+ERR6415157	host	Cattle	Bos taurus
+ERR6415156	host	Cattle	Bos taurus
+ERR6415155	host	Cattle	Bos taurus
+ERR6415154	host	Cattle	Bos taurus
+ERR6415153	host	Cattle	Bos taurus
+ERR6415152	host	Cattle	Bos taurus
+ERR6415151	host	Cattle	Bos taurus
+ERR6415150	host	Cattle	Bos taurus
+ERR6415149	host	Cattle	Bos taurus
+ERR6415147	host	Cattle	Bos taurus
+ERR6415146	host	Cattle	Bos taurus
+ERR6415145	host	Cattle	Bos taurus
+ERR6415144	host	Cattle	Bos taurus
+ERR6415143	host	Cattle	Bos taurus
+ERR6415142	host	Cattle	Bos taurus
+ERR6415141	host	Cattle	Bos taurus
+ERR6415140	host	Cattle	Bos taurus
+ERR6415139	host	Cattle	Bos taurus
+ERR6415138	host	Cattle	Bos taurus
+ERR6415137	host	Cattle	Bos taurus
+ERR6415136	host	Cattle	Bos taurus
+ERR6415135	host	Cattle	Bos taurus
+ERR6415134	host	Cattle	Bos taurus
+ERR6415133	host	Cattle	Bos taurus
+ERR6415132	host	Cattle	Bos taurus
+ERR6415131	host	Cattle	Bos taurus
+ERR6415130	host	Cattle	Bos taurus
+ERR6415129	host	Cattle	Bos taurus
+ERR6415127	host	Cattle	Bos taurus
+ERR6415126	host	Cattle	Bos taurus
+ERR6415125	host	Cattle	Bos taurus
+ERR6415124	host	Cattle	Bos taurus
+ERR6415123	host	Cattle	Bos taurus
+ERR6415122	host	Cattle	Bos taurus
+ERR6415121	host	Cattle	Bos taurus
+ERR6415120	host	Cattle	Bos taurus
+ERR6415119	host	Cattle	Bos taurus
+ERR6415118	host	Cattle	Bos taurus
+ERR6415117	host	Cattle	Bos taurus
+ERR6415116	host	Cattle	Bos taurus
+ERR6415115	host	Cattle	Bos taurus
+ERR6415114	host	Cattle	Bos taurus
+ERR6415113	host	Cattle	Bos taurus
+ERR6415112	host	Cattle	Bos taurus
+ERR6415111	host	Cattle	Bos taurus
+ERR6415110	host	Cattle	Bos taurus
+ERR6415109	host	Cattle	Bos taurus
+ERR6415108	host	Cattle	Bos taurus
+SRR8177401	host	Sheep	Ovis aries
+SRR5204549	host	Goat	Bos taurus
+SRR5204548	host	Goat	Capra aegagrus
+SRR13395882	host	Cattle	Bovine
+SRR13395879	host	Cattle	Bovine
+SRR13395877	host	Cattle	Bovine
+SRR12593860	host	Cattle	Bos taurus
+SRR12593859	host	Cattle	Bos taurus
+SRR12593858	host	Cattle	Bos taurus
+SRR13395860	host	Cattle	Bovine
+SRR25024359	host	Deer	Cervus elaphus
+SRR25024357	host	Deer	Cervus elaphus
+SRR25024356	host	Deer	Cervus elaphus
+SRR25024355	host	Deer	Cervus elaphus
+SRR25024354	host	Deer	Cervus elaphus
+SRR25024353	host	Deer	Cervus elaphus
+SRR25024351	host	Deer	Cervus elaphus
+SRR25024350	host	Deer	Cervus elaphus
+SRR25024349	host	Deer	Cervus elaphus
+SRR25024348	host	Deer	Cervus elaphus
+SRR25024347	host	Deer	Cervus elaphus
+SRR25024346	host	Deer	Cervus elaphus
+DRR263663	host	Cattle	Bos taurus

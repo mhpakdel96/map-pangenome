@@ -1,0 +1,3 @@
+cohort	n_genomes	n_clade_D	clade_D_two_snp_concordance	clade_D_n_called	S_panel_concordance	S_panel_n_called	pct_Americas_in_clade_D	n_Americas_C	pct_Europe_in_clade_D	n_Europe_C	pct_Oceania_in_clade_D	n_Oceania_C
+with flagged genomes	1792	1160	1.0	1792	1.0	1792	96.33	953	15.6	545	94.94	158
+without flagged genomes	1779	1152	1.0	1779	1.0	1779	96.32	950	15.4	539	95.45	154

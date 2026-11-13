@@ -1,0 +1,21 @@
+clusters used: 4813 (>= 250 bp); set aside: 499 short
+
+NEGATIVE control: low- vs high-N50 half WITHIN each study (Fisher, Bonferroni per study); fewer significant genes = better
+study              n    N50 low   N50 high       annotation           dna80         union80
+PRJNA925907      425     102080     118164       7 of 199         6 of 253         0 of 93    
+PRJNA686527      318      65172      83608      26 of 400        24 of 559         8 of 177   
+PRJNA632696      208      58018      86288      25 of 794        55 of 1314       12 of 546   
+PRJNA739165      189      26202      58110      66 of 769       158 of 1280       39 of 455   
+PRJEB43898       154      36811      62763      23 of 668        20 of 1126        5 of 410   
+PRJNA841672      133      12920      36726      93 of 447       137 of 585        34 of 223   
+PRJNA274491       86      26943     106431      37 of 639        64 of 1043       13 of 388   
+PRJNA725521       76      71594      92157       1 of 204         2 of 280         4 of 90    
+TOTAL                                                   278             466             115
+
+POSITIVE control: S (105) vs C (1687) — genes with Bonferroni p < 0.05 and |freq diff| >= 0.5
+  annotation  tested  2152   significant  210   of which |diff| >= 0.5:  162  (S-only/enriched  98, C-only/enriched  64)
+  dna80       tested  3008   significant  197   of which |diff| >= 0.5:  151  (S-only/enriched 100, C-only/enriched  51)
+  union80     tested  1572   significant  145   of which |diff| >= 0.5:  134  (S-only/enriched  94, C-only/enriched  40)
+  overlap annotation vs union80: both 121 | annotation only 41 | union80 only 13
+
+final matrix presence_final.Rtab: 4813 clusters x 1792 genomes | core(>=99%) 4479 | soft 128 | shell 75 | cloud 131

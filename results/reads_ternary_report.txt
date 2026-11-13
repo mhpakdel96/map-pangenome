@@ -1,0 +1,24 @@
+ternary calls: present >= 80.0%, absent < 20.0%, NA in between
+cells: present 97.27%  absent 1.88%  NA 0.84%
+breadth distribution of all cells:
+(-0.1, 0.0]       1.803
+(0.0, 20.0]       0.080
+(20.0, 50.0]      0.220
+(50.0, 80.0]      0.628
+(80.0, 99.9]     23.461
+(99.9, 100.0]    73.808
+NA share per genome: median 0.0056, p95 0.0241; Spearman with depth -0.853
+share of called clusters present, per genome — Spearman: all genes N50 +0.470 depth +0.626 | accessory N50 +0.563 depth +0.719
+categories (frequency over called cells): core 4641, soft_core 35, shell 43, cloud 94, absent 0
+
+negative control within studies (significant / tested); compare 35: union80 115 & 63, binary reads 212 & 260
+study            n         N50 split       depth split
+PRJNA925907    425       3 of 29           4 of 29    
+PRJNA686527    318       2 of 34           2 of 34    
+PRJNA632696    208       3 of 169          3 of 169   
+PRJNA739165    189       3 of 56           4 of 56    
+PRJEB43898     154       8 of 158         14 of 158   
+PRJNA841672    133       1 of 42           4 of 42    
+PRJNA274491     86       3 of 99           3 of 99    
+PRJNA725521     76       0 of 13           0 of 13    
+TOTAL                             23                34

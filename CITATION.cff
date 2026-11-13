@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: >-
+  Pangenome methods for a clonal pathogen: analysis workflow for 1,792
+  Mycobacterium avium subsp. paratuberculosis genomes
+message: >-
+  If you use this software or the curated cohort, please cite both the
+  repository and the associated article.
+type: software
+authors:
+  - given-names: Raana
+    family-names: Tabashiri
+    affiliation: >-
+      Institute of Computational Life Sciences, Zurich University of Applied
+      Sciences (ZHAW), Wadenswil, Switzerland
+  - given-names: Maria
+    family-names: Anisimova
+    affiliation: >-
+      Institute of Computational Life Sciences, Zurich University of Applied
+      Sciences (ZHAW), Wadenswil, Switzerland; Swiss Institute of
+      Bioinformatics, Lausanne, Switzerland
+repository-code: 'https://github.com/mhpakdel96/map-pangenome'
+license: MIT
+keywords:
+  - Mycobacterium avium subsp. paratuberculosis
+  - Johne's disease
+  - pangenome
+  - population genomics
+  - batch effects
+  - SNP typing

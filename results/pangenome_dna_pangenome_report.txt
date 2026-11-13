@@ -1,0 +1,71 @@
+minimap2 2.28-r1209 | identity >= 0.9 | covered >= 0.8 | rep-gap 0.2
+clusters: 6058 | with reference sequence: 6002 | no reference: 56 | in reference only: 0
+redundant fragments (inside a longer cluster): 690
+kept in DNA pangenome: 5312 | flagged dna_below_annotation among kept: 203
+
+gene set / presence call                         core soft_core  shell  cloud  absent  total*
+Panaroo, all clusters (annotation)               4284       120    231   1423       0    6058
+kept clusters, annotation                        4175       105    169    863       0    5312
+kept clusters, DNA                               4188       346    237    199     342    4970
+kept & not flagged, annotation                   4021        82    143    863       0    5109
+kept & not flagged, DNA                          4188       346    207    148     220    4889
+* total excludes 'absent' (cluster present in no genome by that call)
+
+transitions, kept clusters (rows annotation, columns DNA):
+cat_dna    core  soft_core  shell  cloud  absent
+cat_ann                                         
+core       3705        236     94     37     103
+soft_core    22         33     39      8       3
+shell        66         11     66      6      20
+cloud       395         66     38    148     216
+absent        0          0      0      0       0
+
+length of kept clusters by annotation category -> DNA category (median bp):
+                     count  median
+cat_ann   cat_dna                 
+cloud     absent       216   156.0
+          cloud        148   693.0
+          core         395   708.0
+          shell         38   585.0
+          soft_core     66   718.5
+core      absent       103   162.0
+          cloud         37   903.0
+          core        3705   912.0
+          shell         94   858.0
+          soft_core    236  1036.5
+shell     absent        20   162.0
+          cloud          6   472.5
+          core          66   786.0
+          shell         66   877.5
+          soft_core     11   792.0
+soft_core absent         3   156.0
+          cloud          8   513.0
+          core          22  1183.5
+          shell         39   699.0
+          soft_core     33  1086.0
+
+per genome (kept clusters): genes and accessory genes vs assembly quality
+  genes, annotation        Spearman vs N50 -0.828 (p=0.0e+00)   vs contigs +0.830 (p=0.0e+00)
+  genes, DNA               Spearman vs N50 +0.795 (p=0.0e+00)   vs contigs -0.799 (p=0.0e+00)
+  accessory, annotation    Spearman vs N50 -0.847 (p=0.0e+00)   vs contigs +0.848 (p=0.0e+00)
+  accessory, DNA           Spearman vs N50 +0.799 (p=0.0e+00)   vs contigs -0.803 (p=0.0e+00)
+  median per platform (genes ann / DNA | accessory ann / DNA):
+                         n        n50  genes_ann  genes_dna  acc_ann  acc_dna
+plat                                                                         
+NextSeq 1000            11     7056.0     4456.0     4555.0    298.0    407.0
+Illumina HiSeq 1000     42    25280.0     4456.0     4766.0    281.0    578.0
+NextSeq 550              6    25482.0     4417.0     4717.0    242.0    532.0
+NextSeq 500            329    34698.0     4421.0     4725.0    249.0    538.0
+Illumina MiSeq         599    60927.0     4403.0     4744.0    228.0    556.0
+Ion Torrent PGM          2    65344.0     4414.0     4748.0    246.0    562.0
+Illumina HiSeq 2500    324    74210.0     4393.0     4745.0    218.0    558.0
+Illumina NovaSeq 6000  435   113009.0     4390.0     4757.0    215.0    570.0
+Illumina HiSeq 2000      1   118467.0     4390.0     4756.0    215.0    570.0
+assembly                43  4781002.0     4385.0     4738.0    228.0    564.0
+
+pangenome growth, Heaps' law P(n) = k n^gamma (n >= 10), mean of 50 permutations
+  kept, annotation                 gamma = 0.0290   P(n): 1:4410  2:4457  5:4521  10:4591  20:4694  50:4786  100:4882  200:4996  500:5156  1000:5261  1792:5312
+  kept, DNA                        gamma = 0.0052   P(n): 1:4728  2:4775  5:4803  10:4824  20:4863  50:4899  100:4913  200:4923  500:4939  1000:4954  1792:4970
+  kept & not flagged, annotation   gamma = 0.0311   P(n): 1:4210  2:4240  5:4297  10:4368  20:4456  50:4588  100:4678  200:4782  500:4944  1000:5054  1792:5109
+  kept & not flagged, DNA          gamma = 0.0032   P(n): 1:4714  2:4745  5:4771  10:4797  20:4822  50:4845  100:4851  200:4857  500:4867  1000:4878  1792:4889
+  gamma > 0 open, ~0 closed; compare annotation vs DNA on the SAME clusters

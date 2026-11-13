@@ -1,0 +1,1820 @@
+accession	country	host	isolation_source	study_accession	sequencing_model
+SRR13395907	USA	Cattle	Tissue & Gut	PRJNA686527	Illumina HiSeq 2500
+SRR13395853	USA	Cattle	Tissue & Gut	PRJNA686527	Illumina HiSeq 2500
+SRR13395923	USA	Cattle	Tissue & Gut	PRJNA686527	Illumina HiSeq 2500
+SRR11839144	Australia	Sheep	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839143	Australia	Goat	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839141	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839131	Australia	Sheep	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839129	Australia	Sheep	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839128	Australia	Sheep	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839115	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839100	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839099	Australia	Camel	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839098	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839097	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839096	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839095	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839094	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839093	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839082	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839079	Australia	Human	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839060	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839056	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839041	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839037	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839011	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839010	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839009	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839002	Australia	Sheep	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11839001	Australia	Sheep	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11838948	Australia	Human	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11838946	Australia	Cattle	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11838944	Australia	Sheep	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR11838942	Australia	Sheep	Tissue & Gut	PRJNA632696	Illumina MiSeq
+SRR13396015	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395998	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395999	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13396000	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+ERR4560345	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560344	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560343	Italy	Cattle	Feces	PRJEB39713	Illumina NextSeq 550
+ERR4560342	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560341	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560340	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560339	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560337	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560336	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560335	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560334	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560333	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560332	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560331	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560330	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560329	Italy	Cattle	Feces	PRJEB39713	Illumina NextSeq 550
+ERR4560328	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560327	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560326	Italy	Cattle	Feces	PRJEB39713	Illumina NextSeq 550
+ERR4560325	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560324	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560322	Italy	Cattle	Feces	PRJEB39713	Illumina NextSeq 550
+ERR4560320	Italy	Cattle	Feces	PRJEB39713	Illumina NextSeq 550
+ERR4560319	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560318	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560316	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560315	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560314	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560313	Italy	Cattle	Feces	PRJEB39713	Illumina NextSeq 550
+ERR4560311	Italy	Cattle	Feces	PRJEB39713	Illumina NextSeq 550
+ERR4560310	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560309	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560307	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560306	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560305	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560304	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+ERR4560303	Italy	Cattle	Feces	PRJEB39713	Illumina MiSeq
+SRR13395995	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395973	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395962	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395938	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395984	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395845	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395723	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395896	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395892	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395895	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395893	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+GCA_001904595	China	Cattle	Feces		Illumina HiSeq
+GCA_001904575	China	Cattle	Feces		Illumina HiSeq
+SRR14335523	USA	Environment	Farm Environment	PRJNA725521	Illumina MiSeq
+SRR13395941	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13396031	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395844	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395757	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395749	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395733	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395809	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395814	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395792	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395785	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395759	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR14335484	USA	Environment	Farm Environment	PRJNA725521	Illumina MiSeq
+SRR13395870	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395880	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395825	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395752	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395808	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395770	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395763	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395735	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395732	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR14335483	USA	Environment	Farm Environment	PRJNA725521	Illumina MiSeq
+SRR13395881	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395965	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395961	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395849	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395750	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR14335499	USA	Environment	Farm Environment	PRJNA725521	Illumina MiSeq
+SRR13396032	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395790	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395753	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395747	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395731	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13396028	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13396027	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13396007	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13396005	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395983	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395982	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395981	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395976	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395975	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395974	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395972	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395971	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395970	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395969	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395968	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395967	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395963	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395959	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395958	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395957	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395956	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395955	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395954	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395953	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395952	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395948	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395945	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395944	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395943	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395910	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395908	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395906	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395903	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395899	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395824	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395823	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395822	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395821	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395820	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395819	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395818	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395817	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395815	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395802	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395801	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395800	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395799	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395798	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395796	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395795	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395789	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395788	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395787	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395786	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395773	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395771	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395764	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395758	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395756	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395755	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395751	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395746	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395745	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395744	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395743	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395742	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395741	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395740	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395738	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395737	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395736	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395734	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395721	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395720	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395719	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395718	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13396001	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395964	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395960	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395940	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13396017	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395921	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395843	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395859	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395842	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395812	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395791	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395784	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395813	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395793	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395716	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13396030	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13396026	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395878	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395873	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395782	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395837	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395840	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13396019	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13396013	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13396008	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395997	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395993	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395990	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395979	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395977	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395936	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395933	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395914	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395909	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395901	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395898	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395884	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395838	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395832	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395829	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395794	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395783	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395769	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395768	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395767	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395739	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13396014	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13396012	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13396009	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13396004	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395992	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395985	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395947	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395946	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395939	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395934	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395932	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395927	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395888	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395852	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395847	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395841	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395833	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395807	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395797	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395780	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395779	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395777	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395766	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395761	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395729	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395728	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395726	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR14335545	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335544	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335541	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335539	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335538	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335537	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335535	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335532	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335531	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335528	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335524	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335516	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335515	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335513	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335512	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335511	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335509	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335507	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335505	USA	Goat	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335504	USA	Goat	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335500	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335496	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335494	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335490	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335489	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335480	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335478	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR14335472	USA	Cattle	Lymph Node	PRJNA725521	Illumina MiSeq
+SRR13396033	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13396025	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR12237017	Argentina	Cattle	Lymph Node	PRJNA573083	Illumina MiSeq
+GCA_026689315	Canada	Pig	Lymph Node		PacBio
+GCA_000240385	USA	Oryx	Lymph Node	PRJNA72211	Illumina Genome Analyzer II
+SRR13395826	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395867	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395865	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395866	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395864	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395857	USA	Cattle	Lymph Node	PRJNA686527	Illumina HiSeq 2500
+SRR13395834	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395835	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13396016	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13396011	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13396006	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13396003	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395994	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395988	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395986	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395980	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395978	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395937	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395917	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395916	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395915	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395911	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395887	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395886	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395863	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395855	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395846	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395805	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395804	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395775	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395724	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR14335543	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335542	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335540	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335536	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335534	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335533	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335530	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335529	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335527	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335526	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335521	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335520	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335519	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335518	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335514	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335510	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335508	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335503	USA	Goat	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335502	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335495	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335493	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335492	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335491	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335488	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335487	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335486	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335479	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335477	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335476	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335474	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR14335471	USA	Cattle	Ileum	PRJNA725521	Illumina MiSeq
+SRR13396018	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395996	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395991	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395989	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395935	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395912	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395904	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395900	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395856	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395836	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395831	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395806	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395778	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395776	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395765	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395725	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+SRR13395717	USA	Cattle	Ileum	PRJNA686527	Illumina HiSeq 2500
+GCA_000240425	USA	Human	Ileum	PRJNA72215	Illumina Genome Analyzer II
+SRR12237016	Argentina	Cattle	Ileum	PRJNA573083	Illumina MiSeq
+GCA_002211525	Germany	Cattle	Lymph Node		Illumina Genome Analyzer II
+GCA_002232005	Germany	Sheep	Ileum		Illumina Genome Analyzer II
+GCA_000390085		Human	Human Breast Milk	PRJNA168471	454
+SRR13395918	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13396029	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395754	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395748	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+GCA_000216015	Australia	Cattle	Tissue & Gut	PRJNA66639	Illumina Genome Analyzer II
+GCA_000215835	Australia	Sheep	Tissue & Gut	PRJNA66635	Illumina Genome Analyzer II
+GCA_000218155	Australia	Human	Tissue & Gut	PRJNA66653	Illumina Genome Analyzer II
+GCA_000218135	Australia	Human	Tissue & Gut	PRJNA66651	Illumina Genome Analyzer II
+GCA_000218115	Australia	Human	Tissue & Gut	PRJNA66649	Illumina Genome Analyzer II
+GCA_000218095	Australia	Human	Tissue & Gut	PRJNA66647	Illumina Genome Analyzer II
+GCA_000218075	Australia	Human	Tissue & Gut	PRJNA66645	Illumina Genome Analyzer II
+GCA_000218055	Australia	Human	Tissue & Gut	PRJNA66643	Illumina Genome Analyzer II
+GCA_000218035	Australia	Human	Tissue & Gut	PRJNA66641	Illumina Genome Analyzer II
+SRR13395920	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395891	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395869	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395922	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395966	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395858	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR29477257	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477256	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477255	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477254	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477252	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477251	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477250	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477249	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477248	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477247	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477246	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477245	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477244	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477243	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477242	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477241	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477240	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477239	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477238	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477237	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477236	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477235	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477234	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477233	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477232	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477231	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477230	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477229	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477228	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477227	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477226	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477225	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477224	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477223	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477222	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477221	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477220	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477219	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477218	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477217	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477216	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477215	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477214	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477213	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477212	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477211	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477210	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477209	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477208	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477207	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477206	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477205	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477204	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477203	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477202	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477201	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477200	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477199	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477198	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477197	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477196	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477195	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477194	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477193	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477192	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477191	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477190	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477189	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477188	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477187	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477186	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477185	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477184	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477183	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477182	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477181	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477180	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477179	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477178	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477177	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477176	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477175	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477174	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477173	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477172	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477171	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477170	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477169	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477168	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477167	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477166	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477165	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477164	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477163	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477162	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477161	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477160	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477159	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477158	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477157	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477156	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477155	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477154	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477153	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477152	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477151	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477150	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477149	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477148	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477147	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477146	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477145	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477144	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477143	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477142	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477141	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477140	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477139	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477138	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477137	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477136	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477135	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477134	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477133	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477132	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477131	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477130	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477129	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477128	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477127	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477126	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477125	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477124	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477123	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477122	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477121	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477120	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477119	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477118	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477117	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477116	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477115	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477114	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477113	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477112	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477111	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477110	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477109	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477108	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477107	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477106	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477105	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477104	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477103	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477102	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477101	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477100	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477099	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477098	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477097	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477096	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477095	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477094	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477093	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477092	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477091	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477090	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477089	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477088	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477087	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477086	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477085	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477084	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477083	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477082	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477081	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477080	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477079	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477078	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477077	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477076	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477075	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477074	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477073	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477072	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477071	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477070	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477069	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477068	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477067	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477066	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477065	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477064	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477063	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477062	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477061	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477060	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477059	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477058	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477057	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477056	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477055	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477054	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477053	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477052	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477051	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477050	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477049	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477048	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477047	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477046	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477045	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477044	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477042	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477041	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477040	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477039	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477038	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477037	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477036	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477034	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477033	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477032	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477031	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477030	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477029	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477028	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477027	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477026	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477025	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477024	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477023	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477022	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477021	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477020	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477019	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477018	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR29477017	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326312	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326311	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326310	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326309	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326308	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326307	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326306	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326305	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326304	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326303	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326302	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326301	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326300	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326299	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326298	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326297	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326296	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326295	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326294	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326293	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326292	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326291	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326290	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326289	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326288	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326287	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326286	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326285	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326284	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326283	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326282	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326281	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326280	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326279	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326278	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326277	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326276	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326275	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326274	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326273	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326272	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326271	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326270	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326269	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326268	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326267	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326266	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326265	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326264	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326263	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326262	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326261	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326260	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326259	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326258	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326257	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326256	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326255	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326254	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326253	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326252	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326251	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326250	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326249	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326248	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326247	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326246	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326245	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326244	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326243	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326242	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326241	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326240	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326239	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326238	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326237	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326236	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326235	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326234	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326233	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326232	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326231	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326230	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326229	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326228	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326227	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326226	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326225	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326224	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326223	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326221	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326220	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326219	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326218	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326217	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326216	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326215	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326214	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326213	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326212	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326211	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326210	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326209	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326208	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326207	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326206	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326205	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326204	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326203	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326202	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326201	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326200	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326199	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326198	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326197	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326196	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326195	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326194	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326193	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326192	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326191	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326190	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326189	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR24326188	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179856	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179855	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179854	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179853	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179852	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179851	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179850	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179849	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179848	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179847	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179846	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179845	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179844	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179843	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179842	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179841	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179840	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179839	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179838	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179837	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179836	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179835	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179834	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179833	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179832	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179831	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179830	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179829	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179828	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179827	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179826	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179825	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179824	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179823	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179822	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179821	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179820	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179819	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179818	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179817	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179816	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179815	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179814	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179813	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179812	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179811	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179810	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179809	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179808	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179806	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179805	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179804	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179803	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179802	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179801	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179800	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179799	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179798	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179797	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179796	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179794	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179792	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179791	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR23179790	Canada	Cattle	Feces	PRJNA925907	Illumina NovaSeq 6000
+SRR19395035	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395034	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395033	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395032	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395031	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395030	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395029	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395028	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395027	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395026	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395025	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395024	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395023	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395022	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395021	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395020	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395019	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395018	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395017	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395016	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395015	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395014	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395013	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395012	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395011	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395010	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395009	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395008	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395007	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395006	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395005	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395004	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395003	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395002	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395001	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19395000	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394999	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394998	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394997	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394996	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394995	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394994	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394993	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394992	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394991	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394990	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394989	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394988	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394987	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394985	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394984	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394983	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394982	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394981	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394980	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394979	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394978	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394977	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394976	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394975	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394974	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394973	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394972	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394971	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394970	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394969	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394968	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394967	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394966	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394965	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394964	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394963	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394962	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394961	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394960	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394959	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394958	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394957	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394956	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394955	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394954	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394953	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394952	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394951	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394950	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394949	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394948	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394947	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394946	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394945	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394944	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394943	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394942	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394941	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394940	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394939	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394938	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394937	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394936	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394935	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394934	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394933	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394932	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394931	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394930	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394929	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394928	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394927	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394926	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394925	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394924	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394923	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394922	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394921	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394920	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394919	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394918	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394917	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394916	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394915	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394914	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394913	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394912	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394911	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394910	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394909	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394908	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394907	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394906	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394905	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394904	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394903	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394902	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394901	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR19394900	Ireland	Cattle	Feces	PRJNA841672	Illumina NextSeq 500
+SRR18116707	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116705	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116704	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116703	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116702	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116701	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116699	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116698	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116697	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116696	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116695	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116694	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116693	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116692	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116691	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116690	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116688	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116687	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116686	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116685	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116684	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116683	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116682	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116681	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116680	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116679	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116663	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116662	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116661	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116660	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116659	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116657	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116656	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116655	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116654	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116652	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116651	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116650	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116649	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116648	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116647	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR18116646	Australia	Sheep	Feces	PRJNA809746	Illumina HiSeq 1000
+SRR17460194	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460193	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460192	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460191	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460190	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460189	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460188	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460187	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460186	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR17460185	France	Cattle	Feces	PRJNA794728	Illumina MiSeq
+SRR15101044	India	Goat	Feces	PRJNA743192	Illumina HiSeq 2000
+SRR14863475	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863474	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863473	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863472	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863471	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863470	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863468	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863467	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863466	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863465	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863464	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863463	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863462	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863460	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863459	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863458	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863457	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863456	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863455	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863454	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863453	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863451	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863450	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863449	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863448	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863447	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863446	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863445	Ireland	Goat	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863444	Ireland	Goat	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863443	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863442	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863441	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863440	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863438	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863437	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863436	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863435	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863434	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863433	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863432	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863431	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863430	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863429	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863428	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863427	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863426	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863425	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863424	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863423	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863422	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863421	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863420	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863419	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863418	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863417	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863416	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863415	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863414	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863413	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863412	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863411	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863410	Ireland	Goat	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863409	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863408	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863407	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863406	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863405	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863404	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863403	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863402	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863401	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863400	Ireland	Goat	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863399	Ireland	Goat	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863398	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863397	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863396	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863395	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863394	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863393	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863392	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863391	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863390	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863389	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863388	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863387	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863386	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863385	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863384	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863383	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863382	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863381	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863380	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863379	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863378	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863377	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863376	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863375	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863374	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863373	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863372	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863371	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863370	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863368	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863367	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863366	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863365	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863364	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863363	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863362	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863361	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863360	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863359	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863358	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863357	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863356	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863355	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863354	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863353	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863351	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863350	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863349	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863348	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863347	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863346	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863345	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863344	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863343	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863342	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863341	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863340	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863339	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863338	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863337	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863336	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863335	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863334	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863333	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863332	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863331	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863330	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863329	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863328	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863327	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863326	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863325	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863324	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863323	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863322	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863321	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863320	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863319	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863318	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863317	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863316	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863315	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863314	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863313	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863312	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863311	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863310	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863309	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863308	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863307	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863306	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863305	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863304	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863303	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863302	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863301	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863300	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863299	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863298	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863297	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863296	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863295	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863294	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863292	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863291	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863290	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863289	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863288	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863287	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863285	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863284	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863283	Ireland	Microbe	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863282	Ireland	Microbe	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863281	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863280	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14863279	Ireland	Cattle	Feces	PRJNA739165	Illumina NextSeq 500
+SRR14335547	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335546	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335525	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335522	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR13396024	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13396023	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13396022	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13396021	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13396020	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13396002	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395987	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395951	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395950	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395949	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395931	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395930	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395929	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395928	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395926	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395925	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395924	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395905	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395894	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395883	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395876	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395875	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395874	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395872	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395871	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395868	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395862	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395861	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395851	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395848	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395839	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395827	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395816	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395772	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395727	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13214448	Australia	Sheep	Feces	PRJNA682454	Illumina NextSeq 500
+SRR13214447	Australia	Sheep	Feces	PRJNA682454	Illumina NextSeq 500
+SRR13214446	Australia	Sheep	Feces	PRJNA682454	Illumina NextSeq 500
+SRR13214445	Australia	Cattle	Feces	PRJNA682454	Illumina NextSeq 500
+SRR13214444	Australia	Sheep	Feces	PRJNA682454	Illumina NextSeq 500
+SRR13214443	Spain	Sheep	Feces	PRJNA682454	Illumina NextSeq 500
+SRR13214442	Spain	Sheep	Feces	PRJNA682454	Illumina NextSeq 500
+SRR11839147	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839146	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839145	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839142	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839140	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839139	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839138	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839137	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839136	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839135	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839133	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839132	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839130	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839127	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839126	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839125	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839124	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839123	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839122	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839121	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839120	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839119	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839118	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839117	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839116	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839114	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839113	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839112	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839111	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839110	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839109	Australia	Goat	Feces	PRJNA632696	Illumina MiSeq
+SRR11839108	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839107	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839106	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839105	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839103	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839101	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839092	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839091	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839090	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839089	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839088	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839087	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839086	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839085	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839084	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839083	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839081	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839080	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839078	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839077	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839076	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839075	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839074	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839073	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839070	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839069	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839068	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839067	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839066	France	Goat	Feces	PRJNA632696	Illumina MiSeq
+SRR11839065	France	Goat	Feces	PRJNA632696	Illumina MiSeq
+SRR11839064	France	Goat	Feces	PRJNA632696	Illumina MiSeq
+SRR11839063	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839062	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839061	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839059	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839058	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839057	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839055	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839054	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839053	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839052	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839051	France	Goat	Feces	PRJNA632696	Illumina MiSeq
+SRR11839050	France	Goat	Feces	PRJNA632696	Illumina MiSeq
+SRR11839047	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839046	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839044	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839043	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839042	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839040	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839039	Australia	Camel	Feces	PRJNA632696	Illumina MiSeq
+SRR11839036	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839035	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839034	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839033	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839032	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839031	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839030	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839029	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839028	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839027	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839026	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839025	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839024	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839023	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839022	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839021	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839020	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839019	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839018	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839017	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839016	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839015	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839013	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839012	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839008	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839007	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839006	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839005	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839004	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11839003	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11839000	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838999	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838996	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838995	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838994	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838993	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838992	France	Goat	Feces	PRJNA632696	Illumina MiSeq
+SRR11838991	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838990	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838988	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838987	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838986	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838985	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838984	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838983	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838982	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838981	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838980	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838979	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838978	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838977	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838976	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838975	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838974	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838973	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838972	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838971	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838970	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838969	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838968	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838967	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838966	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838965	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838964	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838963	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838962	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838961	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838960	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838959	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838958	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838957	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838956	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838955	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838954	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838953	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838951	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838950	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838949	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838947	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838945	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838943	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838941	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838940	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838939	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838938	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838937	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838935	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838934	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838933	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838932	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838931	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838930	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838929	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838928	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838927	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838926	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838925	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838924	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838923	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838922	Australia	Cattle	Feces	PRJNA632696	Illumina MiSeq
+SRR11838921	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838920	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838919	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+SRR11838918	Australia	Sheep	Feces	PRJNA632696	Illumina MiSeq
+GCA_003713045	South Korea	Cattle	Feces		PacBio
+GCA_002208705	USA	Cattle	Feces		PacBio
+GCA_000835265	Egypt	Cattle	Feces		Illumina HiSeq 2000
+GCA_000835225	Egypt	Cattle	Feces		Illumina HiSeq 2000
+GCA_000504885	USA	Cattle	Feces	PRJNA216931	Ion Torrent PGM
+GCA_000240525	USA	Cattle	Feces	PRJNA71483	Illumina Genome Analyzer II
+GCA_000240445	USA	Deer	Feces	PRJNA72217	Illumina Genome Analyzer II
+GCA_000240405	USA	Goat	Feces	PRJNA72213	Illumina Genome Analyzer II
+GCA_000240365	Saudi Arabia	Camel	Feces	PRJNA76615	Illumina HiSeq 2000
+ERR4388993	Italy	Oryx	Feces	PRJEB38613	Illumina MiSeq
+GCA_021696875	India	Goat	Feces		Illumina HiSeq
+SRR13395913	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395810	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR14335475	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335506	USA	Goat	Feces	PRJNA725521	Illumina MiSeq
+SRR14335498	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335497	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335482	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335481	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335473	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR13396010	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395902	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395897	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395890	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395889	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395885	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395830	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395828	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395803	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395774	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395722	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+SRR13395854	USA	Cattle	Feces	PRJNA686527	Illumina HiSeq 2500
+GCA_041877275	Chile	Cattle	Feces		Illumina NovaSeq
+GCA_041877225	Chile	Cattle	Feces		Illumina NovaSeq
+SRR3050069	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050068	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050064	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050063	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050062	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050061	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050060	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050059	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050056	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050055	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050054	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050053	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050052	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050051	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050048	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050042	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050041	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050037	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050036	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050035	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050026	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050024	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050023	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050021	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050020	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050019	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050018	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050016	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050015	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050013	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050012	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050010	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050009	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050008	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050006	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050005	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050004	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR3050003	Canada	Cattle	Feces	PRJNA306363	Illumina MiSeq
+SRR1793772	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793771	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793770	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793769	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793767	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793766	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793762	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793761	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793760	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793759	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793758	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793757	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793754	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793753	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793752	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793747	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793745	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793744	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793743	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793742	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793741	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793740	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793738	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793737	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793733	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793731	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793730	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793729	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793727	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793726	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793725	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793724	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793723	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793722	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793721	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793720	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793719	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793718	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793717	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793716	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793715	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793714	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793713	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793712	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793711	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793709	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793708	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793707	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793706	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793705	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793704	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793703	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793702	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793701	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793700	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793699	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793698	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793697	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793696	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793691	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793690	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793689	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793688	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793687	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793686	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793685	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793684	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793683	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793681	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793680	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793679	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793678	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793677	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793676	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793675	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793674	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793673	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793672	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793669	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793668	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793667	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793666	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793665	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793664	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793663	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793662	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR1793661	Canada	Cattle	Feces	PRJNA274491	Illumina MiSeq
+SRR14335517	USA	Cattle	Feces	PRJNA725521	Illumina MiSeq
+SRR14335501	USA	Goat	Feces	PRJNA725521	Illumina MiSeq
+ERR6415295	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415294	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415293	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415292	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415291	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415290	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415289	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415288	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415285	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415284	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415283	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415282	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415280	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415279	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415278	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415276	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415275	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415274	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415273	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415272	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415271	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415267	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415266	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415265	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415264	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415263	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415262	France	Cattle	Feces	PRJEB43898	Illumina NovaSeq 6000
+ERR6415256	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415255	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415253	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415249	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415237	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415236	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415235	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415234	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415233	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415232	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415231	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415230	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415229	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415228	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415227	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415226	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415225	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415224	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415223	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415222	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415221	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415220	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415219	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415218	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415217	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415216	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415215	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415214	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415213	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415212	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415211	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415210	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415209	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415208	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415207	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415206	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415205	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415204	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415203	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415202	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415201	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415200	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415199	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415198	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415197	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415196	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415195	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415194	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415192	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415191	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415190	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415189	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415188	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415187	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415186	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415185	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415184	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415183	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415182	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415181	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415180	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415179	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415178	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415177	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415176	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415175	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415174	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415173	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415171	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415169	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415167	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415166	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415165	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415164	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415163	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415162	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415161	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415160	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415159	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415158	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415157	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415156	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415155	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415154	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415153	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415152	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415151	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415150	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415149	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415147	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415146	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415145	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415144	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415143	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415142	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415141	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415140	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415139	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415138	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415137	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415136	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415135	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415134	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415133	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415132	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415131	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415130	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415129	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415127	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415126	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415125	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415124	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415123	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415122	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415121	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415120	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415119	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415118	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415117	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415116	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415115	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415114	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415113	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415112	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415111	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415110	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415109	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+ERR6415108	France	Cattle	Feces	PRJEB43898	Illumina MiSeq
+SRR8177401	Australia	Sheep	Feces	PRJNA504678	Illumina MiSeq
+SRR5204549	Portugal	Goat	Feces	PRJNA368791	Ion Torrent PGM
+SRR5204548	Portugal	Goat	Feces	PRJNA368791	Ion Torrent PGM
+GCA_000240465	USA	Cattle	Feces	PRJNA72219	Illumina Genome Analyzer II
+GCA_013357385	Germany	Cattle	Feces		PacBio
+SRR13395942	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395850	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395811	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395760	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395730	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395919	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395781	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395762	USA	Environment	Farm Environment	PRJNA686527	Illumina HiSeq 2500
+SRR13395882	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395879	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR13395877	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+GCA_000215815	Australia	Human		PRJNA66637	Illumina Genome Analyzer II
+SRR12593860	Argentina	Cattle		PRJNA661552	Illumina MiSeq
+SRR12593859	Argentina	Cattle		PRJNA661552	Illumina MiSeq
+SRR12593858	Argentina	Cattle		PRJNA661552	Illumina MiSeq
+GCA_001653355	India	Cattle			Illumina MiSeq
+SRR13395860	USA	Cattle		PRJNA686527	Illumina HiSeq 2500
+SRR5320599	Canada	Cattle		PRJNA290494	Illumina HiSeq 2500
+SRR5320598	Canada	Cattle		PRJNA290494	Illumina HiSeq 2500
+SRR5320597	Canada	Cattle		PRJNA290494	Illumina HiSeq 2500
+SRR5320596	Canada	Cattle		PRJNA290494	Illumina HiSeq 2500
+SRR5320595	Canada	Cattle		PRJNA290494	Illumina HiSeq 2500
+SRR5320594	Canada	Cattle		PRJNA290494	Illumina HiSeq 2500
+SRR25024359	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024357	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024356	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024355	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024354	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024353	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024351	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024350	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024349	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024348	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024347	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+SRR25024346	Italy	Deer		PRJNA986832	Illumina NextSeq 1000
+GCA_044336345	China	Cattle			PacBio
+GCA_044336315	China	Cattle			PacBio
+GCA_044336305	China	Cattle			PacBio
+GCA_043591295	China	Cattle			PacBio
+GCA_043590545	China	Cattle			PacBio
+GCA_038419985	Russia	Cattle			Illumina NovaSeq
+GCA_034190785	New Zealand	Sheep			PacBio
+GCA_025665475		Goat		PRJNA884360	Illumina Genome Analyzer II
+GCA_016749935	Japan	Cattle			PacBio
+GCA_003816035	South Korea	Cattle			PacBio
+GCA_003815815	South Korea	Cattle			PacBio
+GCA_003815795	South Korea	Cattle			PacBio
+GCA_003713025	South Korea	Cattle			PacBio
+GCA_000504995	USA	Sheep		PRJNA216930	Ion Torrent PGM
+GCA_000504865	USA	Bison		PRJNA216934	Ion Torrent PGM
+GCA_000504845	USA	Cattle		PRJNA216935	Ion Torrent PGM
+GCA_000504785	USA	Cattle		PRJNA216936	Ion Torrent PGM
+GCA_000504725	USA	Sheep		PRJNA216937	Ion Torrent PGM
+GCA_000330785	India	Goat		PRJNA178307	Illumina Genome Analyzer II
+GCA_000240345	Saudi Arabia	Camel		PRJNA68575	Illumina HiSeq 2000
+GCA_000219085	USA	Sheep		PRJNA66075	Illumina MiSeq
+GCA_000007865	USA	Cattle			Illumina MiSeq
+DRR263663	Japan	Cattle		PRJDB10997	Illumina NovaSeq 6000

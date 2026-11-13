@@ -1,0 +1,4 @@
+SRR11839093	not_MAP: no IS900, Mash 0.0128 to K-10, ENA strain 'Avium'
+GCA_000218155.2	file_content_error: FASTA is the Env 210 assembly (WGS AGAO), identical to GCA_000240465.2; ENA GCA_000218155.2 is Pt164 (WGS AFPI)
+GCA_025665475.1	duplicate_strain: ENA strain K-10 (PRJNA884360), re-sequenced reference strain; metadata host Goat incorrect
+GCA_002208705.2	duplicate_strain: FDAARGOS_305 = ATCC BAA-968 (K-10 culture-collection stock); same strain as reference GCA_000007865.1
